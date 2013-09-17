@@ -54,21 +54,21 @@ You can also find valuable information about car ownership in Cars (p. 11), as w
 Disability can be more disastrous financially than death. If you are disabled, you lose your earning power, but you still have living expenses and often huge fees for medical care. Disability insurance helps you replace lost income. Many employers offer some type of disability insurance coverage for employees, or you can get an individual disability insurance policy. There are two types of disability policies: short-term disability (STD) and long-term disability (LTD). Short-term disability policies have a maximum benefit of two years, while long-term disability policies have benefits that can last the rest of your life. When purchasing disability insurance, ask: 
 
 
-*  _How is disability defined?_ Some policies consider you disabled if you are unable to perform the duties of any job. Better plans pay benefits if you are unable to do the usual duties of your own occupation. 
+*  *How is disability defined?* Some policies consider you disabled if you are unable to perform the duties of any job. Better plans pay benefits if you are unable to do the usual duties of your own occupation. 
 
 
-*  _When do benefits begin?_ Most plans have a waiting period after an illness before payments begin. 
+*  *When do benefits begin?* Most plans have a waiting period after an illness before payments begin. 
 
 
 .Insurance Vocabulary
 ****
-__Claim__—a request for your insurance provider to pay for services provided by a medical professional 
+*Claim*—a request for your insurance provider to pay for services provided by a medical professional 
 
-__Co-payment (co-pay)__—the amount, set by your insurer, that you pay when you receive medical service or for a prescription 
+*Co-payment (co-pay)*—the amount, set by your insurer, that you pay when you receive medical service or for a prescription 
 
-__Deductible__—amount you must pay before your insurance company will pay a claim. There are multiple types of deductibles, but in general, a lower deducible will have a higher-cost policy. 
+*Deductible*—amount you must pay before your insurance company will pay a claim. There are multiple types of deductibles, but in general, a lower deducible will have a higher-cost policy. 
 
-__Explanation of benefits (EOB)__—a statement from your health insurance company that shows what  claims it has paid on your behalf
+*Explanation of benefits (EOB)*—a statement from your health insurance company that shows what  claims it has paid on your behalf
 
 
 Visit link:$$http://www.HealthCare.gov$$[www.HealthCare.gov] for more important definitions related to health insurance. 
@@ -78,10 +78,10 @@ Visit link:$$http://www.HealthCare.gov$$[www.HealthCare.gov] for more important 
 
 
 
-*  _How long do benefits last?_ After the waiting period, payments are usually available until you reach age 65, though shorter or longer terms are also available. 
+*  *How long do benefits last?* After the waiting period, payments are usually available until you reach age 65, though shorter or longer terms are also available. 
 
 
-*  _What dollar amount is promised?_ Can benefits be reduced by Social Security disability and workers&rsquo; compensation payments? Are the benefits adjusted for inflation? Will the policy provider continue making contributions to your pension plan so you have retirement benefits when the disability coverage ends? 
+*  *What dollar amount is promised?* Can benefits be reduced by Social Security disability and workers&rsquo; compensation payments? Are the benefits adjusted for inflation? Will the policy provider continue making contributions to your pension plan so you have retirement benefits when the disability coverage ends? 
 
 For more information on disability insurance, visit link:$$http://www.iii.org$$[www.iii.org]. 
 
@@ -132,10 +132,10 @@ image::images/pdf5131_img_23.png[]
 There are also health insurance programs for people who are seniors, disabled, or have low incomes. 
 
 
-*  _Medicaid_ provides health insurance for people with low incomes, children, and pregnant women. Eligibility is determined by your state. 
+*  *Medicaid* provides health insurance for people with low incomes, children, and pregnant women. Eligibility is determined by your state. 
 
 
-*  _Medicare_ provides health insurance for people who are 65 years or older, some younger people with disabilities, and those with kidney failure. 
+*  *Medicare* provides health insurance for people who are 65 years or older, some younger people with disabilities, and those with kidney failure. 
 
 Contact the Centers for Medicare &amp; Medicaid Services  (p. 100) for more information on benefits. 
 
@@ -147,15 +147,15 @@ Most states also offer free or low-cost coverage for children who do not have he
 When purchasing health insurance, your choices typically will fall into one of three categories: 
 
 
-*  _Traditional_ fee-for-service health insurance plans are usually the most expensive choice, but they offer you the most flexibility in choosing health care providers. 
+*  *Traditional* fee-for-service health insurance plans are usually the most expensive choice, but they offer you the most flexibility in choosing health care providers. 
 
 
-*  _Health maintenance organizations (HMOs)_  offer lower co-payments and cover the costs of more preventive care, but your choice of health care providers is limited. The National Committee for Quality Assurance evaluates and accredits HMOs. You can find out whether one is accredited in your state by calling 1-888-275-7585. You can also get this information, as well as report cards on HMOs, by visiting link:$$http://www.ncqa.org$$[www.ncqa.org]. 
+*  *Health maintenance organizations (HMOs)*  offer lower co-payments and cover the costs of more preventive care, but your choice of health care providers is limited. The National Committee for Quality Assurance evaluates and accredits HMOs. You can find out whether one is accredited in your state by calling 1-888-275-7585. You can also get this information, as well as report cards on HMOs, by visiting link:$$http://www.ncqa.org$$[www.ncqa.org]. 
 
 
-*  _Preferred provider organizations (PPOs)_ offer lower co-payments like HMOs, but give you more flexibility in selecting a provider. A PPO gives you a list of providers you can choose from. 
+*  *Preferred provider organizations (PPOs)* offer lower co-payments like HMOs, but give you more flexibility in selecting a provider. A PPO gives you a list of providers you can choose from. 
 
-_WARNING: If you go outside the HMO or PPO network of providers, you may have to pay a portion or all of the cost._ 
+*WARNING: If you go outside the HMO or PPO network of providers, you may have to pay a portion or all of the cost.* 
 
 When choosing among different health care plans, you&rsquo;ll need to read the fine print and ask lots of questions, such as: 
 
@@ -233,44 +233,44 @@ Medical advances have resulted in greater need for nursing home care and assiste
 Here are some questions to ask when considering a separate long-term care insurance policy: 
 
 
-*  _What qualifies you for benefits?_ Some insurers say you must be unable to perform a specific number of the following activities of daily living: eating, walking, getting from bed to a chair, dressing, bathing, using the restroom, and remaining continent. 
+*  *What qualifies you for benefits?* Some insurers say you must be unable to perform a specific number of the following activities of daily living: eating, walking, getting from bed to a chair, dressing, bathing, using the restroom, and remaining continent. 
 
 
-*  _What type of care is covered?_ Does the policy cover nursing home care? What about coverage for assisted-living facilities that provide less client care than a nursing home? If you want to stay in your home, will it pay for care provided by visiting nurses and therapists? What about help with food preparation and housecleaning? 
+*  *What type of care is covered?* Does the policy cover nursing home care? What about coverage for assisted-living facilities that provide less client care than a nursing home? If you want to stay in your home, will it pay for care provided by visiting nurses and therapists? What about help with food preparation and housecleaning? 
 
 
-*  _What will the benefit amount be?_ Most plans are written to provide a specific dollar benefit per day. The benefit for home care is usually about half the nursing home benefit, but some policies pay the same for both forms of care. Other plans pay only for your actual expenses. 
+*  *What will the benefit amount be?* Most plans are written to provide a specific dollar benefit per day. The benefit for home care is usually about half the nursing home benefit, but some policies pay the same for both forms of care. Other plans pay only for your actual expenses. 
 
 
-*  _What is the benefit period?_ It is possible to get a policy with lifetime benefits, but this can be very expensive. Other options for coverage are from one to six years. The average nursing home stay is about 2.5 years. 
+*  *What is the benefit period?* It is possible to get a policy with lifetime benefits, but this can be very expensive. Other options for coverage are from one to six years. The average nursing home stay is about 2.5 years. 
 
 
-*  _Is the benefit adjusted for inflation?_ If you buy a policy before age 60, you face the risk that a fixed daily benefit will not be enough by the time you need it. 
+*  *Is the benefit adjusted for inflation?* If you buy a policy before age 60, you face the risk that a fixed daily benefit will not be enough by the time you need it. 
 
 
-*  _Is there a waiting period before benefits begin?_  A 20- to 100-day period is not unusual. See page 26 for more  information about advance medical directives. 
+*  *Is there a waiting period before benefits begin?*  A 20- to 100-day period is not unusual. See page 26 for more  information about advance medical directives. 
 
 
 === Other Insurance
 
 
-*  _Travel Insurance._ There are four kinds of travel insurance: Travel Cancellation Insurance, Baggage or Personal Effects Coverage, Emergency Medical Coverage, and Accidental Death. To learn more, a helpful website is link:$$http://www.insuremytrip.com$$[www.insuremytrip.com]. See page 49 for additional insight on travel concerns and problems. 
+*  *Travel Insurance.* There are four kinds of travel insurance: Travel Cancellation Insurance, Baggage or Personal Effects Coverage, Emergency Medical Coverage, and Accidental Death. To learn more, a helpful website is link:$$http://www.insuremytrip.com$$[www.insuremytrip.com]. See page 49 for additional insight on travel concerns and problems. 
 
 
-*  _Dental and Vision Insurance._ Some companies that offer health insurance plans may also allow employees to purchase separate dental and vision plans, which are not part of most standard health plans. Contact your state insurance commission (p. 130) or individual insurance companies to find out more about purchasing dental and vision insurance. 
+*  *Dental and Vision Insurance.* Some companies that offer health insurance plans may also allow employees to purchase separate dental and vision plans, which are not part of most standard health plans. Contact your state insurance commission (p. 130) or individual insurance companies to find out more about purchasing dental and vision insurance. 
 
 
-*  _Identity Theft Insurance_. This type of insurance provides reimbursement to crime victims for the cost of restoring their identity and repairing credit reports. Some companies now include this as part of their homeowners insurance policy; others sell it as a standalone policy. Ask your homeowner policy company for information. 
+*  *Identity Theft Insurance*. This type of insurance provides reimbursement to crime victims for the cost of restoring their identity and repairing credit reports. Some companies now include this as part of their homeowners insurance policy; others sell it as a standalone policy. Ask your homeowner policy company for information. 
 
 
-*  _International Health Care Insurance_. A policy that provides health coverage no matter where you are in the world. The policy term is flexible, so you can purchase it only for the time you will be out of the country. Contact your current health care provider for coverage information. 
+*  *International Health Care Insurance*. A policy that provides health coverage no matter where you are in the world. The policy term is flexible, so you can purchase it only for the time you will be out of the country. Contact your current health care provider for coverage information. 
 
 
-*  _Catastrophic Health Care Insurance_. A health plan that only covers certain types of expensive care, like hospitalizations. 
+*  *Catastrophic Health Care Insurance*. A health plan that only covers certain types of expensive care, like hospitalizations. 
 
 
-*  _Liability Insurance_. Insurance for what the policyholder is legally obligated to pay because of bodily injury or property damage caused to another person. Search online or ask your personal insurance agent for more information. 
+*  *Liability Insurance*. Insurance for what the policyholder is legally obligated to pay because of bodily injury or property damage caused to another person. Search online or ask your personal insurance agent for more information. 
 
 
-*  _Umbrella Insurance_. A policy that supplements the insurance you already have for home, auto, and other personal property. Umbrella insurance can help cover costs that exceed the limits of other policies. 
+*  *Umbrella Insurance*. A policy that supplements the insurance you already have for home, auto, and other personal property. Umbrella insurance can help cover costs that exceed the limits of other policies. 
 

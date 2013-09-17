@@ -51,7 +51,7 @@ The CPSC protects the public from unreasonable risks of serious injury or death 
 
 === Department of Agriculture (USDA)
 
-_Center for Nutrition Policy and Promotion (CNPP)_ 
+*Center for Nutrition Policy and Promotion (CNPP)* 
 
 3101 Park Center Dr., 10th Floor Alexandria, VA 22302-1594 703-305-7600 
 
@@ -61,7 +61,7 @@ link:$$http://www.choosemyplate.gov$$[www.choosemyplate.gov] (Dietary Guidelines
 
 The CNPP works to improve the health and well-being of Americans by developing and promoting dietary guidance that links scientific research to the nutrition needs of consumers. 
 
-_Food and Nutrition Service (FNS)_ 
+*Food and Nutrition Service (FNS)* 
 
 3101 Park Center Dr. Alexandria, VA 22302 1-800-424-9121 TTY: 202-690-1202 
 
@@ -69,7 +69,7 @@ link:$$http://www.fns.usda.gov$$[www.fns.usda.gov]
 
 FNS provides children and low-income people access to food, a healthful diet, and nutrition education. The agency works to achieve this goal through several programs, including the Supplemental Nutrition Assistance Program (SNAP), school meals, and Women, Infants and Children (WIC). 
 
-_Meat and Poultry Hotline_ 
+*Meat and Poultry Hotline* 
 
 Food Safety and Inspection Service Toll free: 1-888-674-6854 (10:00 am - 4:00 pm, ET, English and Spanish) TTY: 1-800-256-7072 
 
@@ -79,7 +79,7 @@ link:$$http://www.fsis.usda.gov$$[www.fsis.usda.gov]
 
 This toll free service helps prevent foodborne illness by answering questions about the safe storage, handling, and preparation of meat, poultry, and egg products. 
 
-_National Institute of Food and Agriculture (NIFA)_ 
+*National Institute of Food and Agriculture (NIFA)* 
 
 1400 Independence Ave., SW Mail Stop 2201 Washington, DC 20250-2215 202-720-4423 
 
@@ -92,7 +92,7 @@ NIFA responds to issues that are critical to daily life (health, nutrition, pare
 
 === Department of Commerce (DOC)
 
-_Seafood Inspection Program_ 
+*Seafood Inspection Program* 
 
 National Oceanic and Atmospheric Administration (NOAA) 1315 East West Hwy. Silver Spring, MD 20910 301-713-2355 Toll free: 1-800-422-2750 
 
@@ -102,7 +102,7 @@ link:$$http://www.seafood.nmfs.noaa.gov$$[www.seafood.nmfs.noaa.gov]
 
 NOAA oversees fisheries management in the United States and provides a voluntary inspection service to the industry. The NOAA Seafood Inspection Program offers product quality evaluation, grading, and certification services. NOAA provides official marks to eligible products, such as U.S. Grade A, Processed Under Federal Inspection (PUFI), and Lot Inspection. 
 
-_United States Patent and Trademark Office (USPTO)_ 
+*United States Patent and Trademark Office (USPTO)* 
 
 PO Box 1450 Alexandria, VA 22313-1450 Toll free: 1-800-786-9199 TTY: 571-272-9950 
 
@@ -112,7 +112,7 @@ link:$$http://www.uspto.gov$$[www.uspto.gov]
 
 The USPTO grants patents for intellectual property and trademarks for brand names and symbols, protecting the rights of inventors and designers. 
 
-_Weights and Measures Division (WMD)_ 
+*Weights and Measures Division (WMD)* 
 
 Public Inquiries Unit National Institute of Standards and Technology 100 Bureau Dr., Stop 2600 Gaithersburg, MD 20899-2600 301-975-4004 
 
@@ -125,7 +125,7 @@ The WMD promotes uniformity in U.S. weights and measures laws, regulations, and 
 
 === Department of Education (ED)
 
-_The Education Publications Center (EDPUBS)_ 
+*The Education Publications Center (EDPUBS)* 
 
 PO Box 22207 Alexandria, VA 22304 Toll free: 1-877-433-7827 (9:00 am - 6:00 pm, ET, English and Spanish) TTY: 1-877-576-7734 
 
@@ -135,7 +135,7 @@ link:$$http://www.edpubs.gov$$[www.edpubs.gov]
 
 This office helps consumers identify and order free publications and resources from the U.S. Department of Education. 
 
-_Federal Student Aid Information Center_ 
+*Federal Student Aid Information Center* 
 
 PO Box 84 Washington, DC 20044-0084 319-337-5665 Toll free: 1-800-433-3243 (English and Spanish) TTY: 1-800-730-8913 (English and Spanish) 
 
@@ -145,7 +145,7 @@ link:$$http://www.studentaid.ed.gov$$[www.studentaid.ed.gov]
 
 Federal Student Aid provides over $150 billion in grants, work-study, and federal loans for students attending career and trade schools, community colleges, and four-year colleges or universities. Visit the website to learn about planning and paying for your postsecondary education and to apply for federal student aid. The website also provides federal student loan information such as descriptions of repayment plans and actions to take if you are having trouble making loan payments. 
 
-_Office for Civil Rights (OCR)_ 
+*Office for Civil Rights (OCR)* 
 
 400 Maryland Ave., SW Washington, DC 20202-1100 202-245-6700 Toll free: 1-800-421-3481 TTY: 1-877-521-2172 
 
@@ -155,7 +155,7 @@ link:$$http://www.ed.gov/ocr$$[www.ed.gov/ocr]
 
 This office works to ensure equal access to education and resolve complaints of discrimination. 
 
-_Office of Postsecondary Education (OPE)_ 
+*Office of Postsecondary Education (OPE)* 
 
 1990 K St., NW Washington, DC 20006 202-502-7750 
 
@@ -165,7 +165,7 @@ link:$$http://www.ope.ed.gov/accreditation$$[www.ope.ed.gov/accreditation] (Sear
 
 OPE develops programs to increase access to postsecondary education. This office works with state accreditation agencies to recognize institutions of higher learning that provide quality education. 
 
-_Office of Special Education and Rehabilitative Services (OSERS)_ 
+*Office of Special Education and Rehabilitative Services (OSERS)* 
 
 400 Maryland Ave., SW Washington, DC 20202-7100 202-245-7468 Toll free: 1-800-872-5327 (English and Spanish) TTY: 202-205-4208 
 
@@ -179,7 +179,7 @@ link:$$$$[www.ed.gov/about/offices/list/osers/nidrr/index.html] (National Instit
 
 OSERS provides support to parents and individuals, school districts and states in three main areas: special education, vocational rehabilitation, and research. 
 
-_Office of Vocational and Adult Education (OVAE)_ 
+*Office of Vocational and Adult Education (OVAE)* 
 
 400 Maryland Ave., SW Washington, DC 20202-7100 202-245-7700 Toll free: 1-800-872-5327 (English and Spanish) 
 
@@ -192,7 +192,7 @@ OVAE administers and coordinates programs that are related to adult education an
 
 === Department of Energy (DOE)
 
-_Public Affairs_ 
+*Public Affairs* 
 
 1000 Independence Ave., SW Washington, DC 20585 202-586-5575 Toll free: 1-800-342-5363 TTY: 1-800-877-8339 
 
@@ -200,7 +200,7 @@ link:$$http://www.doe.gov$$[www.doe.gov]
 
 link:$$http://www.energy.gov/public-services$$[www.energy.gov/public-services] 
 
-_Energy Efficiency and Renewable Energy (EERE)_ 
+*Energy Efficiency and Renewable Energy (EERE)* 
 
 Office of the Assistant Secretary Mail Stop EE-1 Department of Energy Washington, DC 20585 202-586-9220 
 
@@ -213,7 +213,7 @@ EERE provides tips and information on products, services, rebates, and tax credi
 
 === Department of Health and Human Services (HHS)
 
-_AIDS.gov_ 
+*AIDS.gov* 
 
 Room 443H Washington, DC 20201 Toll free: 1-800-448-0440 
 
@@ -223,7 +223,7 @@ link:$$http://www.aids.gov$$[www.aids.gov]
 
 AIDS.gov works to increase HIV testing and care for people at-risk or living with HIV. 
 
-_Health Resources and Services Administration (HRSA)_ 
+*Health Resources and Services Administration (HRSA)* 
 
 5600 Fishers Ln.  Rockville, MD 20857  Toll free: 1-888-275-4772 (8:30 am - 5:00 pm, ET)  TTY: 1-877-489-4772 (8:30 am - 5:00 pm, ET) 
 
@@ -233,7 +233,7 @@ link:$$findahealthcenter.hrsa.gov/Search_HCC.aspx$$[findahealthcenter.hrsa.gov/S
 
 HRSA is responsible for improving access to health care  services for people that are uninsured and medically  vulnerable. 
 
-_HHS-TIPS Fraud Hotline_ 
+*HHS-TIPS Fraud Hotline* 
 
 Office of Inspector General Attn: Hotline PO Box 23489 Washington, DC 20026 Toll free: 1-800-447-8477 TTY: 1-800-377-4950 
 
@@ -243,7 +243,7 @@ link:$$http:Stopmedicarefraud.gov$$[Stopmedicarefraud.gov] (Report Medicare Frau
 
 The Office of Inspector General (OIG) protects the integrity of HHS programs, as well as the health and welfare of the beneficiaries of those programs. 
 
-_National Health Information Center_ 
+*National Health Information Center* 
 
 PO Box 1133 Washington, DC 20013-1133 301-565-4167 Toll free: 1-800-336-4797 
 
@@ -257,7 +257,7 @@ link:$$http://www.healthfinder.gov/espanol$$[www.healthfinder.gov/espanol] (in S
 
 NHIC is a health information referral service that links consumers and health professionals with organizations best able to provide answers to their health-related questions. 
 
-_Office for Civil Rights (OCR)_ 
+*Office for Civil Rights (OCR)* 
 
 200 Independence Ave., SW Room 509F, HHH Building Washington, DC 20201 Toll free: 1-800-368-1019 TTY: 1-800-537-7697 
 
@@ -267,7 +267,7 @@ link:$$http://www.dhhs.gov/ocr$$[www.dhhs.gov/ocr]
 
 OCR helps protect people from discrimination in certain health care and social service programs. 
 
-_Substance Abuse and Mental Health Services Administration (SAMHSA)_ 
+*Substance Abuse and Mental Health Services Administration (SAMHSA)* 
 
 PO Box 2345 Rockville, MD 20847-2345 Toll free: 1-877-726-4727 Toll free: 1-800-662-4357 (Treatment referral hotline) TTY: 1-800-487-4889 
 
@@ -286,7 +286,7 @@ link:$$http://www.acf.hhs.gov$$[www.acf.hhs.gov]
 
 The ACF funds state, territory, local, and tribal organizations to provide family assistance (welfare), child support, child care, Head Start, child welfare, and other programs relating to children and families. 
 
-_Child Welfare Information Gateway_ 
+*Child Welfare Information Gateway* 
 
 Administration for Children &amp; Families (ACF) Children&rsquo;s Bureau / ACYF 1250 Mayland Ave., SW, 8th Floor Washington, DC 20024 Toll free: 1-800-394-3366 (8:30 am - 5:30 pm, ET) 
 
@@ -296,7 +296,7 @@ link:$$http://www.childwelfare.gov$$[www.childwelfare.gov]
 
 Child Welfare Information Gateway connects child welfare and related professionals to comprehensive information and resources to help protect children and strengthen families. 
 
-_Childcare.gov_ 
+*Childcare.gov* 
 
 Administration for Children &amp; Families 370 L&rsquo;Enfant Promenade, SW Washington, DC 20447 
 
@@ -304,7 +304,7 @@ link:$$http://childcare.gov$$[www.childcare.gov]
 
 Childcare.gov is a comprehensive website designed to link parents, child care providers, and the general public to government sponsored child care and early learning information. 
 
-_National Runaway Switchboard (NRS)_ 
+*National Runaway Switchboard (NRS)* 
 
 Administration for Children &amp; Families (ACF)  3080 N. Lincoln Ave.  Chicago, IL 60657  773-880-9860  Toll free: 1-800-786-2929 (24 hrs./7 days a week) 
 
@@ -314,7 +314,7 @@ link:$$http://www.1800runaway.org$$[www.1800runaway.org]
 
 NRS helps keep America&rsquo;s runaway and at-risk youth safe and off the streets. The organization serves as the federally designated national communication system for runaway and homeless youth. 
 
-_Office of Child Support Enforcement (OCSE)_ 
+*Office of Child Support Enforcement (OCSE)* 
 
 Administration for Children &amp; Families (ACF) 370 L&rsquo;Enfant Promenade, SW Washington, DC 20447 202-401-9373 
 
@@ -325,7 +325,7 @@ The OCSE assures that assistance in obtaining support (both financial and medica
 
 ==== Administration for Community Living (ACL)
 
-_Administration on Aging (AoA)_ 
+*Administration on Aging (AoA)* 
 
 One Massachusetts Ave., NW Washington, DC 20001 202-619-0724 
 
@@ -335,7 +335,7 @@ link:$$http://www.aoa.gov$$[www.aoa.gov]
 
 AoA is the federal focal point and advocate agency for older persons and their concerns. In this role, AoA works to heighten awareness among other federal agencies, organizations, groups, and the public about the valuable contributions that older Americans make to the nation. AoA also alerts others to the needs of vulnerable older people. Through information, referral and outreach efforts at the community level, AoA educates older people and their caregivers about the benefits and services available to help them. 
 
-_Eldercare Locator_ 
+*Eldercare Locator* 
 
 Administration on Aging (AoA)  Toll free: 1-800-677-1116 (M-F, 9:00 am - 8:00 pm, ET)  TTY: 1-800-677-1116 
 
@@ -358,7 +358,7 @@ link:$$http://www.cdc.gov/spanish$$[www.cdc.gov/spanish] (in Spanish)
 
 CDC collaborates to create the expertise, information, and tools that people and communities need to protect their health through health promotion, prevention of disease, injury and disability, and preparedness for new health threats. 
 
-_CDC National STD Hotline_ 
+*CDC National STD Hotline* 
 
 Toll free: 1-800-232-4636 (24 hrs./7 days a week,  in English and Spanish)  TTY: 1-888-232-6348 (in English and Spanish) 
 
@@ -368,7 +368,7 @@ link:$$www.cdc.gov/std$$[www.cdc.gov/std]
 
 link:$$http://www.cdc.gov/std/Spanish$$[www.cdc.gov/std/Spanish] (in Spanish) 
 
-_HIV/AIDS Prevention_ 
+*HIV/AIDS Prevention* 
 
 Toll free: 1-800-232-4636 (24 hrs./7 days a week,  in English and Spanish)  TTY: 1-888-232-6348 
 
@@ -387,7 +387,7 @@ Office of External Affairs 7500 Security Blvd. Baltimore, MD 21244-1850 TTY: 1-8
 
 link:$$http://www.cms.gov$$[www.cms.gov] 
 
-_Center for Medicaid and CHIP Services (CMCS)_ 
+*Center for Medicaid and CHIP Services (CMCS)* 
 
 Toll free: 1- 877-267-2323 
 
@@ -397,7 +397,7 @@ link:$$http://www.insurekidsnow.gov$$[www.insurekidsnow.gov]
 
 CMCS is the federal agency responsible for Medicaid and Child Health Insurance Programs (CHIP). Medicaid and CHIP provide health insurance for people with lower incomes, disabilities, children, pregnant women, and the elderly. Eligibility is determined by each state. Visit link:$$http:Medicaid.gov$$[Medicaid.gov] to find the requirements in your state. 
 
-_Medicare Service Center_ 
+*Medicare Service Center* 
 
 Toll free: 1-800-633-4227 Toll free: 1-800-447-8477 (Medicare Fraud Hotline) TTY: 1-877-486-2048 
 
@@ -416,7 +416,7 @@ link:$$http://www.fda.gov$$[www.fda.gov]
 
 The FDA is responsible for protecting the public&rsquo;s health by assuring the safety, efficacy, and security of human and veterinary drugs, biological products, medical devices, our nation&rsquo;s food supply, cosmetics, and products that emit radiation. The FDA also provides accurate, science-based health information to the public. 
 
-_Center for Food Safety and Applied Nutrition Information Line (CFSAN)_ 
+*Center for Food Safety and Applied Nutrition Information Line (CFSAN)* 
 
 Food and Drug Administration (FDA)  Outreach and Information Center  10903 New Hampshire Ave.  Silver Spring, MD 20993-0002  Toll free: 1-888-723-3366 (M-F, 10:00 am - 4:00 pm, ET) 
 
@@ -431,9 +431,9 @@ The CFSAN Information Line is a general information line for questions pertainin
 
 pass:[<email>NIHinfo@od.nih.gov</email>] 
 
-_www.nih.gov link:$$http://www.salud.nih.gov$$[www.salud.nih.gov]_ (in Spanish) The National Institutes of Health (NIH) is the primary federal agency responsible for conducting and supporting medical research. 
+*www.nih.gov link:$$http://www.salud.nih.gov$$[www.salud.nih.gov]* (in Spanish) The National Institutes of Health (NIH) is the primary federal agency responsible for conducting and supporting medical research. 
 
-_AIDSinfo_ 
+*AIDSinfo* 
 
 National Institutes of Health (NIH) PO Box 6303 Rockville, MD 20849-6303 301-315-2816 Toll free: 1-800-448-0440 (12:00 pm - 5:00 pm, ET, English and Spanish) TTY: 1-888-480-3739 
 
@@ -447,7 +447,7 @@ link:$$http://www.aidsinfo.nih.gov/LiveHelp/default.aspx$$[www.aidsinfo.nih.gov/
 
 AIDSinfo offers the latest federally approved information on HIV/AIDS clinical research, treatment and prevention,  and medical practice guidelines for people living with  HIV/AIDS, their families and friends, health care providers,  scientists, and researchers. 
 
-_National Cancer Institute (NCI)_ 
+*National Cancer Institute (NCI)* 
 
 National Institutes of Health NCI Office of Communications and Education 6116 Executive Blvd., Suite 300 Bethesda, MD 20892-8322 Toll free: 1-800-422-6237 (M-F, 8:00 am - 8:00 pm ET, English and Spanish) 
 
@@ -459,7 +459,7 @@ link:$$http://www.cancer.gov/espanol$$[www.cancer.gov/espanol] (in Spanish)
 
 NCI coordinates the National Cancer Program, which conducts and supports research, training, health information dissemination, and other programs with respect to the cause, diagnosis, prevention, and treatment of cancer, rehabilitation from cancer, and the continuing care of cancer patients and the families of cancer patients. 
 
-_National Institute of Allergy and Infectious Diseases (NIAID)_ 
+*National Institute of Allergy and Infectious Diseases (NIAID)* 
 
 6610 Rockledge Dr. MSC 6612 Bethesda, MD 20892-6612 301-496-5717 Toll free: 1-866-284-4107 TTY: 1-800-877-8339 
 
@@ -469,7 +469,7 @@ link:$$http://www.niaid.nih.gov$$[www.niaid.nih.gov]
 
 NIAID provides health information on allergic, infectious, and immunologic diseases. Diseases include food allergy, sinusitis, and genital herpes. Consumers can call or write to the institute with questions and can order publications over the phone or on the website. 
 
-_National Institute of Mental Health (NIMH)_ 
+*National Institute of Mental Health (NIMH)* 
 
 National Institutes of Health (NIH) 6001 Executive Blvd. Room 8184, MSC 9663 Bethesda, MD 20892-9663 301-443-4513 Toll free: 1-866-615-6464 TTY: 301-443-8431, 1-866-415-8051 
 
@@ -488,7 +488,7 @@ link:$$http://www.dhs.gov$$[www.dhs.gov]
 
 The mission of DHS is to ensure a homeland that is safe, secure, and resilient against terrorism and other hazards. 
 
-_Transportation Security Administration (TSA)_ 
+*Transportation Security Administration (TSA)* 
 
 601 S. 12th St. Arlington, VA 20598-6002 Toll free: 1-866-289-9673 
 
@@ -498,7 +498,7 @@ link:$$http://www.tsa.gov$$[www.tsa.gov]
 
 The TSA can assist you with questions or concerns about travel tips, permitted and prohibited items, and information on filing a claim for items that were damaged or lost during a TSA screening. 
 
-_U.S. Citizenship and Immigration Services (USCIS)_ 
+*U.S. Citizenship and Immigration Services (USCIS)* 
 
 Information and Customer Service Division 111 Massachusetts Ave., NW Mail Stop 2260 Washington, DC 20529-2260 Toll free: 1-800-375-5283 (National Customer Service Center, M-F, 8:00 am - 8:00 pm, ET) TTY: 1-800-767-1833 
 
@@ -508,7 +508,7 @@ link:$$http://www.uscis.gov/portal/site/uscis-es$$[www.uscis.gov/portal/site/usc
 
 The USCIS is responsible for processing immigration and naturalization applications and establishing policies regarding immigration services. 
 
-_U.S. Customs and Border Protection_ 
+*U.S. Customs and Border Protection* 
 
 1300 Pennsylvania Ave., NW Washington, DC 20229 703-526-4200 Toll free: 1-877-227-5511 (General inquiries, M-F, 8:30 am - 5:00 pm, ET) TTY: 1-866-880-6582 
 
@@ -533,7 +533,7 @@ link:$$http://www.disasterassistance.gov$$[www.disasterassistance.gov] (Disaster
 
 FEMA supports citizens and emergency personnel to build, sustain, and improve the nation&rsquo;s capability to prepare for, protect against, respond to, recover from, and mitigate all hazards. 
 
-_FEMA Disaster Assistance_ 
+*FEMA Disaster Assistance* 
 
 PO Box 10055 Hyattsville, MD 20782-8055 Toll free: 1-800-621-3362 TTY: 1-800-462-7585 
 
@@ -543,7 +543,7 @@ link:$$http://www.disasterassistance.gov$$[www.disasterassistance.gov]
 
 FEMA Disaster Assistance provides information about how you can get help before, during, or after a disaster and apply for assistance from the federal government. This office also provides information to help you prepare for, respond to, and recover from disasters. 
 
-_National Flood Insurance Program (NFIP)_ 
+*National Flood Insurance Program (NFIP)* 
 
 Federal Emergency Management Agency 500 C St., SW Washington, DC 20472 Toll free: 1-888-379-9531 TTY: 1-800-427-5593 
 
@@ -556,7 +556,7 @@ NFIP provides a means for property owners to financially protect themselves. The
 
 === Department of Housing and Urban Development (HUD)
 
-_Office of Fair Housing and Equal Opportunity (FHEO)_ 
+*Office of Fair Housing and Equal Opportunity (FHEO)* 
 
 451 7th St., SW, Room 5204 Washington, DC 20410-2000 202-708-4252 Toll free: 1-800-669-9777 (Complaints Hotline, English and Spanish) TTY: 1-800-927-9275 
 
@@ -575,7 +575,7 @@ link:$$portal.hud.gov/portal/page/portal/HUD/program_%20offices/housing$$[portal
 
 The Department of Housing provides public services through its nationally administered programs. It oversees the Federal Housing Administration mortgage insurance program and regulates the housing industry business. This division oversees single family and multifamily housing, helping qualified consumers find public housing, or buy a home. 
 
-_Federal Housing Administration (FHA)_ 
+*Federal Housing Administration (FHA)* 
 
 451 7th St., SW Washington, DC 20410 Toll free: 1-800-225-5342 (English and Spanish) TTY: 1-877-833-2483 
 
@@ -585,7 +585,7 @@ link:$$portal.hud.gov/hudportal/HUD?src=/federal_%20housing_administration$$[por
 
 FHA provides mortgage insurance on single-family, multifamily, and manufactured homes made by FHA-approved lenders throughout the United States and its territories. 
 
-_Interstate Land Sales Division_ 
+*Interstate Land Sales Division* 
 
 451 7th St., SW, Room 9154 Washington, DC 20410 202-708-0502 TTY: 202-708-1455 
 
@@ -593,7 +593,7 @@ link:$$http://www.hud.gov/offices/hsg/sfh/ils/ilshome.cfm$$[www.hud.gov/offices/
 
 The Interstate Land Sales program protects consumers from fraud and abuse when buying or selling land from developers. 
 
-_Office of Manufactured Housing Programs_ 
+*Office of Manufactured Housing Programs* 
 
 Office of Deputy Assistant Secretary for Regulatory Affairs and Manufactured Housing 451 7th St., SW, Room 9164 Washington, DC 20410-8000 202-708-1112 Toll free: 1-800-927-2891 (English and Spanish) TTY: 202-708-1455 
 
@@ -606,7 +606,7 @@ The Manufactured Housing Program is a consumer protection program that regulates
 
 === Department of the Interior (DOI)
 
-_Fish and Wildlife Service_ 
+*Fish and Wildlife Service* 
 
 1849 C St., NW Mail Stop 3351 Washington, DC 20240 Toll free: 1-800-344-9453 
 
@@ -614,7 +614,7 @@ link:$$http://www.fws.gov$$[www.fws.gov]
 
 The Fish and Wildlife Service works to conserve, protect, and enhance fish, wildlife and plants and their habitats. 
 
-_National Park Service (NPS)_ 
+*National Park Service (NPS)* 
 
 1849 C St., NW Room 7012 Washington, DC 20240 202-208-3818 
 
@@ -627,7 +627,7 @@ NPS preserves the nation&rsquo;s national parks and historic landmarks so that i
 
 === Department of Justice (DOJ)
 
-_Americans with Disabilities Act (ADA) Information Line_ 
+*Americans with Disabilities Act (ADA) Information Line* 
 
 950 Pennsylvania Ave., NW Disability Rights Section-NYAV Washington, DC 20530 Toll free: 1-800-514-0301 (M-W and F, 10:30 am - 4:30 pm, ET, Th, 12:30 pm - 4:30 pm, ET) TTY: 1-800-514-0383 
 
@@ -635,7 +635,7 @@ link:$$http://www.ada.gov$$[www.ada.gov]
 
 This service permits businesses, state and local governments, or others to call and ask questions about general or specific ADA requirements including questions about the ADA Standards for Accessible Design. 
 
-_U.S. Trustee Program_ 
+*U.S. Trustee Program* 
 
 Executive Offices for U.S. Trustees 20 Massachusetts Ave., NW, Suite 8000 Washington, DC 20530 202-307-1399 
 
@@ -650,7 +650,7 @@ The Trustee Program protects the integrity of the Federal bankruptcy system. The
 
 === Department of Labor (DOL)
 
-_Employee Benefits Security Administration (EBSA)_ 
+*Employee Benefits Security Administration (EBSA)* 
 
 Office of Participant Assistance Department of Labor, Room N5623 200 Constitution Ave., NW Washington, DC 20210 Toll free: 1-866-444-3272 TTY: 1-877-889-5627 
 
@@ -658,7 +658,7 @@ link:$$http://www.dol.gov/ebsa$$[www.dol.gov/ebsa]
 
 EBSA provides information and assistance on private sector, employer-sponsored retirement benefit and health benefit plans. The agency educates plan participants, beneficiaries, and sponsors to ensure that they have access to documents related to their benefit plan. 
 
-_Job Corps_ 
+*Job Corps* 
 
 200 Constitution Ave., NW, Suite N4463 Washington, DC 20210 202-693-3000 Toll free: 1-800-733-5627 TTY: 1-877-889-5627 
 
@@ -668,7 +668,7 @@ link:$$http://www.jobcorps.gov$$[www.jobcorps.gov]
 
 Job Corps is a no-cost education and vocational training program that helps young people (ages 16 to 24) improve the quality of their lives through vocational and academic training. 
 
-_National Contact Center_ 
+*National Contact Center* 
 
 Toll free: 1-866-487-2365 TTY: 1-877-889-5627 
 
@@ -676,7 +676,7 @@ link:$$http://www.dol.gov$$[www.dol.gov]
 
 The Department of Labor National Contact Center provides employees and employers a reliable resource to receive consistent, accurate, and current information assistance for all DOL programs. 
 
-_Occupational Safety and Health Administration (OSHA)_ 
+*Occupational Safety and Health Administration (OSHA)* 
 
 U.S. Department of Labor 200 Constitution Ave., NW Washington, DC 20210 Toll free: 1-800-321-6742 TTY: 1-877-889-5627 
 
@@ -684,7 +684,7 @@ link:$$http://www.osha.gov$$[www.osha.gov]
 
 OSHA ensures safe and healthful working conditions by setting and enforcing standards and by providing training, outreach, education, and assistance. 
 
-_Office of Disability Employment Policy (ODEP)_ 
+*Office of Disability Employment Policy (ODEP)* 
 
 200 Constitution Ave., NW, Room S1303 Washington, DC 20210 202-693-7880 Toll free: 1-866-633-7365 TTY: 202-693-7881, 1-877-889-5627 
 
@@ -694,7 +694,7 @@ link:$$http://www.disability.gov$$[www.disability.gov] (Portal for disability pr
 
 ODEP works to create policies to ensure that people with disabilities are fully integrated in the workforce. 
 
-_Veteran&rsquo;s Employment and Training Service (VETS)_ 
+*Veteran&rsquo;s Employment and Training Service (VETS)* 
 
 Department of Labor, Room S1325 200 Constitution Ave., NW Washington, DC 20210 Toll free: 1-866-487-2365 TTY: 1-877-889-5627 
 
@@ -707,7 +707,7 @@ VETS provides resources to prepare and assist veterans obtain meaningful careers
 
 === Department of State (DOS)
 
-_National Passport Information Center (NPIC)_ 
+*National Passport Information Center (NPIC)* 
 
 Toll free: 1-877-487-2778 (M-F, 8:00 am - 10:00 pm, ET) TTY: 1-888-874-7793 
 
@@ -717,7 +717,7 @@ link:$$travel.state.gov/passport$$[travel.state.gov/passport]
 
 Contact the NPIC for information on U.S. passports, including the status of pending applications, as well as the locations of the over 9,400 passport acceptance facilities. 
 
-_Overseas Citizens Services_ 
+*Overseas Citizens Services* 
 
 Bureau of Consular Affairs 2201 C St., NW Washington, DC 20520 202-501-4444 (from overseas, M-F, 8:00 am - 8:00 pm, ET) 202-647-4000 (After hours emergencies, Sundays, and holidays. Ask for the duty officer) Toll free: 1-888-407-4747 (Emergencies and non-emergencies, M-F, 8:00 am - 8:00 pm, ET, except federal holidays) 
 
@@ -725,7 +725,7 @@ link:$$travel.state.gov/travel$$[travel.state.gov/travel]
 
 Contact the State Department for help with emergencies and non-emergencies affecting private Americans abroad. This office can also assist with sending money through US embassies to friends and family overseas that have emergencies while abroad. 
 
-_Visa Services_ 
+*Visa Services* 
 
 Washington, DC 20520  202-663-1225 (M-F, 8:30 am - 5:00 pm, ET)  202-647-1512 (Emergency after hours) 
 
@@ -738,7 +738,7 @@ Contact Visa Services for information on U.S. visas for foreigners.
 
 === Department of Transportation (DOT)
 
-_Aviation Consumer Protection Division (ACPD)_ 
+*Aviation Consumer Protection Division (ACPD)* 
 
 Office of Aviation Enforcement and Proceedings 1200 New Jersey Ave., SE Washington, DC 20590 202-366-2220 (Airline Service Complaints) Toll free: 1-800-778-4838 (Air travelers with disabilities hotline) TTY: 1-800-455-9880 
 
@@ -750,7 +750,7 @@ link:$$http://airconsumer.ost.dot.gov/spanish/index.cfm$$[airconsumer.ost.dot.go
 
 The ACPD receives complaints from members of the public regarding air travel consumer issues. It verifies compliance with the Department&rsquo;s aviation consumer protection requirements and provides guidance to the industry and members of the public on consumer protection matters. 
 
-_Federal Aviation Administration (FAA)_ 
+*Federal Aviation Administration (FAA)* 
 
 800 Independence Ave., SW Washington, DC 20591 202-366-4000 Toll free: 1-866-835-5322 
 
@@ -758,7 +758,7 @@ link:$$http://www.faa.gov$$[www.faa.gov]
 
 The FAA works to ensure that all air travel is safe. 
 
-_Federal Motor Carrier Safety Administration (FMCSA)_ 
+*Federal Motor Carrier Safety Administration (FMCSA)* 
 
 1200 New Jersey Ave., SE Suite W60-300 Washington, DC 20590 202-366-2519 Toll free: 1-800-832-5660 (Information Line) TTY: 1-800-877-8339 
 
@@ -768,7 +768,7 @@ link:$$http://www.protectyourmove.gov$$[www.protectyourmove.gov] (Interstate mov
 
 The FMCSA provides information about your rights when moving across state lines (interstate moves). Consumers should submit household goods commercial complaints or dangerous safety violations involving a commercial truck or passenger bus to this agency. 
 
-_National Highway Traffic Safety Administration (NHTSA)_ 
+*National Highway Traffic Safety Administration (NHTSA)* 
 
 1200 New Jersey Ave., SE West Building Washington, DC 20590 Toll free: 1-888-327-4236 (Vehicle Safety Hotline) TTY: 1-800-424-9153 
 
@@ -783,7 +783,7 @@ NHTSA wants to hear from consumers regarding potential defects in their cars. NH
 
 === Department of the Treasury
 
-_Bureau of the Public Debt_ 
+*Bureau of the Public Debt* 
 
 Treasury Direct PO Box 7015 Parkersburg, WV 26106-7015 Toll free: 1-800-722-2678 
 
@@ -793,7 +793,7 @@ link:$$http://www.treasurydirect.gov$$[www.treasurydirect.gov] (Treasury bonds)
 
 This agency borrows moneys to make sure that the federal government continues to operate. You can contact them to purchase bonds or to check on the maturity of bonds you have already purchased. 
 
-__Internal Revenue Service (IRS)__ s 
+*Internal Revenue Service (IRS)*s 
 
 Toll free: 1-800-829-1040 (Help for Individuals)  Toll free: 1-800-829-4933 (Help for Businesses)  Toll free: 1-800-829-4477 (Refund Status)  TTY: 1-800-829-4059 
 
@@ -801,7 +801,7 @@ link:$$http://www.irs.gov$$[www.irs.gov]
 
 Free tax help is available from the Internal Revenue Service at link:$$http://www.irs.gov$$[www.irs.gov] 24 hours a day, seven days a week. Numerous on-line applications, resources and taxpayer assistance services are available. Learn about electronic filing options, look up the status of your refund, print tax forms and instructions, look for preparers who can electronically file tax returns and find ways to connect with the IRS through New Media. If your personal tax questions require face-to-face assistance may visit the Taxpayer Assistance Centers closest to you. Locations are listed on irs.gov. 
 
-_Office of the Comptroller of the Currency (OCC)_ 
+*Office of the Comptroller of the Currency (OCC)* 
 
 Customer Assistance Group 1301 McKinney St., Suite 3450 Houston, TX 77010 Toll free: 1-800-613-6743 (M-F, 7:00 am-7:00 pm, CST) TTY: 1-800-877-8339 
 
@@ -809,7 +809,7 @@ link:$$http://www.helpwithmybank.gov$$[www.helpwithmybank.gov]
 
 The Office of the Comptroller of the Currency (OCC) charters, regulates, and supervises all national banks and federal savings associations. It also supervises the federal branches and agencies of foreign banks. 
 
-_United States Mint_ 
+*United States Mint* 
 
 Customer Service Center 2799 Reeves Rd. Plainfield, IN 46168 1-800-872-6468 TTY: 1-888-321-6468 (M-F, 8:30 am - 5:00 pm, ET) 
 
@@ -828,7 +828,7 @@ link:$$http://www.myhealth.va.gov$$[www.myhealth.va.gov]  (Veteran health and we
 
 The VA oversees and administers benefits for veterans and their families. Some programs include home loans, life insurance policies, financing education through the GI bill, job training, and health resources. For information about VA medical care or benefits, write, call or visit your nearest VA facility. 
 
-_National Cemetery Administration (NCA)_ 
+*National Cemetery Administration (NCA)* 
 
 810 Vermont Ave., NW Washington, DC 20420 202-461-6240 TTY: 1-800-829-4833 
 
@@ -836,7 +836,7 @@ link:$$http://www.cem.va.gov$$[www.cem.va.gov]
 
 Contact the NCA for information about burials, headstones or markers, the State Cemetery Grants Program, and presidential memorial certificates for veterans. 
 
-_Veterans Benefits Administration (VBA)_ 
+*Veterans Benefits Administration (VBA)* 
 
 810 Vermont Ave., NW Washington, DC 20420 202-461-9763 (Publications Only) Toll free: 1-800-827-1000 TTY: 1-800-829-4833 
 
@@ -844,7 +844,7 @@ link:$$http://www.vba.va.gov/VBA$$[www.vba.va.gov/VBA]
 
 The VBA helps veterans receive benefits, such as educational and financial resources. 
 
-_Veterans Health Administration (VHA)_ 
+*Veterans Health Administration (VHA)* 
 
 810 Vermont Ave., NW Washington, DC 20420 Toll free: 1-877-222-8387 
 
@@ -855,7 +855,7 @@ VHA serves the needs of America&rsquo;s veterans by providing primary care, spec
 
 === Environmental Protection Agency (EPA)
 
-_ENERGY STAR Program_ 
+*ENERGY STAR Program* 
 
 Room 6202J Washington, DC 20460 703-412-3086 Toll free: 1-888-782-7937 (M-F, 9:00 am - 5:00 pm, ET) 
 
@@ -865,7 +865,7 @@ link:$$http://www.energystar.gov$$[www.energystar.gov]
 
 The ENERGY STAR label is awarded to products for the home and office that are highly energy-efficient. The program encourages the use of energy efficient products that both protect the environment and save consumers money. 
 
-_Indoor Environments Division_ 
+*Indoor Environments Division* 
 
 1200 Pennsylvania Ave., NW Mail Code 6609J Washington, DC 20460 202-343-9370 Toll free: 1-800-438-4318 
 
@@ -875,7 +875,7 @@ link:$$http://www.epa.gov/iaq/index.html$$[www.epa.gov/iaq/index.html]
 
 This agency is a central source of information on indoor air quality. It is responsible for implementing the Indoor Environments Program, a voluntary (non-regulatory) program to address indoor air pollution. 
 
-_National Pesticide Information Center (NPIC)_ 
+*National Pesticide Information Center (NPIC)* 
 
 Oregon State University 333 Weniger Hall Corvallis, OR 97331-6502 Toll free: 1-800-858-7378 (7:30 am - 3:30 pm, PT, Multiple languages) 
 
@@ -885,7 +885,7 @@ link:$$http:npic.orst.edu$$[npic.orst.edu]
 
 NPIC is a service that provides objective, science-based information about a wide variety of pesticide-related subjects, including pesticide products, pesticide poisonings, toxicology, and environmental chemistry. 
 
-_National Service Center for Environmental Publications (NSCEP)_ 
+*National Service Center for Environmental Publications (NSCEP)* 
 
 PO Box 42419 Cincinnati, OH 45242-0419 Toll free: 1-800-490-9198 
 
@@ -895,7 +895,7 @@ link:$$http://www.epa.gov/nscep$$[www.epa.gov/nscep]
 
 NSCEP distributes EPA&rsquo;s publications to the public. Consumers can order copies by phone, email, and postal mail or download digital versions of the publications. 
 
-_Office of Pollution Prevention and Toxics (OPPT)_ 
+*Office of Pollution Prevention and Toxics (OPPT)* 
 
 1200 Pennsylvania Ave., NW Mail Code 7401-M Washington, DC 20460 
 
@@ -907,7 +907,7 @@ link:$$http://www.epa.gov/dfe$$[www.epa.gov/dfe] (Design for the Environment lab
 
 OPPT promotes environmental stewardship and manages the risk of chemicals in the marketplace to keep pollutants out of the environment. OPPT also creates tools and provides information to the public so that they can make smart chemical choices. 
 
-_Safe Drinking Water Hotline_ 
+*Safe Drinking Water Hotline* 
 
 1200 Pennsylvania Ave., NW 4606M Washington, DC 20460 703-412-3330 Toll free: 1-800-426-4791 (10:00 am - 4:00 pm, ET, English and Spanish) 
 
@@ -929,7 +929,7 @@ The EEOC enforces laws that make discrimination illegal in the workplace. The co
 
 === Federal Communications Commission (FCC)
 
-_Consumer and Governmental Affairs Bureau (CGB)_ 
+*Consumer and Governmental Affairs Bureau (CGB)* 
 
 445 12th St., SW Washington, DC 20554 Toll free: 1-888-225-5322 (English and Spanish) TTY: 1-888-835-5322 
 
@@ -944,7 +944,7 @@ The CGB develops and implements FCC&rsquo;s consumer policies and serves as the 
 
 === Federal Deposit Insurance Corporation (FDIC)
 
-_Division of Depositor and Consumer Protection_ 
+*Division of Depositor and Consumer Protection* 
 
 Consumer Response Center 1100 Walnut St., Box #11 Kansas City, MO 64106 Toll free: 1-877-275-3342 (M-F, 8:00 am - 8:00 pm, ET; Sat-Sun, 9:00 am - 5:00 pm, ET) TTY: 1-800-925-4618 
 
@@ -957,7 +957,7 @@ FDIC responds to questions about federal deposit insurance coverage and handles 
 
 === Federal Maritime Commission (FMC)
 
-_Office of Consumer Affairs and Dispute Resolution Services_ 
+*Office of Consumer Affairs and Dispute Resolution Services* 
 
 800 N. Capitol St., NW Washington, DC 20573 202-523-5807 Toll free: 1-866-448-9586 
 
@@ -970,7 +970,7 @@ FMC assists consumers engaged in disputes with transporting carriers, ocean tran
 
 === Federal Reserve System
 
-_Federal Reserve Consumer Help_ 
+*Federal Reserve Consumer Help* 
 
 PO Box 1200  Minneapolis, MN 55480  Toll free: 1-888-851-1920 (8:00 am - 6:00 pm, CT)  TTY: 1-877-766-8533 (8:00 am - 6:00 pm, CT) 
 
@@ -983,7 +983,7 @@ This division receives and tracks consumer complaints and questions regarding pr
 
 === Federal Trade Commission (FTC)
 
-_Bureau of Consumer Protection_ 
+*Bureau of Consumer Protection* 
 
 Consumer Response Center 600 Pennsylvania Ave., NW Washington, DC 20580 Toll free: 1-877-382-4357 TTY: 1-866-653-4261 
 
@@ -1004,7 +1004,7 @@ The FTC works for the consumer to prevent fraudulent, deceptive, and unfair busi
 
 === General Services Administration (GSA)
 
-_Federal Citizen Information Center (FCIC)_ 
+*Federal Citizen Information Center (FCIC)* 
 
 Office of Citizen Services and Innovative Technologies 1800 F St., NW, 2nd Floor Washington, DC 20405 For Catalog Orders: Send your name and address to: Catalog, Pueblo, CO 81009 202-501-1794 Toll free: 1-800-333-4636 (8:00 am - 8:00 pm, ET, in English and Spanish) 
 
@@ -1018,7 +1018,7 @@ link:$$http://www.GobiernoUSA.gov$$[www.GobiernoUSA.gov] (USA.gov in Spanish)
 
 FCIC publishes the free _Consumer Information Catalog_, which lists more than 150 free and Federal booklets on a wide variety of consumer topics, and maintains a family of websites to help provide free, timely, and useful information to citizens. Consumers can get the information they need in three ways: through printed publications, by calling toll free 1-800-333-4636, or by visiting link:$$http://www.USA.gov$$[www.USA.gov], the U.S. government&rsquo;s official web portal. You can also follow FCIC on social media on Facebook: link:$$http://www.facebook.com/USAgov$$[www.facebook.com/USAgov] and on Twitter: link:$$https://twitter.com/USAgov$$[@USAgov]. 
 
-_Surplus Federal Property Sales_ 
+*Surplus Federal Property Sales* 
 
 1800 F St., NW Washington, DC 20405 Toll free: 1-866-333-7472 option 3 
 
@@ -1068,7 +1068,7 @@ OPM manages the civil service of the federal government, coordinates recruiting 
 
 === Pension Benefit Guaranty Corporation (PBGC)
 
-_Customer Contact Center_ 
+*Customer Contact Center* 
 
 PO Box 151750 Alexandria, VA 22315-1750 Toll free: 1-800-400-7242 (M-F, 8:00 am - 7:00 pm, ET) TTY: 1-800-877-8339 (Federal Relay Service, ask to be connected to 1-800-400-72420) 
 
@@ -1083,7 +1083,7 @@ The PBGC protects the retirement incomes of workers in private sector defined pe
 
 === Securities and Exchange Commission (SEC)
 
-_Office of Investor Education and Advocacy (OIEA)_ 
+*Office of Investor Education and Advocacy (OIEA)* 
 
 100 F St., NE Washington, DC 20549-0213 Toll free: 1-800-732-0330 
 
@@ -1113,7 +1113,7 @@ The SBA helps Americans start, build and grow businesses. Through an extensive n
 
 === Social Security Administration (SSA)
 
-_Office of Public Inquiries_ 
+*Office of Public Inquiries* 
 
 6401 Security Blvd.  Baltimore, MD 21235  Toll free: 1-800-772-1213  TTY: 1-800-325-0778 (M-F, 7:00 am - 7:00 pm, ET) 
 
@@ -1131,7 +1131,7 @@ The Social Security Administration provides retirement,  survivors and disabilit
 
 === U.S. Commodity Futures Trading Commission (CFTC)
 
-_Office of External Affairs_ 
+*Office of External Affairs* 
 
 Three Lafayette Center 1155 21st St., NW Washington, DC 20581 202-418-5000 TTY: 202-418-5514 
 
@@ -1150,7 +1150,7 @@ link:$$http://www.usps.com$$[www.usps.com]
 
 The USPS is the federal agency responsible for the delivery of mail across the nation. You can your visit your local post office to ship packages, purchase money orders, and apply for a passport (at select locations). The USPS has also made many of their services available online, such as purchasing and printing postage, tracking packages, and changing you address. 
 
-_United States Postal Inspection Service_ 
+*United States Postal Inspection Service* 
 
 Criminal Investigations Service Center Attn: Mail Fraud 433 W. Harrison St., Room 3255 Chicago, IL 60699-3255 Toll free: 1-877-876-2455 
 

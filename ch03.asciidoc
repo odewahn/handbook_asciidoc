@@ -133,16 +133,16 @@ Purchasing a car from a private seller may save you money, but there are risks. 
 Crash tests can help you determine how well a vehicle will protect you in a crash. These organizations perform crash tests and rate vehicles: 
 
 
-*  _The National Highway Traffic Safety Administration._ Each year, NHTSA (link:$$http://www.nhtsa.gov$$[]) crashes vehicles head-on into a wall and bashes them broadside to test their ability to protect their occupants. NHTSA focuses on evaluating vehicle restraints such as air bags and safety belts. 
+*  *The National Highway Traffic Safety Administration.* Each year, NHTSA (link:$$http://www.nhtsa.gov$$[]) crashes vehicles head-on into a wall and bashes them broadside to test their ability to protect their occupants. NHTSA focuses on evaluating vehicle restraints such as air bags and safety belts. 
 
 
-*  _The Insurance Institute for Highway Safety._ A different test by the IIHS (link:$$http://www.hwysafety.org$$[]) uses offset-frontal car crashes to assess the protection a vehicle&rsquo;s structure provides. 
+*  *The Insurance Institute for Highway Safety.* A different test by the IIHS (link:$$http://www.hwysafety.org$$[]) uses offset-frontal car crashes to assess the protection a vehicle&rsquo;s structure provides. 
 
 
-*  _Consumer Reports._ The annual auto issue of Consumer Reports (link:$$http://www.consumerreports.org$$[]) rates vehicles in terms of overall safety. Its safety score combines crash test results with a vehicle&rsquo;s accident-avoidance factors— emergency handling, braking, acceleration, and even driver comfort. 
+*  *Consumer Reports.* The annual auto issue of Consumer Reports (link:$$http://www.consumerreports.org$$[]) rates vehicles in terms of overall safety. Its safety score combines crash test results with a vehicle&rsquo;s accident-avoidance factors— emergency handling, braking, acceleration, and even driver comfort. 
 
 
-*  _The National Motor Vehicle Title Information System._  The NMVTIS (link:$$http://www.vehiclehistory.gov$$[])  provides information about a vehicle&rsquo;s history and condition,  history, and, in some cases, theft. 
+*  *The National Motor Vehicle Title Information System.*  The NMVTIS (link:$$http://www.vehiclehistory.gov$$[])  provides information about a vehicle&rsquo;s history and condition,  history, and, in some cases, theft. 
 
 To find out whether a manufacturer has recalled a car for safety defects, contact NHTSA (p. 104). If a vehicle has been recalled, ask the dealer for proof that the defect has been repaired. Used vehicles should also have a current safety inspection sticker if your state requires one. 
 

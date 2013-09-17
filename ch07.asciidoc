@@ -130,11 +130,11 @@ To make sure a product is certified organic, look for the USDA organic seal. You
 
 Other common labels that help you choose certain types of food  products include: 
 
-_Free-Range or Cage-Free_. The flock was provided shelter in a building, room, or area with unlimited access to food, fresh water, and the outdoors during its production cycle. 
+*Free-Range or Cage-Free*. The flock was provided shelter in a building, room, or area with unlimited access to food, fresh water, and the outdoors during its production cycle. 
 
-_Natural_. As required by USDA, meat, poultry, and egg products labeled as &ldquo;natural&rdquo; must be minimally processed and contain no artificial ingredients. 
+*Natural*. As required by USDA, meat, poultry, and egg products labeled as &ldquo;natural&rdquo; must be minimally processed and contain no artificial ingredients. 
 
-_Grass-Fed_. Grass-fed animals receive a majority of their nutrients from grass throughout their life, while organic animals&rsquo; pasture diet may be supplemented with grain. 
+*Grass-Fed*. Grass-fed animals receive a majority of their nutrients from grass throughout their life, while organic animals&rsquo; pasture diet may be supplemented with grain. 
 
 For more information about organic foods, visit link:$$http://www.ams.usda.gov$$[www.ams.usda.gov]. 
 

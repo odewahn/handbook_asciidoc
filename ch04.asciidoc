@@ -23,7 +23,7 @@ Like everything else you buy, it pays to comparison shop for credit. For up-to-d
 
 *  Refuse to consider income because of your sex or marital status or because it is from part-time work or retirement benefits 
 
-_You have the right to:_ 
+*You have the right to:* 
 
 
 *  Have credit in your birth name, your first name and your spouse/partner&rsquo;s last name, or your first name and a combined last name 
@@ -54,25 +54,25 @@ There are many types of credit cards with various features, but there is no one 
 When you apply for a credit card, consider: 
 
 
-*  _Annual Percentage Rate (APR)_. If the interest rate is variable, how is it determined, and when can it change? 
+*  *Annual Percentage Rate (APR)*. If the interest rate is variable, how is it determined, and when can it change? 
 
 
-*  _Periodic rate_. This is the interest rate used to determine the finance charge on your balance each billing period. 
+*  *Periodic rate*. This is the interest rate used to determine the finance charge on your balance each billing period. 
 
 
-*  _Annual fee_. While some cards have no annual fee, others expect you to pay an amount each year for being a cardholder. 
+*  *Annual fee*. While some cards have no annual fee, others expect you to pay an amount each year for being a cardholder. 
 
 
-*  __Rewards programs.__ Can you earn points for flights, hotel stays, and gift certificates to your favorite retailers? Use the tool on link:$$http://www.creditcardtuneup.com$$[www.creditcardtuneup.com]to find the card that offers the best rewards for you. 
+*  *Rewards programs.*Can you earn points for flights, hotel stays, and gift certificates to your favorite retailers? Use the tool on link:$$http://www.creditcardtuneup.com$$[www.creditcardtuneup.com]to find the card that offers the best rewards for you. 
 
 
-*  _Grace period_. This is the number of days you have to pay your bill before finance charges start. Without this period, you may have to pay interest from the date you use your card or the date the purchase is posted to your account. 
+*  *Grace period*. This is the number of days you have to pay your bill before finance charges start. Without this period, you may have to pay interest from the date you use your card or the date the purchase is posted to your account. 
 
 
-*  _Finance charges_. Most lenders calculate finance charges using an average daily account balance, which is the average of what you owed each day in the billing cycle. Look for offers that use an adjusted balance, which subtracts your payment from your beginning balance. This method usually has the lowest finance charges. Check whether there is a minimum finance charge. 
+*  *Finance charges*. Most lenders calculate finance charges using an average daily account balance, which is the average of what you owed each day in the billing cycle. Look for offers that use an adjusted balance, which subtracts your payment from your beginning balance. This method usually has the lowest finance charges. Check whether there is a minimum finance charge. 
 
 
-*  _Other fees_. Ask about fees when you get a cash advance, make a late payment, or go over your credit limit. Some credit card companies also charge a monthly fee. Be careful: sometimes companies may also try to upsell by offering other services such as credit protection, insurance, or debt coverage. Visit link:$$http://www.federalreserve.gov/creditcard/fees.html$$[www.federalreserve.gov/creditcard/fees.html] for more information. 
+*  *Other fees*. Ask about fees when you get a cash advance, make a late payment, or go over your credit limit. Some credit card companies also charge a monthly fee. Be careful: sometimes companies may also try to upsell by offering other services such as credit protection, insurance, or debt coverage. Visit link:$$http://www.federalreserve.gov/creditcard/fees.html$$[www.federalreserve.gov/creditcard/fees.html] for more information. 
 
 
 .Free Credit Reports
@@ -88,7 +88,7 @@ You can request a free credit report once a year from each of the three major cr
 ****
 The Credit Card Accountability Responsibility and Disclosure (CARD) Act brought about sweeping protections for consumers. Among other things, your credit card company must comply with the rules below: 
 
-_Fees_ 
+*Fees* 
 
 
 *  Cannot change rates or fees without sending you a notice 45 days in advance in most cases 
@@ -96,7 +96,7 @@ _Fees_
 
 *  Cannot charge you a late payment fee of more than $25, regardless of how much you owe—unless one of your last six payments was late or the credit card company can justify a higher fee based on the cost of late payments 
 
-_Payments_ 
+*Payments* 
 
 
 *  Has to tell you how long it will take to pay off your balance if you make only minimum payments 
@@ -104,7 +104,7 @@ _Payments_
 
 *  Must mail or deliver your credit card bill at least 21 days before your payment is due 
 
-_Interest Rates_ 
+*Interest Rates* 
 
 
 *  Cannot increase your rate for the first 12 months after you open an account unless you have a variable interest rate or an introductory rate; you are more than 60 days late paying your bill; or you are in a workout agreement and don&rsquo;t make payments as arranged 

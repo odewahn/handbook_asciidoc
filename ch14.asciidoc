@@ -21,31 +21,31 @@ If you have limited Internet expertise, you may want to start with one of the we
 Consider these factors when selecting a provider: 
 
 
-*  _Speed_. If you only want to check e-mail and read web pages, a dial-up connection may be enough. But if you want to download music or television shows or watch videos, you will need a faster connection with broadband access, such as a digital subscriber line (DSL), cable modem, or satellite. 
+*  *Speed*. If you only want to check e-mail and read web pages, a dial-up connection may be enough. But if you want to download music or television shows or watch videos, you will need a faster connection with broadband access, such as a digital subscriber line (DSL), cable modem, or satellite. 
 
 
-*  _Availability_. Which companies offer service in your area? 
+*  *Availability*. Which companies offer service in your area? 
 
 
-*  _Wireless access_. Can you get a wireless connection for other computers in your home? 
+*  *Wireless access*. Can you get a wireless connection for other computers in your home? 
 
 
-*  _E-mail_. Do e-mail accounts come with the service? What will be the storage limit on your mailbox? 
+*  *E-mail*. Do e-mail accounts come with the service? What will be the storage limit on your mailbox? 
 
 
-*  _Software_. Is any software required to activate the service? 
+*  *Software*. Is any software required to activate the service? 
 
 
-*  _Support_. What kinds of support are available—phone, e-mail, chat, etc.? Is the support free? 
+*  *Support*. What kinds of support are available—phone, e-mail, chat, etc.? Is the support free? 
 
 
-*  _Special features_. What services are provided for spam blocking, virus protection, instant messaging, and chat rooms? 
+*  *Special features*. What services are provided for spam blocking, virus protection, instant messaging, and chat rooms? 
 
 
-*  _Terms of service_. Is there a limit to the amount of data you can use per month? 
+*  *Terms of service*. Is there a limit to the amount of data you can use per month? 
 
 
-*  _Cost_. What is the monthly fee for the service? Are there fees for renting a modem or set up? 
+*  *Cost*. What is the monthly fee for the service? Are there fees for renting a modem or set up? 
 
 
 ==== WiFi (Wireless)
@@ -55,13 +55,13 @@ Going wireless provides you with the freedom to use your computer in multiple lo
 At home: 
 
 
-*  _Turn on encryption._ When you buy a wireless router, it is important to turn on the encryption feature. This scrambles information that you send over the Internet so other people cannot access it. 
+*  *Turn on encryption.* When you buy a wireless router, it is important to turn on the encryption feature. This scrambles information that you send over the Internet so other people cannot access it. 
 
 
-*  _Rename your router._ Change the name from the default to something only you would know. 
+*  *Rename your router.* Change the name from the default to something only you would know. 
 
 
-*  _Change the password._ Routers come with a standard password. Create a new one with a mix of letters, numbers, and special characters. For help creating passwords, see page 40. 
+*  *Change the password.* Routers come with a standard password. Create a new one with a mix of letters, numbers, and special characters. For help creating passwords, see page 40. 
 
 
 .Protecting Children Online
@@ -82,21 +82,21 @@ If you&rsquo;ve ever received a &ldquo;security alert&rdquo; stating  that malic
 
 
 
-* _Turn off your router_ when you are not using it. 
+* *Turn off your router* when you are not using it. 
 
 
-*  __Be aware of cookies.__ Cookies are small text files that some websites place on your computer to collect information about the pages you view and your activities on the site. They also allow the site to recognize you when you return. For more information, visit link:$$http://www.ftc.gov/ftc/cookies.shtm$$[www.ftc.gov/ftc/cookies.shtm]. 
+*  *Be aware of cookies.*Cookies are small text files that some websites place on your computer to collect information about the pages you view and your activities on the site. They also allow the site to recognize you when you return. For more information, visit link:$$http://www.ftc.gov/ftc/cookies.shtm$$[www.ftc.gov/ftc/cookies.shtm]. 
 
 On public wireless networks: 
 
 
-*  _Don&rsquo;t assume the network is secure._ Most public wireless networks don&rsquo;t encrypt information you send. Avoid sending private information from public locations. 
+*  *Don&rsquo;t assume the network is secure.* Most public wireless networks don&rsquo;t encrypt information you send. Avoid sending private information from public locations. 
 
 
-*  __Use encrypted websites.__ If you must send sensitive information from a public network, make certain that URL starts with &ldquo;https&rdquo; (&ldquo;s&rdquo; means secure). Look for that on every page you visit. 
+*  *Use encrypted websites.*If you must send sensitive information from a public network, make certain that URL starts with &ldquo;https&rdquo; (&ldquo;s&rdquo; means secure). Look for that on every page you visit. 
 
 
-*  __Log off__ sites after you finish using them rather than using &ldquo;remember me&rdquo; features. It is better to log in again than give away your login credentials to someone else on the network. 
+*  *Log off*sites after you finish using them rather than using &ldquo;remember me&rdquo; features. It is better to log in again than give away your login credentials to someone else on the network. 
 
 For more information about wireless computing, visit link:$$http://www.onguardonline.gov$$[www.onguardonline.gov]. 
 
@@ -159,34 +159,34 @@ The Internet gives you easy access to information,  entertainment, financial off
 Online frauds are not limited to fake companies.  Thieves will often try to disguise a fraudulent website  by giving the site a URL close to the URL of a legitimate, well-known site. Internet criminals try to trick customers of these legitimate sites into sharing their personal  information on fake sites, so they can use that information for identity theft or credit card fraud schemes. Some  scam artists have even used the IRS name and logo to collect  taxpayers&rsquo; personal information so they can steal taxpayers&rsquo; identity. Visit link:$$http://www.irs.gov/uac/Suspicious-e-Mails-and-Identity-Theft$$[www.irs.gov/uac/Suspicious-e-Mails-and-Identity-Theft] to learn more about tax-related online fraud and how to  identify a fraudulent e-mail or website. To guard against  Internet fraud, follow these tips: 
 
 
-*  _Know your seller._ If you don&rsquo;t, do some research. 
+*  *Know your seller.* If you don&rsquo;t, do some research. 
 
 
-*  _Company websites_ often provide information in a section called &ldquo;About Us.&rdquo; Some online sellers participate in programs, such as BBBOnLine, that help resolve problems. Look for a logo or endorsement seal on the company website; this indication, however, is not a guarantee of the seller&rsquo;s reliability. 
+*  *Company websites* often provide information in a section called &ldquo;About Us.&rdquo; Some online sellers participate in programs, such as BBBOnLine, that help resolve problems. Look for a logo or endorsement seal on the company website; this indication, however, is not a guarantee of the seller&rsquo;s reliability. 
 
 
-*  _Check with state_ and/or local consumer offices. 
+*  *Check with state* and/or local consumer offices. 
 
 
-*  _Reading comments from other consumers_ is another way to check the integrity of online sellers. Some Internet auction sites post ratings of sellers based on buyers&rsquo; comments. Beware of too many glowing stories the sellers themselves might have placed. 
+*  *Reading comments from other consumers* is another way to check the integrity of online sellers. Some Internet auction sites post ratings of sellers based on buyers&rsquo; comments. Beware of too many glowing stories the sellers themselves might have placed. 
 
 
-*  _Protect your personal information_. Don&rsquo;t provide it in response to an e-mail, a pop-up, or a website you&rsquo;ve linked to from an e-mail or web page. 
+*  *Protect your personal information*. Don&rsquo;t provide it in response to an e-mail, a pop-up, or a website you&rsquo;ve linked to from an e-mail or web page. 
 
 
-*  _Take your time_ and resist any urge to &ldquo;act now&rdquo; to keep your account open or take advantage of a special offer. 
+*  *Take your time* and resist any urge to &ldquo;act now&rdquo; to keep your account open or take advantage of a special offer. 
 
 
-*  _Use anti-virus and anti-spyware software_, as well as a firewall, and update them all regularly. Make sure your operating system and web browser are set up properly and update them regularly as well. 
+*  *Use anti-virus and anti-spyware software*, as well as a firewall, and update them all regularly. Make sure your operating system and web browser are set up properly and update them regularly as well. 
 
 
-*  _Protect your passwords_. Don&rsquo;t share your passwords with anyone. Memorize them. 
+*  *Protect your passwords*. Don&rsquo;t share your passwords with anyone. Memorize them. 
 
 
-*  _Don&rsquo;t take the bait._ Don&rsquo;t reply to e-mail messages that claim your credit card information or other personal information needs to be updated. 
+*  *Don&rsquo;t take the bait.* Don&rsquo;t reply to e-mail messages that claim your credit card information or other personal information needs to be updated. 
 
 
-*  _Back up important files_. Copy them onto another computer or a removable hard drive such as a flash memory stick. 
+*  *Back up important files*. Copy them onto another computer or a removable hard drive such as a flash memory stick. 
 
 Learn whom to contact if something goes wrong online. Report suspected fraud to your bank, credit card company, or relevant authority. 
 
@@ -219,7 +219,7 @@ Social networking sites such as Facebook, Twitter, LinkedIn, Pinterest, and othe
 
 *  Keep in mind that current or prospective employers may be able to see your social network pages and photos. 
 
-_For more information go to:_ 
+*For more information go to:* 
 
 
 *  Federal Communications Commission:  link:$$http://www.reboot.fcc.gov/consumers$$[www.reboot.fcc.gov/consumers] 
@@ -353,22 +353,22 @@ The FCC (p. 106) offers consumer information about choosing a long-distance carr
 
 &ldquo;Cramming&rdquo; occurs when companies add charges to your phone bill without your permission. These charges may be for services such as voice mail, ringtones, or subscriptions. You may not notice these monthly charges because they are relatively small, $5 to $30, and look like your regular phone charges. 
 
-_Take These Steps to Avoid Slammers and Crammers:_ 
+*Take These Steps to Avoid Slammers and Crammers:* 
 
 
-*  _Block changes to your phone service._ Ask your telephone service provider if it offers a blocking or account protection service, which usually requires the company to notify you before making any changes to your service. 
+*  *Block changes to your phone service.* Ask your telephone service provider if it offers a blocking or account protection service, which usually requires the company to notify you before making any changes to your service. 
 
 
-*  _Read the fine print_ on contest entry forms and coupons. You could be agreeing to switch your phone service or to buy optional services. 
+*  *Read the fine print* on contest entry forms and coupons. You could be agreeing to switch your phone service or to buy optional services. 
 
 
-*  _Watch out for impostors._ Companies could falsely claim to be your regular phone company and offer some type of discount plan or change in billing. They may also say they are taking a survey or they may pretend to be a government agency. 
+*  *Watch out for impostors.* Companies could falsely claim to be your regular phone company and offer some type of discount plan or change in billing. They may also say they are taking a survey or they may pretend to be a government agency. 
 
 
-*  _Beware of &ldquo;negative option notices.&rdquo;_ You can be switched or signed up for optional services unless you say &ldquo;NO&rdquo; to telemarketers. 
+*  *Beware of &ldquo;negative option notices.&rdquo;* You can be switched or signed up for optional services unless you say &ldquo;NO&rdquo; to telemarketers. 
 
 
-*  _Examine your telephone bill_ carefully, including pages that show the details, and look for suspicious charges. 
+*  *Examine your telephone bill* carefully, including pages that show the details, and look for suspicious charges. 
 
 Your phone service cannot be shut off for refusal to pay for unauthorized services. For help, contact your local or state consumer protection agency (p. 112), state public utilities commission (p. 138), or the FCC (p. 106). 
 
@@ -377,23 +377,23 @@ Your phone service cannot be shut off for refusal to pay for unauthorized servic
 
 Before you sign a contract and choose a plan and a company that meets your needs, you should ask these types of questions: 
 
-_Where can you make and receive calls?_ Most providers now offer a choice of local, regional, or national plans. A local plan offers low-cost options if most of your calls are near your home. Regional plans cover a larger geographic area—sometimes several states. If you call outside the area covered by these plans, you will pay long-distance and roaming charges in addition to the airtime used. National plans are the most expensive, but they let you use your phone anywhere in the country for a single per-minute price. 
+*Where can you make and receive calls?* Most providers now offer a choice of local, regional, or national plans. A local plan offers low-cost options if most of your calls are near your home. Regional plans cover a larger geographic area—sometimes several states. If you call outside the area covered by these plans, you will pay long-distance and roaming charges in addition to the airtime used. National plans are the most expensive, but they let you use your phone anywhere in the country for a single per-minute price. 
 
 
 
 image::images/pdf5131_img_28.png[]
 
-_How frequently will you use the phone?_ If you just want a phone for emergencies, an economy plan with a few minutes a month may be all you need. On the other hand, if your cell phone is your primary phone, a plan with the lowest airtime rate is a wiser choice. If you plan to use texting, pick a plan that will meet your needs and avoid surprises on your bills. Most services allow you to upgrade a plan without an added one-time charge. 
+*How frequently will you use the phone?* If you just want a phone for emergencies, an economy plan with a few minutes a month may be all you need. On the other hand, if your cell phone is your primary phone, a plan with the lowest airtime rate is a wiser choice. If you plan to use texting, pick a plan that will meet your needs and avoid surprises on your bills. Most services allow you to upgrade a plan without an added one-time charge. 
 
-__Is a family plan option available?__ You can share one cellular service plan and a pool of monthly usage minutes among several phone lines. The cost of the additional numbers per month is usually less than if you purchased individual accounts. 
+*Is a family plan option available?*You can share one cellular service plan and a pool of monthly usage minutes among several phone lines. The cost of the additional numbers per month is usually less than if you purchased individual accounts. 
 
-_Is there a trial period?_ There are &ldquo;dead spots&rdquo; where a cell phone doesn&rsquo;t  work. A trial period lets you test your service and try the features  of the phone without incurring a termination fee.
-
-
-_Know your options._ Make sure you are only buying the options or features you really need.  It is always easier to upgrade a plan later if you feel you need another  feature.
+*Is there a trial period?* There are &ldquo;dead spots&rdquo; where a cell phone doesn&rsquo;t  work. A trial period lets you test your service and try the features  of the phone without incurring a termination fee.
 
 
-_What if you want to cancel your service?_ Most providers have a penalty. This is a concern if you have to move out of the area covered by your plan. 
+*Know your options.* Make sure you are only buying the options or features you really need.  It is always easier to upgrade a plan later if you feel you need another  feature.
+
+
+*What if you want to cancel your service?* Most providers have a penalty. This is a concern if you have to move out of the area covered by your plan. 
 
 Be sure to keep track of your usage and understand your  cell phone bill to avoid &ldquo;bill shock.&rdquo; Visit link:$$http://www.fcc.gov/encyclopedia/bill-shock$$[www.fcc.gov/encyclopedia/bill-shock]  to learn more about reading your cell phone bill and how to better monitor your usage. 
 

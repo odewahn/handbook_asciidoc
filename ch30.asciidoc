@@ -16,7 +16,7 @@ Many utilities commissions handle consumer complaints.  Sometimes, if they recei
 
 === Alabama
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 Consumer Services PO Box 304260 Montgomery, AL 36130 334-242-5218 Toll free: 1-800-392-8050 (AL) 
 
@@ -25,7 +25,7 @@ link:$$http://www.psc.state.al.us$$[www.psc.state.al.us]
 
 === Alaska
 
-_Regulatory Commission_ 
+*Regulatory Commission* 
 
 Consumer Protection and Information Section 701 W. 8th Ave., Suite 300 Anchorage, AK 99501-3469 907-276-6222 Toll free: 1-800-390-2782 TTY: 907-276-4533 
 
@@ -36,7 +36,7 @@ link:$$http:rca.alaska.gov$$[rca.alaska.gov]
 
 === Arizona
 
-_Corporation Commission_ 
+*Corporation Commission* 
 
 Utilities Division Consumer Services Section 1200 W. Washington St. Phoenix, AZ 85007 602-542-4251 Toll free: 1-800-222-7000 (AZ) 
 
@@ -47,7 +47,7 @@ link:$$http://www.cc.state.az.us$$[www.cc.state.az.us]
 
 === Arkansas
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 Consumer Services Division PO Box 400 Little Rock, AR 72203-0400 Toll free: 1-800-482-1164 (AR) TTY: 1-800-682-2698 
 
@@ -56,7 +56,7 @@ link:$$http://www.arkansas.gov/psc$$[www.arkansas.gov/psc]
 
 === California
 
-_Public Utilities Commission_ 
+*Public Utilities Commission* 
 
 Consumer Affairs Branch 505 Van Ness Ave. San Francisco, CA 94102 415-703-2782 Toll free: 1-800-649-7570 (CA) TTY: 1-800-229-6846 
 
@@ -67,7 +67,7 @@ link:$$http://www.cpuc.ca.gov$$[www.cpuc.ca.gov]
 
 === Colorado
 
-_Public Utilities Commission_ 
+*Public Utilities Commission* 
 
 Consumer Protection Division 1560 Broadway, Suite 250 Denver, CO 80202 303-894-2070 Toll free: 1-800-456-0858 (CO) 
 
@@ -78,7 +78,7 @@ link:$$http://www.dora.state.co.us/puc$$[www.dora.state.co.us/puc]
 
 === Connecticut
 
-_Department of Energy and Environmental Protection_ 
+*Department of Energy and Environmental Protection* 
 
 Public Utilities Regulatory Authority Consumer Services Unit 10 Franklin Square New Britain, CT 06051 860-827-1553 Toll free: 1-800-382-4586 (CT) TTY: 860-827-2837 
 
@@ -89,7 +89,7 @@ link:$$http://www.state.ct.us/dpuc$$[www.state.ct.us/dpuc]
 
 === Delaware
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 Cannon Building, Suite 100 861 Silver Lake Blvd. Dover, DE 19904 302-736-7500 Toll free: 1-800-282-8574 (DE) 
 
@@ -98,7 +98,7 @@ link:$$http://www.depsc.delaware.gov$$[www.depsc.delaware.gov]
 
 === District Of Columbia
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 Office of Consumer Services 1333 H St., NW, Suite 600 East Tower Washington, DC 20005 202-626-5120 
 
@@ -107,7 +107,7 @@ link:$$http://www.dcpsc.org$$[www.dcpsc.org]
 
 === Florida
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 2540 Shumard Oak Blvd. Tallahassee, FL 32399-0850 850-413-6100 Toll free: 1-800-342-3552 (FL) TTY: 1-800-955-8771 
 
@@ -118,7 +118,7 @@ link:$$http://www.floridapsc.com$$[www.floridapsc.com]
 
 === Georgia
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 Consumer Affairs Division 244 Washington St., SW Atlanta, GA 30334 404-656-4501 Toll free: 1-800-282-5813 (GA) 
 
@@ -129,7 +129,7 @@ link:$$http://www.psc.state.ga.us$$[www.psc.state.ga.us]
 
 === Hawaii
 
-_Public Utilities Commission_ 
+*Public Utilities Commission* 
 
 465 S. King St., Room 103 Honolulu, HI 96813 808-586-2020 
 
@@ -140,7 +140,7 @@ link:$$http://www.puc.hawaii.gov$$[www.puc.hawaii.gov]
 
 === Idaho
 
-_Public Utilities Commission_ 
+*Public Utilities Commission* 
 
 Consumer Assistance Section PO Box 83720 Boise, ID 83720-0074 Toll free: 1-800-432-0369 (ID) 
 
@@ -149,7 +149,7 @@ link:$$http://www.puc.idaho.gov$$[www.puc.idaho.gov]
 
 === Illinois
 
-_Commerce Commission_ 
+*Commerce Commission* 
 
 Consumer Affairs 527 E. Capitol Ave. Springfield, IL 62701 217-782-2024 Toll free: 1-800-524-0795 (IL) TTY: 1-800-858-9277 
 
@@ -158,7 +158,7 @@ link:$$http://www.icc.illinois.gov$$[www.icc.illinois.gov]
 
 === Indiana
 
-_Utility Regulatory Commission_ 
+*Utility Regulatory Commission* 
 
 Consumer Affairs Division 101 W. Washington St., Suite 1500E Indianapolis, IN 46204 317-232-2712 Toll free: 1-800-851-4268 (IN) TTY: 317-232-8556 
 
@@ -167,7 +167,7 @@ link:$$http://www.in.gov/iurc$$[www.in.gov/iurc]
 
 === Iowa
 
-_Utilities Board_ 
+*Utilities Board* 
 
 Customer Service Group 1375 E. Court Ave., Room 69 Des Moines, IA 50319-0069 515-725-7321 Toll free: 1-877-565-4450 (IA) 
 
@@ -178,7 +178,7 @@ link:$$http://www.state.ia.us/iub$$[www.state.ia.us/iub]
 
 === Kansas
 
-_Corporation Commission_ 
+*Corporation Commission* 
 
 Office of Consumer Protection 1500 S.W. Arrowhead Rd. Topeka, KS 66604 785-271-3140 Toll free: 1-800-662-0027 (KS) TTY: 1-800-766-3777 
 
@@ -189,7 +189,7 @@ link:$$http://www.kcc.state.ks.us$$[www.kcc.state.ks.us]
 
 === Kentucky
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 211 Sower Blvd. PO Box 615 Frankfort, KY 40602 502-564-3940 Toll free: 1-800-772-4636 TTY: 1-800-648-6056 
 
@@ -200,7 +200,7 @@ link:$$http://www.psc.state.ky.us$$[www.psc.state.ky.us]
 
 === Louisiana
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 Galvez Building, 12th Floor 602 N. 5th St. PO Box 91154 Baton Rouge, LA 70821-9154 225-342-4404 Toll free: 1-800-256-2397 (LA) 
 
@@ -209,7 +209,7 @@ link:$$http://www.lpsc.org$$[www.lpsc.org]
 
 === Maine
 
-_Public Utilities Commission_ 
+*Public Utilities Commission* 
 
 Consumer Assistance Division 18 State House Station Augusta, ME 04333-0018 207-287-3831 Toll free: 1-800-452-4699 (ME) TTY: 1-800-437-1220 
 
@@ -220,7 +220,7 @@ link:$$http://www.state.me.us/mpuc/index.shtml$$[www.state.me.us/mpuc/index.shtm
 
 === Maryland
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 Six St. Paul St., 16th Floor Baltimore, MD 21202 410-767-8000 Toll free: 1-800-492-0474 TTY: 1-800-201-7165 
 
@@ -229,7 +229,7 @@ link:$$http://www.psc.state.md.us$$[www.psc.state.md.us]
 
 === Massachusetts
 
-_Department of Public Utilities_ 
+*Department of Public Utilities* 
 
 Consumer Division One South Station, Suite 2 Boston, MA 02110 617-737-2836 Toll free: 1-877-886-5066 
 
@@ -240,7 +240,7 @@ link:$$http://www.mass.gov/dpu$$[www.mass.gov/dpu]
 
 === Michigan
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 PO Box 30221 Lansing, MI 48909 517-241-6180 Toll free: 1-800-292-9555 (MI) 
 
@@ -251,7 +251,7 @@ link:$$http://www.michigan.gov/mpsc$$[www.michigan.gov/mpsc]
 
 === Minnesota
 
-_Public Utilities Commission_ 
+*Public Utilities Commission* 
 
 Consumer Affairs Office 121 7th Pl. E, Suite 350 St. Paul, MN 55101-2147 651-296-0406 Toll free: 1-800-657-3782 
 
@@ -271,7 +271,7 @@ link:$$http://www.psc.state.ms.us$$[www.psc.state.ms.us]
 
 === Missouri
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 Consumer Services Department 200 Madison St. PO Box 360 Jefferson City, MO 65102-0360 573-751-3234 Toll free: 1-800-392-4211 (MO) TTY: 573-522-9061 
 
@@ -282,7 +282,7 @@ link:$$http://www.psc.mo.gov$$[www.psc.mo.gov]
 
 === Montana
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 PO Box 202601 Helena, MT 59620-2601 406-444-6150 Toll free: 1-800-646-6150 (MT) TTY: 406-444-4212 
 
@@ -291,7 +291,7 @@ link:$$http://www.psc.mt.gov$$[www.psc.mt.gov]
 
 === Nebraska
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 1200 N St., Suite 300 Lincoln, NE 68508 402-471-3101 Toll free: 1-800-526-0017 (NE) TTY: 402-471-0213 
 
@@ -300,7 +300,7 @@ link:$$http://www.psc.state.ne.us$$[www.psc.state.ne.us]
 
 === Nevada
 
-_Public Utilities Commission_ 
+*Public Utilities Commission* 
 
 Consumer Division 1150 E. William St. Carson City, NV 89701-3109 775-684-6100 702-486-2600 (Las Vegas) 
 
@@ -309,7 +309,7 @@ link:$$pucweb1.state.nv.us/pucn/PUCHome.aspx$$[pucweb1.state.nv.us/pucn/PUCHome.
 
 === New Hampshire
 
-_Public Utilities Commission_ 
+*Public Utilities Commission* 
 
 Consumer Affairs Division 21 S. Fruit St., Suite 10 Concord, NH 03301-2429 603-271-2431 Toll free: 1-800-852-3793 (NH) TTY: 1-800-735-2964 (NH) 
 
@@ -320,7 +320,7 @@ link:$$http://www.puc.state.nh.us$$[www.puc.state.nh.us]
 
 === New Jersey
 
-_Board of Public Utilities_ 
+*Board of Public Utilities* 
 
 Division of Customer Assistance 44 S. Clinton Ave. Trenton, NJ 08625 609-341-9188 Toll free: 1-800-624-0241 (NJ) Toll free: 1-800-624-0331 (Cable Complaints) 
 
@@ -329,7 +329,7 @@ link:$$http://www.bpu.state.nj.us$$[www.bpu.state.nj.us]
 
 === New Mexico
 
-_Public Regulation Commission_ 
+*Public Regulation Commission* 
 
 Consumer Relations Division Utilities Division 1120 Paseo de Peralta PO Box 1269 Santa Fe, NM 87501 505-827-4592 Toll free: 1-888-427-5772 TTY: 505-827-6911 
 
@@ -340,7 +340,7 @@ link:$$http://www.nmprc.state.nm.us$$[www.nmprc.state.nm.us]
 
 === New York
 
-_Department of Public Service_ 
+*Department of Public Service* 
 
 Office of Consumer Services 3 Empire State Plaza Albany, NY 12223 518-474-7080 Toll free: 1-800-342-3377 (NY - General Complaints) Toll free: 1-888-342-3355 (Termination) TTY: 1-800-662-1220 
 
@@ -351,7 +351,7 @@ link:$$http://www.askpsc.com$$[www.askpsc.com]
 
 === North Carolina
 
-_Utilities Commission_ 
+*Utilities Commission* 
 
 Consumer Services 4325 Mail Service Center Raleigh, NC 27699-4325 919-733-9277 Toll free: 1-866-380-9816 
 
@@ -362,7 +362,7 @@ link:$$http://www.ncuc.commerce.state.nc.us$$[www.ncuc.commerce.state.nc.us]
 
 === North Dakota
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 600 E. Boulevard Ave., Dept. 408 Bismarck, ND 58505-0480 701-328-2400 Toll free: 1-877-245-6685 TTY: 1-800-366-6888 (ND) 
 
@@ -373,7 +373,7 @@ link:$$http://www.psc.state.nd.us$$[www.psc.state.nd.us]
 
 === Ohio
 
-_Consumers&rsquo; Counsel_ 
+*Consumers&rsquo; Counsel* 
 
 10 W. Broad St., Suite 1800 Columbus, OH 43215-3485 614-466-8574 (Outside OH) Toll free: 1-877-742-5622 
 
@@ -381,7 +381,7 @@ pass:[<email>occ@occ.state.oh.us</email>]
 
 link:$$http://www.pickocc.org$$[www.pickocc.org] 
 
-_Public Utilities Commission_ 
+*Public Utilities Commission* 
 
 180 E. Broad St. Columbus, OH 43215 614-466-3292  Toll free: 1-800-686-7826 (OH)  TTY: 1-800-686-1570 (OH) 
 
@@ -390,7 +390,7 @@ link:$$http://www.puco.ohio.gov$$[www.puco.ohio.gov]
 
 === Oklahoma
 
-_Corporation Commission_ 
+*Corporation Commission* 
 
 Consumer Services Division PO Box 52000 Oklahoma City, OK 73152-2000 405-522-0478 Toll free: 1-800-522-8154 (OK) 
 
@@ -399,7 +399,7 @@ link:$$http://www.occeweb.com$$[www.occeweb.com]
 
 === Oregon
 
-_Public Utility Commission_ 
+*Public Utility Commission* 
 
 Consumer Services Division 550 Capitol St., NE, Suite 215 PO Box 2148 Salem, OR 97308-2148 Toll free: 1-800-522-2404 TTY: 1-800-648-3458 (OR) 
 
@@ -410,7 +410,7 @@ link:$$http://www.puc.state.or.us$$[www.puc.state.or.us]
 
 === Pennsylvania
 
-_Pennsylvania Office of Consumer Advocate_ 
+*Pennsylvania Office of Consumer Advocate* 
 
 Office of the Attorney General 555 Walnut St., 5th Floor, Forum Place Harrisburg, PA 17101-1923 717-783-5048 Toll free: 1-800-684-6560 (PA) 
 
@@ -418,7 +418,7 @@ pass:[<email>consumer@paoca.org</email>]
 
 link:$$http://www.oca.state.pa.us$$[www.oca.state.pa.us] 
 
-_Public Utility Commission_ 
+*Public Utility Commission* 
 
 Bureau of Consumer Services PO Box 3265 Harrisburg, PA 17105-3265 
 
@@ -427,7 +427,7 @@ link:$$http://www.puc.state.pa.us$$[www.puc.state.pa.us]
 
 === Puerto Rico
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 PO Box 190870 San Juan, PR 00918 787-756-1919 
 
@@ -436,7 +436,7 @@ link:$$http://www.csp.gobierno.pr$$[www.csp.gobierno.pr]
 
 === Rhode Island
 
-_Public Utilities Commission_ 
+*Public Utilities Commission* 
 
 Consumer Section 89 Jefferson Blvd. Warwick, RI 02888 401-780-9700 
 
@@ -447,7 +447,7 @@ link:$$http://www.ripuc.org$$[www.ripuc.org]
 
 === South Carolina
 
-_Office of Regulatory Staff_ 
+*Office of Regulatory Staff* 
 
 Consumer Services Division 1401 Main St., Suite 900 Columbia, SC 29201 803-737-5230 Toll free: 1-800-922-1531 (SC) TTY: 1-800-334-2217 (SC) 
 
@@ -456,7 +456,7 @@ link:$$http://www.regulatorystaff.sc.gov$$[www.regulatorystaff.sc.gov]
 
 === South Dakota
 
-_Public Utilities Commission_ 
+*Public Utilities Commission* 
 
 Consumer Affairs 500 E. Capitol Ave. Pierre, SD 57501-5070 605-773-3201 (General) Toll free: 1-800-332-1782 
 
@@ -467,7 +467,7 @@ link:$$http://www.puc.sd.gov$$[www.puc.sd.gov]
 
 === Tennessee
 
-_Regulatory Authority_ 
+*Regulatory Authority* 
 
 Consumer Services Division 460 James Robertson Pkwy. Nashville, TN 37243-0505 615-741-2904 Toll free: 1-800-342-8359 (Consumer Services) TTY: 1-888-276-0677 
 
@@ -478,7 +478,7 @@ link:$$http://www.state.tn.us/tra$$[www.state.tn.us/tra]
 
 === Texas
 
-_Public Utility Commission_ 
+*Public Utility Commission* 
 
 Customer Protection 1701 N. Congress Ave. PO Box 13326 Austin, TX 78711-3326 512-936-7120 Toll free: 1-888-782-8477 TTY: 1-800-735-2988 
 
@@ -489,7 +489,7 @@ link:$$http://www.puc.state.tx.us$$[www.puc.state.tx.us]
 
 === Utah
 
-_Division of Public Utilities_ 
+*Division of Public Utilities* 
 
 160 East 300 South Salt Lake City, UT 84114-6751 Toll free: 1-800-874-0904 (UT) TTY: 801-530-6769 
 
@@ -500,7 +500,7 @@ link:$$http://www.psc.utah.gov$$[www.psc.utah.gov]
 
 === Vermont
 
-_Public Service Board_ 
+*Public Service Board* 
 
 112 State St., 4th Floor Montpelier, VT 05620-2701 802-828-2358 TTY: 1-800-253-0191 (VT) 
 
@@ -511,7 +511,7 @@ link:$$http://www.psb.vermont.gov$$[www.psb.vermont.gov]
 
 === Virginia
 
-_State Corporation Commission_ 
+*State Corporation Commission* 
 
 Division of Energy Regulation PO Box 1197 Richmond, VA 23218 Toll free: 1-800-552-7945 (VA) TTY: 804-371-9206 
 
@@ -522,7 +522,7 @@ link:$$http://www.scc.virginia.gov$$[www.scc.virginia.gov]
 
 === Washington
 
-_Utilities and Transportation Commission_ 
+*Utilities and Transportation Commission* 
 
 Consumer Protection PO Box 47250 Olympia, WA 98504 360-664-1160 Toll free: 1-888-333-9882 TTY: 1-800-416-5289 
 
@@ -533,13 +533,13 @@ link:$$http://www.utc.wa.gov$$[www.utc.wa.gov]
 
 === West Virginia
 
-_Consumer Advocate Division_ 
+*Consumer Advocate Division* 
 
 723 Kanawha Blvd., E Union Building, Suite 700 Charleston, WV 25301 304-558-0526 
 
 link:$$http://www.cad.state.wv.us$$[www.cad.state.wv.us] 
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 Customer Assistance PO Box 812 201 Brooks St. Charleston, WV 25323 304-340-0300 Toll free: 1-800-642-8544 
 
@@ -548,7 +548,7 @@ link:$$http://www.psc.state.wv.us$$[www.psc.state.wv.us]
 
 === Wisconsin
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 Consumer Affairs Unit PO Box 7854 Madison, WI 53707-7854 608-266-2001 Toll free: 1-800-225-7729 TTY: 608-267-1479 
 
@@ -557,7 +557,7 @@ link:$$http://psc.wi.gov$$[psc.wi.gov]
 
 === Wyoming
 
-_Public Service Commission_ 
+*Public Service Commission* 
 
 2515 Warren Ave., Suite 300 Cheyenne, WY 82002 307-777-7427 Toll free: 1-888-570-9905 (WY) 
 

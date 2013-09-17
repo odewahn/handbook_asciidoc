@@ -9,40 +9,40 @@ image::images/pdf5131_img_25.png[]
 Identity thieves steal your personal information to commit fraud. They can damage your credit status and cost you time and money to restore your good name. To reduce your risk of becoming a victim, follow these tips: 
 
 
-*  _Don&rsquo;t carry your Social Security card_ in your wallet or write your number on your checks. Only give out your SSN when absolutely necessary. 
+*  *Don&rsquo;t carry your Social Security card* in your wallet or write your number on your checks. Only give out your SSN when absolutely necessary. 
 
 
-*  _Protect your PIN._ Never write a PIN on a credit/debit card or on a slip of paper kept in your wallet. 
+*  *Protect your PIN.* Never write a PIN on a credit/debit card or on a slip of paper kept in your wallet. 
 
 
-*  _Watch out for &ldquo;shoulder surfers.&rdquo;_ Use your free hand to shield the keypad when typing your passwords on computers and at ATMs. 
+*  *Watch out for &ldquo;shoulder surfers.&rdquo;* Use your free hand to shield the keypad when typing your passwords on computers and at ATMs. 
 
 
-*  _Collect mail promptly._ Ask the post office to put your mail on hold when you are away from home for more than a day or two. 
+*  *Collect mail promptly.* Ask the post office to put your mail on hold when you are away from home for more than a day or two. 
 
 
-*  _Pay attention to your billing cycles._ If bills or financial statements are late, contact the sender. 
+*  *Pay attention to your billing cycles.* If bills or financial statements are late, contact the sender. 
 
 
-*  _Keep your receipts._ Ask for carbons and incorrect charge slips as well. Promptly compare receipts with account statements. Watch for unauthorized transactions. 
+*  *Keep your receipts.* Ask for carbons and incorrect charge slips as well. Promptly compare receipts with account statements. Watch for unauthorized transactions. 
 
 
-*  _Tear up or shred_ unwanted receipts, credit offers, account statements, expired cards, etc., to prevent &ldquo;dumpster divers&rdquo; (see p. 7) from getting your personal information. 
+*  *Tear up or shred* unwanted receipts, credit offers, account statements, expired cards, etc., to prevent &ldquo;dumpster divers&rdquo; (see p. 7) from getting your personal information. 
 
 
-*  _Store personal information in a safe place_ at home and at work. Don&rsquo;t leave it lying around. 
+*  *Store personal information in a safe place* at home and at work. Don&rsquo;t leave it lying around. 
 
 
-*  _Don&rsquo;t respond to unsolicited requests_ for personal information in the mail, over the phone, or online. 
+*  *Don&rsquo;t respond to unsolicited requests* for personal information in the mail, over the phone, or online. 
 
 
-*  _Install firewalls_ and virus-detection software on your home computer. 
+*  *Install firewalls* and virus-detection software on your home computer. 
 
 
-*  _Create complex passwords_ that identity thieves cannot guess easily. For tips on creating secure passwords, see p. 40. 
+*  *Create complex passwords* that identity thieves cannot guess easily. For tips on creating secure passwords, see p. 40. 
 
 
-*  _Check your credit report once a year._ Check it more frequently if you suspect someone has gained access to your account information. See Free Credit Reports (p. 12). 
+*  *Check your credit report once a year.* Check it more frequently if you suspect someone has gained access to your account information. See Free Credit Reports (p. 12). 
 
 
 === Reporting Identity Theft
@@ -50,13 +50,13 @@ Identity thieves steal your personal information to commit fraud. They can damag
 If you suspect or become a victim of identity theft, follow these steps: 
 
 
-*  _Report it to your financial institution._ Call the phone number on your account statement or on the back of your credit or debit card. 
+*  *Report it to your financial institution.* Call the phone number on your account statement or on the back of your credit or debit card. 
 
 
-*  _Report the fraud to your local police._ Keep a copy of the police report, which will make it easier to prove your case to creditors and retailers. 
+*  *Report the fraud to your local police.* Keep a copy of the police report, which will make it easier to prove your case to creditors and retailers. 
 
 
-*  _Contact the credit reporting bureaus_ (p. 13) and ask them to flag your account with a fraud alert, which asks merchants not to grant new credit without your approval. 
+*  *Contact the credit reporting bureaus* (p. 13) and ask them to flag your account with a fraud alert, which asks merchants not to grant new credit without your approval. 
 
 If your identity has been stolen, you can use an ID Theft affidavit to report the theft to most of the parties involved. All three credit bureaus and many major creditors accept the affidavit. Request a copy of the document by calling toll-free 1-877-ID-THEFT (438-4338) or visit link:$$http://www.ftc.gov/idtheft$$[www.ftc.gov/idtheft]. You can also use this website to file a complaint with the FTC. 
 

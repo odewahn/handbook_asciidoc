@@ -1,9 +1,9 @@
 [[contributors]]
-
 [preface]
 == Contributors
 
-image::images/pdf5131_img_2.png[]
+
+image::images/pdf5131_img_2.png[scale="75"]
 
 image::images/pdf5131_img_1.png[]
 
@@ -60,15 +60,8 @@ The Federal Citizen Information Center would like to express its gratitude to th
 
 image::images/pdf5131_img_3.png[]
 
+image::images/pdf5131_img_4.png[scale="70"]
 
+image::images/pdf5131_img_5.png[scale="70"]
 
-image::images/pdf5131_img_4.png[]
-
-
-
-image::images/pdf5131_img_5.png[]
-
-
-
-image::images/pdf5131_img_6.png[scale="40"]
-
+image::images/pdf5131_img_6.png[scale="30"]

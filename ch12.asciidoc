@@ -9,22 +9,22 @@ image::images/pdf5131_img_24.png[]
 If you have a financial goal in mind, such as saving for retirement, paying for college, or buying a new house, then you may decide to invest your money to earn enough to fund your goals. Before you invest, do some homework. What is your tolerance for risk? What do you want to invest in? Stocks? Bonds? Mutual funds? Do you want to open an IRA or buy an annuity? Does your employer offer a 401(k)? Remember, every investment involves some degree of risk. Most securities are not insured by the federal government if they lose money or fail, even if you purchase them through a bank or credit union that offers federally insured savings accounts. Make sure you have answers to all of these questions before you invest: 
 
 
-*  _How quickly can you get your money back?_ Stocks, bonds, and shares in mutual funds usually can be sold at any time, but there is no guarantee you will get back all the money you paid for them. Other investments, such as limited partnerships, certificates of deposit (CDs), or IRAs, often restrict your ability to cash out your holdings. 
+*  *How quickly can you get your money back?* Stocks, bonds, and shares in mutual funds usually can be sold at any time, but there is no guarantee you will get back all the money you paid for them. Other investments, such as limited partnerships, certificates of deposit (CDs), or IRAs, often restrict your ability to cash out your holdings. 
 
 
-*  _What can you expect to earn on your money?_ While bonds generally promise a fixed return, earnings on most other securities go up and down with market changes. Keep in mind that just because an investment has done well in the past, there is no guarantee it will do well in the future. 
+*  *What can you expect to earn on your money?* While bonds generally promise a fixed return, earnings on most other securities go up and down with market changes. Keep in mind that just because an investment has done well in the past, there is no guarantee it will do well in the future. 
 
 
-*  _What type of earnings can you expect?_ Will you get income in the form of interest, dividends, or rent? Some investments, such as stocks and real estate, have the potential for earnings and growth in value. What is the potential for earnings over time? 
+*  *What type of earnings can you expect?* Will you get income in the form of interest, dividends, or rent? Some investments, such as stocks and real estate, have the potential for earnings and growth in value. What is the potential for earnings over time? 
 
 
-*  _How much risk is involved?_ With any investment, there is always the risk that you won&rsquo;t get your money back or the earnings promised. There is usually a trade-off between risk and reward—the higher the potential return, the greater the risk. The federal government insures bank savings accounts and backs up U.S. Treasury securities (including savings bonds). See FDIC on page 106 and the chart on page 7 for regulatory information. Other investment options are not protected. 
+*  *How much risk is involved?* With any investment, there is always the risk that you won&rsquo;t get your money back or the earnings promised. There is usually a trade-off between risk and reward—the higher the potential return, the greater the risk. The federal government insures bank savings accounts and backs up U.S. Treasury securities (including savings bonds). See FDIC on page 106 and the chart on page 7 for regulatory information. Other investment options are not protected. 
 
 
-*  _Are your investments diversified?_ Some investments perform better than others in certain situations. For example, when interest rates go up, bond prices tend to go down. One industry may struggle while another prospers. Putting your money in a variety of investment options can help to reduce your risk. 
+*  *Are your investments diversified?* Some investments perform better than others in certain situations. For example, when interest rates go up, bond prices tend to go down. One industry may struggle while another prospers. Putting your money in a variety of investment options can help to reduce your risk. 
 
 
-*  _Are there any tax advantages to a particular investment?_ U.S. Savings Bonds are exempt from state and local taxes. Municipal bonds are exempt from federal income tax and, sometimes, state income tax as well. Tax-deferred investments for special goals, such as paying for college and retirement, are available that let you postpone or even avoid paying income taxes. 
+*  *Are there any tax advantages to a particular investment?* U.S. Savings Bonds are exempt from state and local taxes. Municipal bonds are exempt from federal income tax and, sometimes, state income tax as well. Tax-deferred investments for special goals, such as paying for college and retirement, are available that let you postpone or even avoid paying income taxes. 
 
 For more information about investing, check out the Securities and Exchange Commission&rsquo;s (SEC&rsquo;s) website: link:$$http://www.investor.gov$$[www.investor.gov]. Be sure to note specific tips at link:$$http://investor.gov/node/274$$[investor.gov/Saving-and-Investing]. The SEC requires public companies to disclose financial and other information to help you make sound decisions. View the text of these files at link:$$http://www.sec.gov/edgar.shtml$$[www.sec.gov/edgar.shtml], or call the SEC toll-free Investor Information Service at 1-800-732-0330 to obtain free publications and investor alerts, or to learn how to file a complaint. 
 
@@ -117,7 +117,7 @@ When selecting a broker or investment advisor, research the person&rsquo;s educa
 
 *  What are the fees for setting up and servicing your account? 
 
-_Additional organizations that could be helpful are:_ 
+*Additional organizations that could be helpful are:* 
 
 
 *  The Commodity Futures Trading Commission (CFTC) provides consumer alerts and advisories. Visit link:$$http://www.cftc.gov/ConsumerProtection$$[www.cftc.gov/ConsumerProtection]. The CFTC oversees the Reparations Program that resolves disputes between commodity customers and commodity professionals. You can institute &ldquo;reparations&rdquo; proceedings against commodity professionals registered with the CFTC if they violate the anti-fraud or other provisions of the Commodity Exchange Act. To ask a question, report information, or submit a complaint, contact the CFTC (p. 108). 
@@ -268,7 +268,7 @@ As you approach retirement, there are many factors to consider. Experts advise t
 
 In addition to planning to maintain your lifestyle during retirement, you may need to purchase long-term health insurance (p. 34) or to pay for assisted-living services (p. 25). 
 
-_For more information go to:_ 
+*For more information go to:* 
 
 
 *  AARP: link:$$http://www.aarp.org$$[www.aarp.org] 

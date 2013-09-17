@@ -1,5 +1,6 @@
+
 [appendix]
-== Appendix
+== 
 
 Single copies of the current _Consumer Action Handbook_ are available by writing _Handbook_, Federal Citizen Information Center, Pueblo, CO 81009. The _Handbook_ can also be viewed and ordered online at  link:$$http://www.USA.gov/consumer$$[USA.gov/consumer]. 
 

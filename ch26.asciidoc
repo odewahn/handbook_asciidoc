@@ -23,7 +23,7 @@ Before sending a written complaint, call the office to confirm that it handles t
 
 ==== State Offices
 
-_Alabama Office of the Attorney General_ 
+*Alabama Office of the Attorney General* 
 
 Consumer Affairs Section 501 Washington Ave. Montgomery, AL 36104 334-242-7335 Toll free: 1-800-392-5658 (AL) 
 
@@ -35,7 +35,7 @@ link:$$http://www.ago.state.al.us$$[www.ago.state.al.us]
 
 ==== State Offices
 
-_Office of the Attorney General_ 
+*Office of the Attorney General* 
 
 Consumer Protection Unit 1031 W. 4th Ave., Suite 200 Anchorage, AK 99501-5903 907-269-5200 Toll free: 1-888-576-2529 
 
@@ -49,7 +49,7 @@ link:$$http://www.law.state.ak.us$$[www.law.state.ak.us]
 
 ==== State Offices
 
-_Arizona Office of the Attorney General-Phoenix_ 
+*Arizona Office of the Attorney General-Phoenix* 
 
 Consumer Information and Complaints 1275 W. Washington St. Phoenix, AZ 85007 602-542-5763 Toll free: 1-800-352-8431 (AZ, except Maricopa and Pima) 
 
@@ -57,7 +57,7 @@ pass:[<email>consumerinfo@azag.gov</email>]
 
 link:$$http://www.azag.gov$$[www.azag.gov] 
 
-_Arizona Office of the Attorney General- Tucson_ 
+*Arizona Office of the Attorney General- Tucson* 
 
 Consumer Information and Complaints 400 W. Congress St. South Bldg., Suite 315 Tucson, AZ 85701-1367 520-628-6504 Toll free: 1-800-352-8431 (AZ, except Maricopa and Pima) 
 
@@ -71,7 +71,7 @@ link:$$http://www.azag.gov$$[www.azag.gov]
 
 ==== State Offices
 
-_Arkansas Office of the Attorney General_ 
+*Arkansas Office of the Attorney General* 
 
 Consumer Protection Division 323 Center St., Suite 200 Little Rock, AR 72201 501-682-2007 Toll free: 1-800-482-8982 (Consumer Hotline) 
 
@@ -83,7 +83,7 @@ link:$$http://www.arkansasag.gov$$[www.arkansasag.gov]
 
 ==== State Offices
 
-_California Bureau of Automotive Repair_ 
+*California Bureau of Automotive Repair* 
 
 Department of Consumer Affairs 10949 N. Mather Blvd. Rancho Cordova, CA 95670 Toll free: 1-800-952-5210 (Consumer Questions) Toll free: 1-866-799-3811 (Complaint Intake) 
 
@@ -91,7 +91,7 @@ pass:[<email>BAREditor@dca.ca.gov</email>]
 
 link:$$http://www.autorepair.ca.gov$$[www.autorepair.ca.gov] 
 
-_California Department of Consumer Affairs_ 
+*California Department of Consumer Affairs* 
 
 Consumer Information Division 1625 N. Market Blvd., Suite N 112 Sacramento, CA 95834 916- 445-1254 Toll free: 1-800-952-5210 TTY: 916-928-1227, 1-800-326-2297 
 
@@ -99,13 +99,13 @@ pass:[<email>dca@dca.ca.gov</email>]
 
 link:$$http://www.dca.ca.gov$$[www.dca.ca.gov] 
 
-_California Office of the Attorney General_ 
+*California Office of the Attorney General* 
 
 Public Inquiry Unit PO Box 944255 Sacramento, CA 94244-2550 916-322-3360 Toll free: 1-800-952-5225 (CA) TTY: 1-800-735-2929 
 
 link:$$http://www.caag.state.ca.us$$[www.caag.state.ca.us] 
 
-_Contractors State License Board_ 
+*Contractors State License Board* 
 
 9821 Business Park Dr. Sacramento, CA 95827 916-255-3900 (Headquarters) 916-255-2924 (Northern CA) 562-345-7600 (Southern CA) Toll free: 1-800-321-2752 
 
@@ -114,13 +114,13 @@ link:$$http://www.cslb.ca.gov$$[www.cslb.ca.gov]
 
 ==== County Offices
 
-_Contra Costa County District Attorney&rsquo;s Office_ 
+*Contra Costa County District Attorney&rsquo;s Office* 
 
 Special Operations Division-Consumer Fraud 900 Ward St., 4th Floor Martinez, CA 94553 925-957-8604 
 
 link:$$http://www.co.contra-costa.ca.us$$[www.co.contra-costa.ca.us] 
 
-_Fresno County District Attorney&rsquo;s Office_ 
+*Fresno County District Attorney&rsquo;s Office* 
 
 Consumer &amp; Environmental Protection Division 929 L St. Fresno, CA 93721 559-600-3156 
 
@@ -128,7 +128,7 @@ pass:[<email>damail@co.fresno.ca.us</email>]
 
 link:$$http://www.co.fresno.ca.us$$[www.co.fresno.ca.us] 
 
-_Kern County District Attorney&rsquo;s Office_ 
+*Kern County District Attorney&rsquo;s Office* 
 
 Consumer Protection Unit Justice Building 1215 Truxtun Ave., 4th Floor Bakersfield, CA 93301 661-868-7600 
 
@@ -136,7 +136,7 @@ pass:[<email>investigation@co.kern.ca.us</email>]
 
 link:$$http://www.co.kern.ca.us/da$$[www.co.kern.ca.us/da] 
 
-_Los Angeles County Department of Consumer Affairs_ 
+*Los Angeles County Department of Consumer Affairs* 
 
 500 W. Temple St., Room B-96 Los Angeles, CA 90012-2722 213-974-1452 Toll free: 1-800-593-8222 (L.A. County) TTY: 213-626-0913 
 
@@ -144,7 +144,7 @@ pass:[<email>dca@dca.lacounty.gov</email>]
 
 link:$$http:dca.lacounty.gov$$[dca.lacounty.gov] 
 
-_Marin County District Attorney&rsquo;s Office_ 
+*Marin County District Attorney&rsquo;s Office* 
 
 Consumer Protection Unit Hall of Justice, Room 130 3501 Civic Center Dr. San Rafael, CA 94903 415-473-6450 
 
@@ -152,13 +152,13 @@ pass:[<email>consumer@marincounty.org</email>]
 
 link:$$http://www.co.marin.ca.us$$[www.co.marin.ca.us] 
 
-_Monterey County District Attorney&rsquo;s Office_ 
+*Monterey County District Attorney&rsquo;s Office* 
 
 Consumer Protection Division 1200 Aguajito Rd., Room 301 Monterey, CA 93940 831-755-5073 (Salinas) 831-647-7770 (Monterey) 831-385-8373 (King City) 
 
 link:$$http://www.co.monterey.ca.us$$[www.co.monterey.ca.us] 
 
-_Napa County District Attorney&rsquo;s Office_ 
+*Napa County District Attorney&rsquo;s Office* 
 
 Consumer/Environmental Protection Division 931 Parkway Mall Napa, CA 94559 707-253-4059 (Hotline) 
 
@@ -166,7 +166,7 @@ pass:[<email>da@countyofnapa.org</email>]
 
 link:$$http://www.countyofnapa.org$$[www.countyofnapa.org] 
 
-_Orange County District Attorney&rsquo;s Office_ 
+*Orange County District Attorney&rsquo;s Office* 
 
 Consumer Protection Unit 401 Civic Center Dr., W Santa Ana, CA 92701 714-834-3600 
 
@@ -174,37 +174,37 @@ pass:[<email>consumercomplaint@da.ocgov.com</email>]
 
 link:$$http:orangecountyda.com$$[orangecountyda.com] 
 
-_San Diego County District Attorney&rsquo;s Office_ 
+*San Diego County District Attorney&rsquo;s Office* 
 
 Consumer Protection Unit 330 W. Broadway San Diego, CA 92101 619-531-4040 619-531-3507 (Hotline) 
 
 link:$$http://www.sdcda.org$$[www.sdcda.org] 
 
-_San Francisco County District Attorney&rsquo;s Office_ 
+*San Francisco County District Attorney&rsquo;s Office* 
 
 Special Operations Division-Consumer Protection Unit 732 Brannan St. San Francisco, CA 94102 415-551-9595 (Hotline) 
 
 link:$$http://www.sfdistrictattorney.org$$[www.sfdistrictattorney.org] 
 
-_San Luis Obispo County District Attorney&rsquo;s Office_ 
+*San Luis Obispo County District Attorney&rsquo;s Office* 
 
 Economic Crime Unit Consumer Advisory County Courthouse Annex 1050 Monterey St., Room 223 San Luis Obispo, CA 93408 805-781-5856 
 
 link:$$http://www.slocounty.ca.gov$$[www.slocounty.ca.gov] 
 
-_San Mateo County District Attorney&rsquo;s Office_ 
+*San Mateo County District Attorney&rsquo;s Office* 
 
 Consumer and Environmental Protection Unit Hall of Justice and Records 400 County Center, 3rd Floor Redwood City, CA 94063 650-363-4651 650-363-4636 (Complaints) 
 
 link:$$http://www.co.sanmateo.ca.us$$[www.co.sanmateo.ca.us] 
 
-_Santa Barbara County District Attorney&rsquo;s Office_ 
+*Santa Barbara County District Attorney&rsquo;s Office* 
 
 Consumer Mediation Services 1112 Santa Barbara St. Santa Maria, CA 93101 805-568-2300 
 
 link:$$http://www.countyofsb.org/da$$[www.countyofsb.org/da] 
 
-_Santa Clara County District Attorney&rsquo;s Office_ 
+*Santa Clara County District Attorney&rsquo;s Office* 
 
 Consumer Protection Unit 70 W. Hedding St., West Wing San Jose, CA 95110 408-792-2880 
 
@@ -212,7 +212,7 @@ pass:[<email>consumer_mediation@da.sccgov.org</email>]
 
 link:$$http://www.santaclara-da.org$$[www.santaclara-da.org] 
 
-_Santa Cruz County District Attorney&rsquo;s Office_ 
+*Santa Cruz County District Attorney&rsquo;s Office* 
 
 Consumer Affairs Unit 701 Ocean St., Room 200 Santa Cruz, CA 95060 831-454-2050 TTY: 831-454-2123 
 
@@ -220,7 +220,7 @@ pass:[<email>dao@co.santa-cruz.ca.us</email>]
 
 link:$$http://www.co.santa-cruz.ca.us$$[www.co.santa-cruz.ca.us] 
 
-_Solano County District Attorney&rsquo;s Office_ 
+*Solano County District Attorney&rsquo;s Office* 
 
 Consumer and Environmental Crimes 675 Texas St., Suite 5500 Fairfield, CA 94533 707-784-6859 
 
@@ -228,13 +228,13 @@ pass:[<email>SolanoDA@solanocounty.com</email>]
 
 link:$$http://www.co.solano.ca.us/depts/da$$[www.co.solano.ca.us/depts/da] 
 
-_Stanislaus County District Attorney&rsquo;s Office_ 
+*Stanislaus County District Attorney&rsquo;s Office* 
 
 Consumer Protection Unit 832 12th St., Suite 300 Modesto, CA 95354 209-525-5550 
 
 link:$$http://www.stanislaus-da.org$$[www.stanislaus-da.org] 
 
-_Ventura County District Attorney&rsquo;s Office_ 
+*Ventura County District Attorney&rsquo;s Office* 
 
 Consumer Mediation Section 800 S. Victoria Ave. Ventura, CA 93009 805-654-3110 Toll free: 1-800-660-5474 ext 3110 (Ventura) 
 
@@ -243,13 +243,13 @@ link:$$http:da.countyofventura.org$$[da.countyofventura.org]
 
 ==== City Offices
 
-_Los Angeles City Attorney&rsquo;s Office_ 
+*Los Angeles City Attorney&rsquo;s Office* 
 
 Consumer Protection Unit 200 N. Main St., Room 800 CHE Los Angeles, CA 90012 213-978-8080 TTY: 213-978-8310 
 
 link:$$http://www.atty.lacity.org$$[www.atty.lacity.org] 
 
-_San Diego City Attorney&rsquo;s Office_ 
+*San Diego City Attorney&rsquo;s Office* 
 
 Consumer and Environmental Protection Unit 1200 3rd Ave., #1620 San Diego, CA 92101 619-533-5600 TTY: 619-702-7198 
 
@@ -257,7 +257,7 @@ pass:[<email>cityattorney@sandiego.gov</email>]
 
 link:$$http://www.sandiego.gov/cityattorney$$[www.sandiego.gov/cityattorney] 
 
-_Santa Monica City Attorney&rsquo;s Office_ 
+*Santa Monica City Attorney&rsquo;s Office* 
 
 Consumer Protection Unit 1685 Main St., 3rd Floor Santa Monica, CA 90401 310-458-8336 TTY: 310-458-8696 
 
@@ -271,7 +271,7 @@ link:$$http://www.smgov.net/atty$$[www.smgov.net/atty]
 
 ==== State Offices
 
-_Colorado Office of the Attorney General_ 
+*Colorado Office of the Attorney General* 
 
 Consumer Protection Section 1525 Sherman St., 7th Floor Denver, CO 80203 303-866-5189 Toll free: 1-800-222-4444 (CO) 
 
@@ -282,19 +282,19 @@ link:$$http://www.coloradoattorneygeneral.gov$$[www.coloradoattorneygeneral.gov]
 
 ==== County Offices
 
-_Fourth Judicial District Attorney&rsquo;s Office_ 
+*Fourth Judicial District Attorney&rsquo;s Office* 
 
 Economic Crimes Division El Paso and Teller Counties 105 E. Vermijo Ave. Colorado Springs, CO 80903 719-520-6000 
 
 link:$$http://www.4thjudicialda.com$$[www.4thjudicialda.com] 
 
-_Pueblo County District Attorney&rsquo;s Office_ 
+*Pueblo County District Attorney&rsquo;s Office* 
 
 Economic Crimes Unit 215 W. 10th St. Pueblo, CO 81003 719-583-6000 
 
 link:$$http://www.pueblo.org%20$$[pueblo.org] 
 
-_Weld County District Attorney&rsquo;s Office_ 
+*Weld County District Attorney&rsquo;s Office* 
 
 915 10th St. PO Box 1167 Greeley, CO 80632-1167 970-356-4010 
 
@@ -303,7 +303,7 @@ link:$$http://www.co.weld.co.us$$[www.co.weld.co.us]
 
 ==== City Offices
 
-_Denver District Attorney&rsquo;s Office_ 
+*Denver District Attorney&rsquo;s Office* 
 
 Economic Crimes Unit 201 W. Colfax Ave. Denver, CO 80202 720-913-9179 
 
@@ -317,13 +317,13 @@ link:$$http://www.denverda.org$$[www.denverda.org]
 
 ==== State Offices
 
-_Connecticut Attorney General&rsquo;s Office_ 
+*Connecticut Attorney General&rsquo;s Office* 
 
 55 Elm St. Hartford, CT 06106 860-808-5318 
 
 link:$$http://www.ct.gov/ag$$[www.ct.gov/ag] 
 
-_Department of Consumer Protection_ 
+*Department of Consumer Protection* 
 
 165 Capitol Ave. Hartford, CT 06106-1630 Toll free: 1-800-842-2649 TTY: 860-713-7240 
 
@@ -334,7 +334,7 @@ link:$$http://www.ct.gov/dcp$$[www.ct.gov/dcp]
 
 ==== City Offices
 
-_Middletown Office of Consumer Protection_ 
+*Middletown Office of Consumer Protection* 
 
 Director of Consumer Protection 245 deKoven Dr. Middletown, CT 06457 860-344-3491 TTY: 860-344-3521 
 
@@ -346,7 +346,7 @@ link:$$http://www.cityofmiddletown.com$$[www.cityofmiddletown.com]
 
 ==== State Offices
 
-_Delaware Department of Justice_ 
+*Delaware Department of Justice* 
 
 Consumer Protection Division 820 N. French St., 5th Floor Wilmington, DE 19801 302-577-8600 Toll free: 1-800-220-5424 
 
@@ -360,7 +360,7 @@ link:$$http://www.attorneygeneral.delaware.gov$$[www.attorneygeneral.delaware.go
 
 ==== City Offices
 
-_Department of Consumer and Regulatory Affairs_ 
+*Department of Consumer and Regulatory Affairs* 
 
 1100 4th St., SW Washington, DC 20024 202-442-4400 TTY: 202-123-4567 
 
@@ -370,7 +370,7 @@ link:$$http://www.consumer.dc.gov$$[www.consumer.dc.gov]
 
 link:$$http://www.dcra.dc.gov$$[www.dcra.dc.gov] 
 
-_Office of the Attorney General_ 
+*Office of the Attorney General* 
 
 Consumer Protection and Antitrust 441 4th St., NW Washington, DC 20001 202-442-9828 (Hotline) 
 
@@ -384,19 +384,19 @@ link:$$http://www.consumer.dc.gov$$[www.consumer.dc.gov]link:$$http://www.oag.dc
 
 ==== State Offices
 
-_Florida Department of Agriculture and Consumer Services_ 
+*Florida Department of Agriculture and Consumer Services* 
 
 Division of Consumer Services Terry Lee Rhodes Building 2005 Apalachee Pkwy. Tallahassee, FL 32399-6500 850-410-3800 Toll free: 1-800-435-7352 (FL) Toll free: 1-800-352-9832 (in Spanish) 
 
 link:$$http://www.800helpfla.com$$[www.800helpfla.com] 
 
-_Florida Department of Financial Services_ 
+*Florida Department of Financial Services* 
 
 Division of Consumer Services 200 E. Gaines St. Tallahassee, FL 32399 850-413-3089 Toll free: 1-877-693-5236 
 
 link:$$http://www.myfloridacfo.com/Division/Consumers$$[www.myfloridacfo.com/Division/Consumers] 
 
-_Florida Office of the Attorney General_ 
+*Florida Office of the Attorney General* 
 
 PL-01 The Capitol Tallahassee, FL 32399-1050 850-414-3990 Toll free: 1-866-966-7226 (FL) Toll free: 1-800-203-3099 TTY: 1-800-955-8771 
 
@@ -407,31 +407,31 @@ link:$$http://www.seniorsvscrime.com$$[www.seniorsvscrime.com]
 
 ==== Regional Offices
 
-_Ft. Lauderdale Branch- Office of the Attorney General_ 
+*Ft. Lauderdale Branch- Office of the Attorney General* 
 
 Economic Crimes Division 110 S.E. 6th St., 9th Floor Fort Lauderdale, FL 33301-5000 954-712-4600 
 
 link:$$http://www.myfloridalegal.com$$[www.myfloridalegal.com] 
 
-_Jacksonville Branch- Office of the Attorney General_ 
+*Jacksonville Branch- Office of the Attorney General* 
 
 Economic Crimes Division 1300 Riverplace Blvd., Suite 405 Jacksonville, FL 32207 904-348-2720 
 
 link:$$http://www.myfloridalegal.com$$[www.myfloridalegal.com] 
 
-_Orlando Branch- Office of the Attorney General_ 
+*Orlando Branch- Office of the Attorney General* 
 
 Economic Crimes Division 135 W. Central Blvd., Suite 1000 Orlando, FL 32801 407-999-5588 
 
 link:$$http://www.myfloridalegal.com$$[www.myfloridalegal.com] 
 
-_Tampa Branch- Office of the Attorney General_ 
+*Tampa Branch- Office of the Attorney General* 
 
 Economic Crimes Division Concourse Center 4 3507 E. Frontage Rd., Suite 325 Tampa, FL 33607-1795 813-287-7950 
 
 link:$$http://www.myfloridalegal.com$$[www.myfloridalegal.com] 
 
-_West Palm Beach Branch- Office of the Attorney General_ 
+*West Palm Beach Branch- Office of the Attorney General* 
 
 Economic Crimes Division 1515 N. Flagler Dr., Suite 900 West Palm Beach, FL 33401 561-837-5000 
 
@@ -440,7 +440,7 @@ link:$$http:myfloridalegal.com$$[myfloridalegal.com]
 
 ==== County Offices
 
-_Broward County Permitting, Licensing &amp; Consumer Protection Division_ 
+*Broward County Permitting, Licensing &amp; Consumer Protection Division* 
 
 One N. University Dr., Mailbox 302 Plantation, FL 33324 954-765-4400 
 
@@ -448,13 +448,13 @@ pass:[<email>consumer@broward.org</email>]
 
 link:$$http://www.broward.org/permittingandlicensing$$[www.broward.org/permittingandlicensing] 
 
-_Hillsborough County Consumer Protection Agency_ 
+*Hillsborough County Consumer Protection Agency* 
 
 1101 E. 139th Ave. Tampa, FL 33613 813-903-3430 
 
 link:$$http://www.hillsboroughcounty.org/consumerprotection$$[www.hillsboroughcounty.org/consumerprotection] 
 
-_Miami-Dade County Consumer Services Department_ 
+*Miami-Dade County Consumer Services Department* 
 
 Consumer Protection Section 140 W. Flagler St., Suites 902 Miami, FL 33130 305-375-3677 
 
@@ -462,13 +462,13 @@ pass:[<email>consumer@miamidade.gov</email>]
 
 link:$$http://www.miamidade.gov/csd$$[www.miamidade.gov/csd] 
 
-_Office of the State Attorney for Miami-Dade County_ 
+*Office of the State Attorney for Miami-Dade County* 
 
 Economic Crime Division 1350 N.W. 12th Ave. Miami, FL 33136-2111 305-547-0671 
 
 link:$$http://www.miamisao.com$$[www.miamisao.com] 
 
-_Orange County Consumer Fraud Unit_ 
+*Orange County Consumer Fraud Unit* 
 
 415 N. Orange Ave. PO Box 1673 Orlando, FL 32802 407-836-2490 
 
@@ -476,13 +476,13 @@ pass:[<email>fraudhelp@sao9.org</email>]
 
 link:$$http://www.orangecountyfl.net$$[www.orangecountyfl.net] 
 
-_Palm Beach County Consumer Affairs Division_ 
+*Palm Beach County Consumer Affairs Division* 
 
 50 S. Military Tr., Suite 201 West Palm Beach, FL 33415 561-712-6600 Toll free: 1-888-852-7362 (Boca/Delray/Glades) 
 
 link:$$http://www.pbcgov.com/consumer$$[www.pbcgov.com/consumer] 
 
-_Pinellas County Office of Consumer Services_ 
+*Pinellas County Office of Consumer Services* 
 
 631 Chestnut St. Clearwater, FL 33756 727-464-6200 TTY: 727-464-6088 
 
@@ -496,7 +496,7 @@ link:$$http://www.pinellascounty.org/consumer$$[www.pinellascounty.org/consumer]
 
 ==== State Offices
 
-_Georgia Governors Office of Consumer Affairs_ 
+*Georgia Governors Office of Consumer Affairs* 
 
 Two Martin Luther King, Jr. Dr., SE Suite 356 Atlanta, GA 30334-9077 404-651-8600 Toll free: 1-800-869-1123 (GA) 
 
@@ -508,7 +508,7 @@ link:$$http://www.consumer.georgia.gov$$[www.consumer.georgia.gov]
 
 ==== State Offices
 
-_Hawaii Department of Commerce and Consumer Affairs - Hilo_ 
+*Hawaii Department of Commerce and Consumer Affairs - Hilo* 
 
 Office of Consumer Protection 345 Kekuanaoa St., Suite 12 Hilo, HI 96720 808-933-0910 808-587-3222 (Consumer Resource Center) 
 
@@ -516,7 +516,7 @@ pass:[<email>ocp@dcca.hawaii.gov</email>]
 
 link:$$http://www.hawaii.gov/dcca$$[www.hawaii.gov/dcca] 
 
-_Hawaii Department of Commerce and Consumer Affairs - Honolulu (Main Location)_ 
+*Hawaii Department of Commerce and Consumer Affairs - Honolulu (Main Location)* 
 
 Office of Consumer Protection 235 S. Beretania St., Suite 801 Honolulu, HI 96813 808-586-2630 808-587-3222 (Consumer Resource Center) 
 
@@ -524,7 +524,7 @@ pass:[<email>ocp@dcca.hawaii.gov</email>]
 
 link:$$http://www.hawaii.gov/dcca/ocp$$[www.hawaii.gov/dcca/ocp] 
 
-_Hawaii Department of Commerce and Consumer Affairs - Wailuku_ 
+*Hawaii Department of Commerce and Consumer Affairs - Wailuku* 
 
 Office of Consumer Protection 1063 Lower Main St., Suite C-216 Wailuku, HI 96793 808-984-8244 808-587-3222 (Consumer Resource Center) 
 
@@ -538,7 +538,7 @@ link:$$http://www.hawaii.gov/dcca/ocp$$[www.hawaii.gov/dcca/ocp]
 
 ==== State Offices
 
-_Idaho Attorney General&rsquo;s Office_ 
+*Idaho Attorney General&rsquo;s Office* 
 
 Consumer Protection Division 954 W. Jefferson, 2nd Floor PO Box 83720 Boise, ID 83720 208-334-2424 Toll free: 1-800-432-3545 (ID) 
 
@@ -550,19 +550,19 @@ link:$$http://www.ag.idaho.gov$$[www.ag.idaho.gov]
 
 ==== State Offices
 
-_Illinois Office of the Attorney General - Carbondale_ 
+*Illinois Office of the Attorney General - Carbondale* 
 
 Consumer Fraud Bureau  601 S. University Ave.  Carbondale, IL 62901  618-529-6400  Toll free: 1-800-243-0607  (Fraud Hotline, IL)  Toll free: 1-866-310-8398 (in Spanish)  TTY: 1-877-675-9339 (IL) 
 
 link:$$http://www.illinoisattorneygeneral.gov$$[www.illinoisattorneygeneral.gov] 
 
-_Illinois Office of the Attorney General - Chicago_ 
+*Illinois Office of the Attorney General - Chicago* 
 
 Consumer Fraud Bureau  100 W. Randolph St.  Chicago, IL 60601  312-814-3000  Toll free: 1-800-386-5438  (Fraud Hotline, IL)  Toll free: 1-866-310-8398 (in Spanish)  TTY: 1-800-964-3013 (IL) 
 
 link:$$http://www.illinoisattorneygeneral.gov$$[www.illinoisattorneygeneral.gov] 
 
-_Illinois Office of the Attorney General - Springfield_ 
+*Illinois Office of the Attorney General - Springfield* 
 
 Consumer Fraud Bureau  500 S. 2nd St.  Springfield, IL 62706  217-782-1090  Toll free: 1-800-243-0618  (Fraud Hotline, IL)  Toll free: 1-866-310-8398 (in Spanish)  TTY: 1-877-844-5461 (IL) 
 
@@ -571,37 +571,37 @@ link:$$http://www.illinoisattorneygeneral.gov$$[www.illinoisattorneygeneral.gov]
 
 ==== Regional Offices
 
-_Chicago South Regional Office of the Attorney General_ 
+*Chicago South Regional Office of the Attorney General* 
 
 7906 S. Cottage Grove Ave. Chicago, IL 60619 773-488-2600 TTY: 1-866-717-8798 
 
 link:$$http://www.illinoisattorneygeneral.gov$$[www.illinoisattorneygeneral.gov] 
 
-_Chicago West Regional Office of the Attorney General_ 
+*Chicago West Regional Office of the Attorney General* 
 
 306 N. Pulaski Rd. Chicago, IL 60624 773-265-8808 TTY: 1-866-717-8804 
 
 link:$$http://www.illinoisattorneygeneral.gov$$[www.illinoisattorneygeneral.gov] 
 
-_East Central Illinois Regional Office of the Attorney General_ 
+*East Central Illinois Regional Office of the Attorney General* 
 
 1776 E. Washington St. Urbana, IL 61802 217-278-3366 TTY: 217-278-3371 
 
 link:$$http://www.illinoisattorneygeneral.gov$$[www.illinoisattorneygeneral.gov] 
 
-_Metro East Illinois Regional Office of the Attorney General_ 
+*Metro East Illinois Regional Office of the Attorney General* 
 
 201 W. Pointe Dr., Suite 7 Belleville, IL 62226 618-236-8616 TTY: 618-236-8619 
 
 link:$$http://www.illinoisattorneygeneral.gov$$[www.illinoisattorneygeneral.gov] 
 
-_Northern Illinois Regional Office of the Attorney General_ 
+*Northern Illinois Regional Office of the Attorney General* 
 
 Zeke Giorgi Center 200 S. Wyman St., Suite 307 Rockford, IL 61101 815-967-3883 TTY: 815-967-3891 
 
 link:$$http://www.illinoisattorneygeneral.gov$$[www.illinoisattorneygeneral.gov] 
 
-_West Central Illinois Regional Office of the Attorney General_ 
+*West Central Illinois Regional Office of the Attorney General* 
 
 628 Maine St. Quincy, IL 62301 217-223-2221 TTY: 217-223-2254 
 
@@ -610,7 +610,7 @@ link:$$http://www.illinoisattorneygeneral.gov$$[www.illinoisattorneygeneral.gov]
 
 ==== County Offices
 
-_Cook County State Attorney&rsquo;s Office_ 
+*Cook County State Attorney&rsquo;s Office* 
 
 Consumer Fraud Unit 69 W. Washington St., Suite 3130 Chicago, IL 60602 312-603-8600 312-603-8700 (Consumer Line) 
 
@@ -621,7 +621,7 @@ link:$$http://www.statesattorney.org/index2/consumer_fraud.html$$[www.statesatto
 
 ==== City Offices
 
-_Des Plaines Consumer Protection Services_ 
+*Des Plaines Consumer Protection Services* 
 
 1420 Miner St., 6th Floor Des Plaines, IL 60016 847-391-5006 
 
@@ -629,7 +629,7 @@ pass:[<email>consumerprotection@desplaines.org</email>]
 
 link:$$http://www.desplaines.org$$[www.desplaines.org] 
 
-_Chicago Division of Business Affairs and Consumer Protection_ 
+*Chicago Division of Business Affairs and Consumer Protection* 
 
 City Hall, 8th Floor 121 N. LaSalle St. Chicago, IL 60602 312-744-6060 TTY: 312-744-0254 
 
@@ -641,7 +641,7 @@ link:$$http://www.cityofchicago.org/ConsumerServices$$[www.cityofchicago.org/Con
 
 ==== State Offices
 
-_Office of the Attorney General_ 
+*Office of the Attorney General* 
 
 Consumer Protection Division Government Center South, 5th Floor 302 W. Washington St. Indianapolis, IN 46204 317-232-6330 Toll free: 1-800-382-5516 (Consumer Hotline) 
 
@@ -653,7 +653,7 @@ link:$$http://www.indianaconsumer.com$$[www.indianaconsumer.com]
 
 ==== State Offices
 
-_Iowa Office of the Attorney General_ 
+*Iowa Office of the Attorney General* 
 
 Consumer Protection Division 1305 E. Walnut St. Des Moines, IA 50319 515-281-5926 Toll free: 1-888-777-4590 (IA) 
 
@@ -667,7 +667,7 @@ link:$$http://www.IowaAttorneyGeneral.org$$[www.IowaAttorneyGeneral.org]
 
 ==== State Offices
 
-_Office of Kansas Attorney_ 
+*Office of Kansas Attorney* 
 
 Consumer Protection and Antitrust Division 120 S.W. 10th St., Suite 430 Topeka, KS 66612-1597 785-296-3751 Toll free: 1-800-432-2310 (KS) 
 
@@ -676,7 +676,7 @@ link:$$http://www.ag.ks.gov$$[www.ag.ks.gov]
 
 ==== County Offices
 
-_Douglas County District Attorney&rsquo;s Office_ 
+*Douglas County District Attorney&rsquo;s Office* 
 
 Consumer Protection Division  111 E. 11th St.  Lawrence, KS 66044  785-330-2849 (Consumer Hotline)  785-841-0211 (Main) 
 
@@ -684,13 +684,13 @@ pass:[<email>districtattorney@douglas-county.com</email>]
 
 link:$$http://www.douglas-county.com/depts/da/da_cpu.aspx$$[www.douglas-county.com/depts/da/da_cpu.aspx] 
 
-_Johnson County District Attorney&rsquo;s Office_ 
+*Johnson County District Attorney&rsquo;s Office* 
 
 Consumer Protection Division Consumer Fraud Unit PO Box 728 Olathe, KS 66051 913-715-3003 (Consumer Hotline) 
 
 link:$$http:da.jocogov.org$$[da.jocogov.org] 
 
-_Sedgwick County District Attorney&rsquo;s Office_ 
+*Sedgwick County District Attorney&rsquo;s Office* 
 
 Consumer Fraud and Economic Crime Unit 1900 E. Morris St. Wichita, KS 67211 316-660-3600 Toll free: 1-800-432-6878 (KS) 
 
@@ -704,7 +704,7 @@ link:$$http://www.sedgwickcounty.org/da$$[www.sedgwickcounty.org/da]
 
 ==== State Offices
 
-_Kentucky Office of the Attorney General_ 
+*Kentucky Office of the Attorney General* 
 
 Consumer Protection Division 1024 Capital Center Dr. Frankfort, KY 40601 502-696-5389 Toll free: 1-888-432-9257 (Hotline) 
 
@@ -712,7 +712,7 @@ pass:[<email>consumer.protection@ag.ky.gov</email>]
 
 link:$$http://www.ag.ky.gov/cp$$[www.ag.ky.gov/cp] 
 
-_Kentucky Office of the Attorney General - Louisville_ 
+*Kentucky Office of the Attorney General - Louisville* 
 
 Consumer Protection Division 310 Whittington Pkwy., Suite 101 Louisville, KY 40222 502-429-7134 Toll free: 1-888-432-9257 (Hotline) 
 
@@ -720,7 +720,7 @@ pass:[<email>consumer.protection@ag.ky.gov</email>]
 
 link:$$http://www.ag.ky.gov/cp$$[www.ag.ky.gov/]cp 
 
-_Kentucky Office of the Attorney General - Prestonsburg_ 
+*Kentucky Office of the Attorney General - Prestonsburg* 
 
 361 N. Lake Dr. Prestonsburg, KY 41653 606-889-1821 
 
@@ -734,7 +734,7 @@ link:$$http://www.ag.ky.gov/cp$$[www.ag.ky.gov/cp]
 
 ==== State Offices
 
-_Louisiana Office of the Attorney General_ 
+*Louisiana Office of the Attorney General* 
 
 Consumer Protection Section 1885 N. 3rd St. Baton Rouge, LA 70802 225-326-6465 Toll free: 1-800-351-4889 
 
@@ -745,7 +745,7 @@ link:$$http://www.ag.state.la.us$$[www.ag.state.la.us]
 
 ==== County Offices
 
-_Jefferson Parish District Attorney&rsquo;s Office_ 
+*Jefferson Parish District Attorney&rsquo;s Office* 
 
 Economic Crime Unit 200 Derbigny St. Gretna, LA 70053 504-361-2920 
 
@@ -757,13 +757,13 @@ link:$$http://www.jpda.us$$[www.jpda.us]
 
 ==== State Offices
 
-_Bureau of Consumer Credit Protection_ 
+*Bureau of Consumer Credit Protection* 
 
 35 State House Station Augusta, ME 04333 207-624-8527 Toll free: 1-800-332-8529 (ME) TTY: 1-888-577-6690 
 
 link:$$http://www.credit.maine.gov$$[www.credit.maine.gov] 
 
-_Maine Attorney General&rsquo;s Office_ 
+*Maine Attorney General&rsquo;s Office* 
 
 Consumer Information and Mediation Service Six State House Station Augusta, ME 04333 207-626-8849 Toll free: 1-800-436-2131 (Consumer Protection) 
 
@@ -777,7 +777,7 @@ link:$$http://www.maine.gov/ag$$[www.maine.gov/ag]
 
 ==== State Offices
 
-_Maryland Office of the Attorney General_ 
+*Maryland Office of the Attorney General* 
 
 Consumer Protection Division  200 Saint Paul Pl.  Baltimore, MD 21202  410-528-8662 (Consumer Mediation)  410-576-6550 (Consumer Information)  410-528-1840 (Medical Billing Complaints)  Toll free: 1-888-743-0023 (Switchboard)  Toll free: 1-877-261-8807 (Health Plan Decision Appeals)  TTY: 410-576-6372 (MD) 
 
@@ -788,7 +788,7 @@ link:$$http://www.oag.state.md.us/consumer$$[www.oag.state.md.us/consumer]
 
 ==== Regional Offices
 
-_Maryland Attorney General&rsquo;s Office - Eastern Shore_ 
+*Maryland Attorney General&rsquo;s Office - Eastern Shore* 
 
 Consumer Protection Division 201 Baptist St. Salisbury, MD 21801-4976 410-713-3620 Toll free: 1-888-743-0023 (Baltimore Office) TTY: 410-576-6372 
 
@@ -796,7 +796,7 @@ pass:[<email>consumer@oag.state.md.us</email>]
 
 link:$$http://www.oag.state.md.us/consumer$$[www.oag.state.md.us/consumer] 
 
-_Maryland Attorney General&rsquo;s Office - Southern Maryland_ 
+*Maryland Attorney General&rsquo;s Office - Southern Maryland* 
 
 PO Box 745 Hughesville, MD 20637 301-274-4620 Toll free: 1-866-366-8343 TTY: 410-576-6372 (Baltimore Office) 
 
@@ -804,7 +804,7 @@ pass:[<email>consumer@oag.state.md.us</email>]
 
 link:$$http://www.oag.state.md.us/Consumer$$[www.oag.state.md.us/Consumer] 
 
-_Maryland Attorney General&rsquo;s Office - Western Maryland_ 
+*Maryland Attorney General&rsquo;s Office - Western Maryland* 
 
 Consumer Protection Division 44 N. Potomac St., Suite 104 Hagerstown, MD 21740 301-791-4780 TTY: 410-576-6372 (Baltimore Office) 
 
@@ -815,7 +815,7 @@ link:$$http://www.oag.state.md.us/consumer$$[www.oag.state.md.us/consumer]
 
 ==== County Offices
 
-_Howard County Office of Consumer Affairs_ 
+*Howard County Office of Consumer Affairs* 
 
 6751 Columbia Gateway Dr. Columbia, MD 21046 410-313-6420 
 
@@ -823,7 +823,7 @@ pass:[<email>consumer@howardcountymd.gov</email>]
 
 link:$$http://www.howardcountymd.gov$$[www.howardcountymd.gov] 
 
-_Montgomery County Office of Consumer Protection_ 
+*Montgomery County Office of Consumer Protection* 
 
 100 Maryland Ave., Suite 330 Rockville, MD 20850 240-777-3636 240-777-3681 (Anonymous Consumer Tip Line) TTY: 240-773-3556 
 
@@ -837,7 +837,7 @@ link:$$http://www.montgomerycountymd.gov/consumer$$[www.montgomerycountymd.gov/c
 
 ==== State Offices
 
-_Massachusetts Office of the Attorney General_ 
+*Massachusetts Office of the Attorney General* 
 
 Consumer Protection Division One Ashburton Pl. Boston, MA 02108-1518 617-727-8400 (Consumer Hotline) TTY: 617-727-4765 
 
@@ -845,7 +845,7 @@ pass:[<email>ago@state.ma.us</email>]
 
 link:$$http://www.mass.gov/ago$$[www.mass.gov/ago] 
 
-_Office of Consumer Affairs and Business Regulation_ 
+*Office of Consumer Affairs and Business Regulation* 
 
 10 Park Plaza, Suite 5170  Boston, MA 02116  617-973-8700 (General Information)  Toll free: 1-888-283-3757 (MA, Consumer Hotline)  TTY: 1-800-720-3480 
 
@@ -854,7 +854,7 @@ link:$$http://www.mass.gov/Consumer$$[www.mass.gov/Consumer]
 
 ==== Regional Offices
 
-_Office of the Attorney General-Central Massachusetts Region_ 
+*Office of the Attorney General-Central Massachusetts Region* 
 
 Consumer Protection Division 10 Mechanic St., Suite 301 Worcester, MA 01608 508-792-7600 TTY: 617-727-4765 
 
@@ -862,7 +862,7 @@ pass:[<email>ago@state.ma.us</email>]
 
 link:$$http://www.mass.gov/ago/$$[mass.gov/ago] 
 
-_Office of the Attorney General-Southern Massachusetts Region_ 
+*Office of the Attorney General-Southern Massachusetts Region* 
 
 Consumer Protection Division 105 William St., 1st Floor New Bedford, MA 02740-6257 508-990-9700 TTY: 617-727-4765 
 
@@ -870,7 +870,7 @@ pass:[<email>ago@state.ma.us</email>]
 
 link:$$http://www.mass.gov/ago/$$[mass.gov/ago] 
 
-_Office of the Attorney General-Western Massachusetts Region_ 
+*Office of the Attorney General-Western Massachusetts Region* 
 
 Consumer Protection Division 1350 Main St., 4th Floor Springfield, MA 01103-1629 413-784-1240 TTY: 617-727-4765 
 
@@ -881,19 +881,19 @@ link:$$http://www.mass.gov/ago$$[www.mass.gov/ago]
 
 ==== County Offices
 
-_Norfolk District Attorney&rsquo;s Office_ 
+*Norfolk District Attorney&rsquo;s Office* 
 
 Consumer Protection Division 45 Shawmut Rd. Canton, MA 02021 781-830-4800 ext. 279 
 
 link:$$http://www.mass.gov/da/norfolk$$[www.mass.gov/da/norfolk] 
 
-_Northwestern District Attorney&rsquo;s Office - Franklin County_ 
+*Northwestern District Attorney&rsquo;s Office - Franklin County* 
 
 Consumer Protection Division 13 Conway St. Greenfield, MA 01301 413-774-3186 
 
 link:$$http:northwesternda.org$$[northwesternda.org] 
 
-_Northwestern District Attorney&rsquo;s Office - Hampshire County_ 
+*Northwestern District Attorney&rsquo;s Office - Hampshire County* 
 
 Consumer Protection Division One Gleason Plaza Northampton, MA 01060 413-586-9225 
 
@@ -902,7 +902,7 @@ link:$$http://www.northwesternda.org$$[northwesternda.org]
 
 ==== City Offices
 
-_Boston Consumer Affairs and Licensing_ 
+*Boston Consumer Affairs and Licensing* 
 
 One City Hall Square, Room 817 Boston, MA 02201-2039 617-635-3834 
 
@@ -910,7 +910,7 @@ pass:[<email>MOCAL@cityofboston.gov</email>]
 
 link:$$http://www.cityofboston.gov/consumeraffairs$$[www.cityofboston.gov/consumeraffairs] 
 
-_Cambridge Consumers Council_ 
+*Cambridge Consumers Council* 
 
 831 Massachusetts Ave., 1st Floor Cambridge, MA 02139 617-349-6150 TTY: 617-349-6112 
 
@@ -918,19 +918,19 @@ pass:[<email>Consumer@cambridgema.gov</email>]
 
 link:$$http://www.cambridgema.gov/consumercouncil.aspx$$[www.cambridgema.gov/consumercouncil.aspx] 
 
-_Newton-Brookline Consumer Office_ 
+*Newton-Brookline Consumer Office* 
 
 Newton City Hall 1000 Commonwealth Ave. Newton Centre, MA 02459 617-796-1292 TTY: 617-796-1089 
 
 link:$$http://www.newtonma.gov$$[www.newtonma.gov] 
 
-_Revere Consumer Affairs Office_ 
+*Revere Consumer Affairs Office* 
 
 150 Beach St. Revere, MA 02151 781-286-8114 
 
 link:$$http://www.revere.org$$[www.revere.org] 
 
-_Springfield Mayors Office of Consumer Information_ 
+*Springfield Mayors Office of Consumer Information* 
 
 City Hall, Room 315 36 Court St. Springfield, MA 01103 413-787-6437 TTY: 413-787-6154 
 
@@ -944,13 +944,13 @@ link:$$http://www.springfieldcityhall.com$$[www.springfieldcityhall.com]
 
 ==== State Offices
 
-_Michigan Department of Agriculture and Rural Development_ 
+*Michigan Department of Agriculture and Rural Development* 
 
 Consumer Protection Section Weights &amp; Measures 940 Venture Ln. Williamston, MI 48895 517-655-8202 Toll free: 1-800-632-3835 
 
 link:$$http://www.michigan.gov/wminfo$$[www.michigan.gov/wminfo] 
 
-_Office of the Attorney General_ 
+*Office of the Attorney General* 
 
 Consumer Protection Division PO Box 30213 Lansing, MI 48909-7713 517-373-1140 Toll free: 1-877-765-8388 
 
@@ -959,7 +959,7 @@ link:$$http://www.michigan.gov/ag$$[www.michigan.gov/ag]
 
 ==== County Offices
 
-_Macomb County Consumer Protection Unit_ 
+*Macomb County Consumer Protection Unit* 
 
 Office of the Prosecuting Attorney One S. Main St., 3rd Floor Mt. Clemens, MI 48043 586-469-5600 
 
@@ -968,7 +968,7 @@ link:$$http://www.macombcountymi.gov$$[www.macombcountymi.gov]
 
 ==== City Offices
 
-_Detroit Consumer Advocacy Division_ 
+*Detroit Consumer Advocacy Division* 
 
 18100 Meyers Rd. Detroit, MI 48235 313-224-6995 
 
@@ -980,7 +980,7 @@ link:$$http://www.ci.detroit.mi.us$$[www.ci.detroit.mi.us]
 
 ==== State Offices
 
-_Office of the Attorney General_ 
+*Office of the Attorney General* 
 
 Consumer Services Division 1400 Bremer Tower 445 Minnesota St. St. Paul, MN 55101 651-296-3353 Toll free: 1-800-657-3787 TTY: 651-297-7206, 1-800-366-4812 
 
@@ -989,7 +989,7 @@ link:$$http://www.ag.state.mn.us$$[www.ag.state.mn.us]
 
 ==== City Offices
 
-_Minneapolis Department of Regulatory Services_ 
+*Minneapolis Department of Regulatory Services* 
 
 Division of Licenses and Consumer Services 350 S. 5th St. City Hall, Room 1C Minneapolis, MN 55415 612-673-2080 TTY: 612-673-2157 
 
@@ -1001,13 +1001,13 @@ link:$$http://www.ci.minneapolis.mn.us/business-licensing$$[www.ci.minneapolis.m
 
 ==== State Offices
 
-_Mississippi Department of Agriculture and Commerce_ 
+*Mississippi Department of Agriculture and Commerce* 
 
 Bureau of Regulatory Services Consumer Protection PO Box 1609 Jackson, MS 39215 601-359-1148 
 
 link:$$http://www.mdac.state.ms.us$$[www.mdac.state.ms.us] 
 
-_Mississippi Office of the Attorney General_ 
+*Mississippi Office of the Attorney General* 
 
 Consumer Protection Division PO Box 22947 Jackson, MS 39225-2947 601-359-4230 Toll free: 1-800-281-4418 (MS) 
 
@@ -1019,7 +1019,7 @@ link:$$http://www.ago.state.ms.us$$[www.ago.state.ms.us]
 
 ==== State Offices
 
-_Missouri Attorney General&rsquo;s Office_ 
+*Missouri Attorney General&rsquo;s Office* 
 
 Consumer Protection Unit PO Box 899 Jefferson City, MO 65102 573-751-3321 Toll free: 1-800-392-8222 (MO, Hotline) 
 
@@ -1030,7 +1030,7 @@ link:$$http://www.ago.mo.gov$$[www.ago.mo.gov]
 
 ==== Regional Offices
 
-_Missouri Attorney General&rsquo;s Office-St Louis_ 
+*Missouri Attorney General&rsquo;s Office-St Louis* 
 
 Consumer Protection Division Old Post Office Building 815 Olive St., Suite 200 St. Louis, MO 63101 314-340-6816 Toll free: 1-800-392-8222 (MO, Hotline) 
 
@@ -1044,7 +1044,7 @@ link:$$http://www.ago.mo.gov$$[www.ago.mo.gov]
 
 ==== State Offices
 
-_Montana Office of Consumer Protection_ 
+*Montana Office of Consumer Protection* 
 
 Office of Consumer Protection PO Box 200151 2225 11th Ave. Helena, MT 59620-0151 406-444-4500 Toll free: 1-800-481-6896 
 
@@ -1058,7 +1058,7 @@ link:$$http://www.doj.mt.gov/consumer$$[www.doj.mt.gov/consumer]
 
 ==== State Offices
 
-_Nebraska Office of the Attorney General_ 
+*Nebraska Office of the Attorney General* 
 
 Consumer Protection Division 2115 State Capitol Lincoln, NE 68509 402-471-2682 Toll free: 1-800-727-6432 (NE) Toll free: 1-888-850-7555 (in Spanish) 
 
@@ -1072,9 +1072,9 @@ link:$$http://www.ago.ne.gov$$[www.ago.ne.gov]
 
 ==== State Offices
 
-_Nevada Department of Business and Industry_ 
+*Nevada Department of Business and Industry* 
 
-_Fight Fraud Task Force_ 
+*Fight Fraud Task Force* 
 
 link:$$http://www.fightfraud.nv.gov$$[www.fightfraud.nv.gov] 
 
@@ -1084,7 +1084,7 @@ link:$$http://www.fightfraud.nv.gov$$[www.fightfraud.nv.gov]
 
 ==== State Offices
 
-_New Hampshire Office of the Attorney General_ 
+*New Hampshire Office of the Attorney General* 
 
 Consumer Protection and Antitrust Bureau 33 Capitol St. Concord, NH 03301 603-271-3641 Toll free: 1-888-468-4454 (Consumer Protection Hotline) TTY: 1-800-735-2964 (NH) 
 
@@ -1098,7 +1098,7 @@ link:$$http://www.doj.nh.gov/consumer$$[www.doj.nh.gov/consumer]
 
 ==== State Offices
 
-_Department of Law and Public Safety_ 
+*Department of Law and Public Safety* 
 
 Division of Consumer Affairs 124 Halsey St. Newark, NJ 07102 973-504-6200 Toll free: 1-800-242-5846 (NJ) TTY: 973-504-6588 
 
@@ -1109,13 +1109,13 @@ link:$$http://www.njconsumeraffairs.gov$$[www.njconsumeraffairs.gov]
 
 ==== County Offices
 
-_Bergen County Office of Consumer Protection_ 
+*Bergen County Office of Consumer Protection* 
 
 One Bergen County Plaza, 3rd Floor Hackensack, NJ 07601-7076 201-336-6400 
 
 link:$$http://www.co.bergen.nj.us$$[www.co.bergen.nj.us] 
 
-_Burlington County Office of Consumer Affairs/Weights &amp; Measures_ 
+*Burlington County Office of Consumer Affairs/Weights &amp; Measures* 
 
 PO Box 6000  Mount Holly, NJ 08060-6000  609-265-5098 (Weights &amp; Measures)  609-265-5054 (Consumer Affairs) 
 
@@ -1123,7 +1123,7 @@ pass:[<email>consumer@co.burlington.nj.us</email>]
 
 link:$$http://www.co.burlington.nj.us$$[www.co.burlington.nj.us] 
 
-_Cape May County Consumer Affairs_ 
+*Cape May County Consumer Affairs* 
 
 Four Moore Rd., DN 310 Cape May Court House, NJ 08210-1601 609-886-2903 
 
@@ -1131,43 +1131,43 @@ pass:[<email>consumer@co.cape-may.nj.us</email>]
 
 link:$$http://www.capemaycountygov.net$$[www.capemaycountygov.net] 
 
-_Cumberland County Department of Consumer Affairs_ 
+*Cumberland County Department of Consumer Affairs* 
 
 788 E. Commerce St. Bridgeton, NJ 08302 856-453-2203 
 
 link:$$http://www.co.cumberland.nj.us$$[www.co.cumberland.nj.us] 
 
-_Essex County Division of Consumer Services_ 
+*Essex County Division of Consumer Services* 
 
 50 S. Clinton St., Suite 3201 East Orange, NJ 07018 973-395-8350 
 
 link:$$http://www.essex-countynj.org$$[www.essex-countynj.org] 
 
-_Gloucester County Office of Consumer Affairs and Weights &amp; Measures_ 
+*Gloucester County Office of Consumer Affairs and Weights &amp; Measures* 
 
 254 County House Rd. Clarksboro, NJ 08020 856-384-6855 TTY: 856-681-6128 
 
 link:$$http://www.co.gloucester.nj.us/depts/c/cpwm/default.asp$$[www.co.gloucester.nj.us/depts/c/cpwm/default.asp] 
 
-_Hudson County Division of Consumer Affairs_ 
+*Hudson County Division of Consumer Affairs* 
 
 583 Newark Ave. Jersey City, NJ 07306 201-795-6295 (Hotline) 
 
 link:$$http://www.hudsoncountynj.org$$[www.hudsoncountynj.org] 
 
-_Hunterdon County Office of Consumer Affairs_ 
+*Hunterdon County Office of Consumer Affairs* 
 
 PO Box 2900 Flemington, NJ 08822 908-806-5174 
 
 link:$$http://www.co.hunterdon.nj.us/consumeraffairs.htm$$[www.co.hunterdon.nj.us/consumeraffairs.htm] 
 
-_Mercer County Office of Consumer Affairs_ 
+*Mercer County Office of Consumer Affairs* 
 
 640 S. Broad St. PO Box 8068 Trenton, NJ 08650-0068 609-989-6671 
 
 link:$$http://www.mercercounty.org$$[www.mercercounty.org] 
 
-_Middlesex County Consumer Affairs_ 
+*Middlesex County Consumer Affairs* 
 
 711 Jersey Ave. New Brunswick, NJ 08901 732-745-3875 
 
@@ -1175,7 +1175,7 @@ pass:[<email>consumer@co.middlesex.nj.us</email>]
 
 link:$$http://www.co.middlesex.nj.us/consumeraffairs/index.asp$$[www.co.middlesex.nj.us/consumeraffairs/index.as] 
 
-_Monmouth County Department of Consumer Affairs_ 
+*Monmouth County Department of Consumer Affairs* 
 
 Hall of Records Annex One E. Main St. Freehold, NJ 07728-1255 732-431-7900 
 
@@ -1183,7 +1183,7 @@ pass:[<email>consumeraffairs@co.monmouth.nj.us</email>]
 
 link:$$http://www.visitmonmouth.com$$[www.visitmonmouth.com] 
 
-_Ocean County Department of Consumer Affairs_ 
+*Ocean County Department of Consumer Affairs* 
 
 1027 Hooper Ave., Bldg. #2 Toms River, NJ 08754-2191 732-929-2105 
 
@@ -1191,13 +1191,13 @@ pass:[<email>ConsumerAffairs@co.ocean.nj.us</email>]
 
 link:$$http://www.co.ocean.nj.us$$[www.co.ocean.nj.us] 
 
-_Passaic County Department of Consumer Protection/Weights &amp; Measures_ 
+*Passaic County Department of Consumer Protection/Weights &amp; Measures* 
 
 Department of Law 1310 Route 23 N Wayne, NJ 07470 973-305-5881 (Consumer Protection) 973-305-5750 (Weights &amp; Measures) 
 
 link:$$http://www.passaiccountynj.org$$[www.passaiccountynj.org] 
 
-_Somerset County Division of Consumer Protection_ 
+*Somerset County Division of Consumer Protection* 
 
 20 Grove St. PO Box 3000 Somerville, NJ 08876-1262 908-203-6080 
 
@@ -1205,7 +1205,7 @@ pass:[<email>consumerprotection@co.somerset.nj.us</email>]
 
 link:$$http://www.co.somerset.nj.us$$[www.co.somerset.nj.us] 
 
-_Union County Department of Public Safety_ 
+*Union County Department of Public Safety* 
 
 Division of Consumer Affairs 300 North Ave., E Westfield, NJ 07090 908-654-9840 
 
@@ -1214,25 +1214,25 @@ link:$$http://www.ucnj.org$$[www.ucnj.org]
 
 ==== City Offices
 
-_Nutley Consumer Affairs_ 
+*Nutley Consumer Affairs* 
 
 c/o Department of Public Affairs 149 Chestnut St. Nutley, NJ 07110 973-284-4976 
 
 link:$$http://www.nutleynj.org$$[www.nutleynj.org] 
 
-_Plainfield Action Services_ 
+*Plainfield Action Services* 
 
 City Hall Annex, 1st Floor 510 Watchung Ave. Plainfield, NJ 07061 908-753-3519 
 
 link:$$http://www.cityofplainfield.net/plainfieldactionservices.htm$$[www.cityofplainfield.net/plainfieldactionservices.htm] 
 
-_Secaucus Department of Consumer Affairs_ 
+*Secaucus Department of Consumer Affairs* 
 
 Municipal Government Center 1203 Patterson Plank Rd. Secaucus, NJ 07094 201-330-2008 
 
 link:$$http://www.njconsumeraffairs.gov/ocp/countyoff.htm$$[www.njconsumeraffairs.gov/ocp/ countyoff.htm] 
 
-_Union Consumer Affairs Office_ 
+*Union Consumer Affairs Office* 
 
 1976 Morris Ave. Union, NJ 07083 908-851-5458 
 
@@ -1244,7 +1244,7 @@ link:$$http://www.uniontownship.com$$[www.uniontownship.com]
 
 ==== State Offices
 
-_Office of Attorney Generral_ 
+*Office of Attorney Generral* 
 
 Consumer Protection Division PO Drawer 1508 Santa Fe, NM 87504-1508 505-827-6060 Toll free: 1-800-678-1508 
 
@@ -1256,19 +1256,19 @@ link:$$http://www.nmag.gov$$[www.nmag.gov]
 
 ==== State Offices
 
-_New York State Department of State_ 
+*New York State Department of State* 
 
 Division of Consumer Protection Consumer Assistance Unit 99 Washington Ave. Albany, NY 12231 518-474-8583 Toll free: 1-800-697-1220 
 
 link:$$http://www.nysconsumer.gov$$[www.nysconsumer.gov] 
 
-_Office of the Attorney General-Albany Office_ 
+*Office of the Attorney General-Albany Office* 
 
 Bureau of Consumer Frauds and Protection State Capitol Albany, NY 12224-0341 518-474-5481 Toll free: 1-800-771-7755 (NY) TTY: 1-800-788-9898 
 
 link:$$http://www.ag.ny.gov$$[www.ag.ny.gov] 
 
-_Office of the Attorney General- New York City Office_ 
+*Office of the Attorney General- New York City Office* 
 
 Bureau of Consumer Frauds and Protection 120 Broadway, 3rd Floor New York, NY 10271-0332 212-416-8000 Toll free: 1-800-771-7755 (Hotline) TTY: 1-800-788-9898 
 
@@ -1277,79 +1277,79 @@ link:$$http://www.ag.ny.gov$$[www.ag.ny.gov]
 
 ==== Regional Offices
 
-_Binghamton Regional Office of the Attorney General_ 
+*Binghamton Regional Office of the Attorney General* 
 
 State Office Building, 17th Floor 44 Hawley St. Binghamton, NY 13901 607-721-8771 Toll free: 1-800-771-7755 (Consumer Hotline) TTY: 1-800-788-9898 
 
 link:$$http://www.ag.ny.gov$$[www.ag.ny.gov] 
 
-_Brooklyn Regional Office of the Attorney General_ 
+*Brooklyn Regional Office of the Attorney General* 
 
 55 Hanson Pl., Suite 1080 Brooklyn, NY 11217 718-722-3949 Toll free: 1-800-771-7755 (Consumer Hotline) TTY: 1-800-788-9898 
 
 link:$$http://www.ag.ny.gov$$[www.ag.ny.gov] 
 
-_Buffalo Regional Office of the Attorney General_ 
+*Buffalo Regional Office of the Attorney General* 
 
 Main Place Tower, Suite 300A 350 Main St. Buffalo, NY 14202 716-853-8400 Toll free: 1-800-771-7755 (Consumer Hotline) TTY: 1-800-788-9898 
 
 link:$$http://www.ag.ny.gov$$[www.ag.ny.gov] 
 
-_Harlem Regional Office of the Attorney General_ 
+*Harlem Regional Office of the Attorney General* 
 
 163 W. 125th St., Suite 1324 New York, NY 10027 212-961-4475 Toll free: 1-800-771-7755 (Consumer Hotline) TTY: 1-800-788-9898 
 
 link:$$http://www.ag.ny.gov$$[www.ag.ny.gov] 
 
-_Nassau Regional Office of the Attorney General_ 
+*Nassau Regional Office of the Attorney General* 
 
 200 Old Country Rd., Suite 240 Mineola, NY 11501 516-248-3302 Toll free: 1-800-771-7755 (Consumer Hotline) TTY: 1-800-788-9898 
 
 link:$$http://www.ag.ny.gov$$[www.ag.ny.gov] 
 
-_Plattsburgh Regional Office of the Attorney General_ 
+*Plattsburgh Regional Office of the Attorney General* 
 
 43 Durkee St., Suite 700 Plattsburgh, NY 12901-2958 518-562-3288 Toll free: 1-800-771-7755 (Consumer Hotline) TTY: 1-800-788-9898 
 
 link:$$http://www.ag.ny.gov$$[www.ag.ny.gov] 
 
-_Poughkeepsie Regional Office of the Attorney General_ 
+*Poughkeepsie Regional Office of the Attorney General* 
 
 One Civic Center Plaza, Suite 401 Poughkeepsie, NY 12601-3157 845-485-3900 Toll free: 1-800-771-7755 (Consumer Hotline) TTY: 1-800-788-9898 
 
 link:$$http://www.ag.ny.gov$$[www.ag.ny.gov] 
 
-_Rochester Regional Office of the Attorney General_ 
+*Rochester Regional Office of the Attorney General* 
 
 144 Exchange Blvd., Suite 200 Rochester, NY 14614-2176 585-546-7430 Toll free: 1-800-771-7755 (Consumer Hotline) TTY: 1-800-788-9898 
 
 link:$$http://www.ag.ny.gov$$[www.ag.ny.gov] 
 
-_Suffolk Regional Office of the Attorney General_ 
+*Suffolk Regional Office of the Attorney General* 
 
 300 Motor Pkwy., Suite 205 Hauppauge, NY 11788 631-231-2424 Toll free: 1-800-771-7755 (Consumer Helpline) TTY: 1-800-788-9898 
 
 link:$$http://www.ag.ny.gov$$[www.ag.ny.gov] 
 
-_Syracuse Regional Office of the Attorney General_ 
+*Syracuse Regional Office of the Attorney General* 
 
 615 Erie Blvd. W, Suite 102 Syracuse, NY 13204 315-448-4800 Toll free: 1-800-771-7755 (Consumer Hotline) TTY: 1-800-788-9898 
 
 link:$$http://www.ag.ny.gov$$[www.ag.ny.gov] 
 
-_Utica Regional Office of the Attorney General_ 
+*Utica Regional Office of the Attorney General* 
 
 207 Genesee St., Room 508 Utica, NY 13501 315-793-2225 Toll free: 1-800-771-7755 (Consumer Hotline) TTY: 1-800-788-9898 
 
 link:$$http://www.ag.ny.gov$$[www.ag.ny.gov] 
 
-_Watertown Regional Office of the Attorney General_ 
+*Watertown Regional Office of the Attorney General* 
 
 Dulles State Office Building 317 Washington St. Watertown, NY 13601 315-785-2444 Toll free: 1-800-771-7755 (Consumer Hotline) TTY: 1-800-788-9898 
 
 link:$$http://www.ag.ny.gov$$[www.ag.ny.gov] 
 
-_Westchester Regional Office of the Attorney General_ 
+*Westchester Regional Office of the Attorney General* 
 
 101 E. Post Rd. White Plains, NY 10601-5008 914-422-8755 Toll free: 1-800-771-7755 (Consumer Helpline) TTY: 1-800-788-9898 
 
@@ -1358,7 +1358,7 @@ link:$$http://www.ag.ny.gov$$[www.ag.ny.gov]
 
 ==== County Offices
 
-_Albany County Department of Consumer Affairs_ 
+*Albany County Department of Consumer Affairs* 
 
 Consumer Affairs 112 State St., Suite 1207-08 Albany County Office Building Albany, NY 12207 518-447-7581 
 
@@ -1366,49 +1366,49 @@ pass:[<email>consumer_complaints@albanycounty.com</email>]
 
 link:$$http://www.albanycounty.com$$[www.albanycounty.com] 
 
-_Erie County District Attorney&rsquo;s Office_ 
+*Erie County District Attorney&rsquo;s Office* 
 
 Consumer Fraud Bureau Main Place Tower 350 Main St., Suite 300A Buffalo, NY 14202 716-853-8404 
 
 link:$$http://www.oag.state.ny.us$$[www.oag.state.ny.us] 
 
-_Nassau County Office of Consumer Affairs_ 
+*Nassau County Office of Consumer Affairs* 
 
 200 County Seat Dr. Mineola, NY 11501 516-571-2600 
 
 link:$$http://www.nassaucountyny.gov$$[www.nassaucountyny.gov] 
 
-_Orange County Department of Consumer Affairs_ 
+*Orange County Department of Consumer Affairs* 
 
 99 Main St. Goshen, NY 10924 845-360-6700 
 
 link:$$http://www.co.orange.ny.us$$[www.co.orange.ny.us] 
 
-_Putnam County Department of Consumer Affairs_ 
+*Putnam County Department of Consumer Affairs* 
 
 110 Old Route 6, Bldg. 3 Carmel, NY 10512 845-808-1617 
 
 link:$$http://www.putnamcountyny.com$$[www.putnamcountyny.com] 
 
-_Rockland County Office of Consumer Protection_ 
+*Rockland County Office of Consumer Protection* 
 
 18 New Hempstead Rd., 6th Floor New City, NY 10956 845-708-7600 
 
 link:$$http://www.rocklandgov.com$$[www.rocklandgov.com] 
 
-_Schenectady County Department of Consumer Affairs/Bureau of Weights &amp; Measures_ 
+*Schenectady County Department of Consumer Affairs/Bureau of Weights &amp; Measures* 
 
 64 Kellar Ave.  Schenectady, NY 12306  518-356-7473 (Consumer Affairs)  518-356-6795 (Weights &amp; Measures) 
 
 link:$$http://www.schenectadycounty.com$$[www.schenectadycounty.com] 
 
-_Ulster County Consumer Fraud Bureau_ 
+*Ulster County Consumer Fraud Bureau* 
 
 Consumer Fraud Bureau 20 Lucas Ave. Kingston, NY 12401-3708 845-340-3260 
 
 link:$$http://www.ulstercountyny.gov/consumerfraud$$[www.ulstercountyny.gov/consumerfraud] 
 
-_Westchester County Department of Consumer Protection_ 
+*Westchester County Department of Consumer Protection* 
 
 112 E. Post Rd., 4th Floor White Plains, NY 10601 914-995-2155 
 
@@ -1419,25 +1419,25 @@ link:$$http:consumer.westchestergov.com$$[consumer.westchestergov.com]
 
 ==== City Offices
 
-_Town of Colonie Attorney_ 
+*Town of Colonie Attorney* 
 
 Consumer Protection Board Memorial Town Hall 534 Loudon Rd. Newtonville, NY 12128 518-783-2787 
 
 link:$$http://www.colonie.org$$[www.colonie.org] 
 
-_Mt. Vernon Office of Consumer Affairs_ 
+*Mt. Vernon Office of Consumer Affairs* 
 
 City Hall One Roosevelt Square Mount Vernon, NY 10550 914-665-2433 
 
 link:$$http://www.cmvny.com$$[www.cmvny.com] 
 
-_New York City Department of Consumer Affairs_ 
+*New York City Department of Consumer Affairs* 
 
 42 Broadway New York, NY 10004 212-639-9675 TTY: 212-487-2710 
 
 link:$$http://www.nyc.gov/consumers$$[www.nyc.gov/consumers] 
 
-_Yonkers Consumer Protection Bureau_ 
+*Yonkers Consumer Protection Bureau* 
 
 87 Nepperhan Ave., Room 212 Yonkers, NY 10701 914-377-6808 914-377-3000 (Helpline) 
 
@@ -1449,13 +1449,13 @@ link:$$http://www.yonkersny.gov$$[www.yonkersny.gov]
 
 ==== State Offices
 
-_North Carolina Department of Agriculture and Consumer Services_ 
+*North Carolina Department of Agriculture and Consumer Services* 
 
 1001 Mail Service Center Raleigh, NC 27699-1001 919-707-3000 
 
 link:$$http://www.agr.state.nc.us/index.htm$$[www.agr.state.nc.us/index.htm] 
 
-_North Carolina Office of the Attorney General_ 
+*North Carolina Office of the Attorney General* 
 
 Consumer Protection Division Mail Service Center 9001 Raleigh, NC 27699-9001 919-716-6000 919-716-0058 (in Spanish) Toll free: 1-877-566-7226 (NC) 
 
@@ -1467,7 +1467,7 @@ link:$$http://www.ncdoj.gov$$[www.ncdoj.gov]
 
 ==== State Offices
 
-_Office of the Attorney General_ 
+*Office of the Attorney General* 
 
 Consumer Protection and Antitrust Division Gateway Professional Center 1050 E. Interstate Ave., Suite 200 Bismarck, ND 58503-5574 701-328-3404 Toll free: 1-800-472-2600 TTY: 1-800-366-6888 
 
@@ -1481,7 +1481,7 @@ link:$$http://www.ag.nd.gov$$[www.ag.nd.gov]
 
 ==== State Offices
 
-_Ohio Attorney General&rsquo;s Office_ 
+*Ohio Attorney General&rsquo;s Office* 
 
 Consumer Protection Section 30 E. Broad St., 14th Floor Columbus, OH 43215-3400 614-466-4320 Toll free: 1-800-282-0515 
 
@@ -1490,7 +1490,7 @@ link:$$http://www.ohioattorneygeneral.gov$$[www.ohioattorneygeneral.gov]
 
 ==== County Offices
 
-_Summit County Office of Consumer Affairs_ 
+*Summit County Office of Consumer Affairs* 
 
 175 S. Main St., Suite 209 Akron, OH 44308 330-643-2879 
 
@@ -1504,13 +1504,13 @@ link:$$http://www.co.summit.oh.us/consumeraffairs$$[www.co.summit.oh.us/consumer
 
 ==== State Offices
 
-_Oklahoma Department of Consumer Credit_ 
+*Oklahoma Department of Consumer Credit* 
 
 3613 N.W. 56th St., Suite 240 Oklahoma City, OK 73112-4512 405-521-3653 Toll free: 1-800-448-4904 (Consumer Hotline) 
 
 link:$$http://www.ok.gov/okdocc$$[www.ok.gov/okdocc] 
 
-_Oklahoma Attorney General_ 
+*Oklahoma Attorney General* 
 
 Consumer Protection Unit 313 N.E. 21st St. Oklahoma City, OK 73105 
 
@@ -1522,7 +1522,7 @@ link:$$http://www.oag.ok.gov$$[www.oag.ok.gov]
 
 ==== State Offices
 
-_Oregon Department of Justice_ 
+*Oregon Department of Justice* 
 
 Financial Fraud/Consumer Protection Section 1162 Court St., NE Salem, OR 97301-4096 503-378-4320 (Salem) 503-229-5576 (Portland) Toll free: 1-877-877-9392 (OR) TTY: 1-800-735-2900 
 
@@ -1536,7 +1536,7 @@ link:$$http://www.doj.state.or.us$$[www.doj.state.or.us]
 
 ==== State Offices
 
-_Office of the Attorney General_ 
+*Office of the Attorney General* 
 
 Bureau of Consumer Protection Strawberry Square, 14th Floor Harrisburg, PA 17120 717-787-9707 Toll free: 1-800-441-2555 (PA) Toll free: 1-888-520-6680 (Home Improvement) 
 
@@ -1545,31 +1545,31 @@ link:$$http://www.attorneygeneral.gov$$[www.attorneygeneral.gov]
 
 ==== Regional Offices
 
-_Erie Regional Office - Office of the Attorney General_ 
+*Erie Regional Office - Office of the Attorney General* 
 
 Bureau of Consumer Protection 1001 State St., 10th Floor Erie, PA 16501 814-871-4371 
 
 link:$$http://www.attorneygeneral.gov$$[www.attorneygeneral.gov] 
 
-_Philadelphia Regional Office Office of the Attorney General_ 
+*Philadelphia Regional Office Office of the Attorney General* 
 
 Bureau of Consumer Protection 21 S. 12th St., 2nd Floor Philadelphia, PA 19107 215-560-2414 
 
 link:$$http://www.attorneygeneral.gov$$[www.attorneygeneral.gov] 
 
-_Pittsburgh Regional Office - Bureau of Consumer Protection_ 
+*Pittsburgh Regional Office - Bureau of Consumer Protection* 
 
 Bureau of Consumer Protection Manor Complex, 6th Floor 564 Forbes Ave. Pittsburgh, PA 15219 412-565-5135 
 
 link:$$http://www.attorneygeneral.gov$$[www.attorneygeneral.gov] 
 
-_Scranton Regional Office of the Attorney General_ 
+*Scranton Regional Office of the Attorney General* 
 
 Bureau of Consumer Protection 100 Samter Building 101 Penn Ave. Scranton, PA 18503 570-963-4913 
 
 link:$$http://www.attorneygeneral.gov$$[www.attorneygeneral.gov] 
 
-_State College Regional Office of the Attorney General_ 
+*State College Regional Office of the Attorney General* 
 
 Bureau of Consumer Protection 444 E. College Ave., Suite 440 State College, PA 16801 814-863-3900 
 
@@ -1578,7 +1578,7 @@ link:$$http://www.attorneygeneral.gov$$[www.attorneygeneral.gov]
 
 ==== County Offices
 
-_Bucks County Department of Consumer Protection_ 
+*Bucks County Department of Consumer Protection* 
 
 50 N. Main St. Doylestown, PA 18901 215-348-7442 Toll free: 1-800-942-2669 
 
@@ -1586,7 +1586,7 @@ pass:[<email>consumerprotection@co.bucks.pa.us</email>]
 
 link:$$http://www.buckscounty.org$$[www.buckscounty.org] 
 
-_Delaware County Consumer Affairs_ 
+*Delaware County Consumer Affairs* 
 
 201 W. Front St. Government Center Building Media, PA 19063 610-891-4865 
 
@@ -1598,7 +1598,7 @@ link:$$http://www.co.delaware.pa.us/consumeraffairs$$[www.co.delaware.pa.us/cons
 
 ==== State Offices
 
-_Department de Asuntos Del Consumidor_ 
+*Department de Asuntos Del Consumidor* 
 
 Apartado 41059 Minillas Station Santurce, PR 00940 787-722-7555 Toll free: 1-866-520-3226 (PR) 
 
@@ -1610,7 +1610,7 @@ link:$$http://www.daco.gobierno.pr$$[www.daco.gobierno.pr]
 
 ==== State Offices
 
-_Rhode Island Department of the Attorney General_ 
+*Rhode Island Department of the Attorney General* 
 
 Consumer Protection Unit 150 S. Main St. Providence, RI 02903 401-274-4400 TTY: 401-453-0410 
 
@@ -1624,7 +1624,7 @@ link:$$http://www.riag.state.ri.us$$[www.riag.state.ri.us]
 
 ==== State Offices
 
-_South Carolina Department of Consumer Affairs_ 
+*South Carolina Department of Consumer Affairs* 
 
 PO Box 5757 Columbia, SC 29250 803-734-4200 Toll free: 1-800-922-1594 (SC) 
 
@@ -1638,7 +1638,7 @@ link:$$http://www.scconsumer.gov$$[www.scconsumer.gov]
 
 ==== State Offices
 
-_South Dakota Office of the Attorney General_ 
+*South Dakota Office of the Attorney General* 
 
 Consumer Protection 1302 E. Hwy. 14, Suite 3 Pierre, SD 57501 605-773-4400 Toll free: 1-800-300-1986 (SD) TTY: 605-773-6585 
 
@@ -1652,7 +1652,7 @@ link:$$http://www.state.sd.us/atg$$[www.state.sd.us/atg]
 
 ==== State Offices
 
-_Tennessee Department of Commerce and Insurance_ 
+*Tennessee Department of Commerce and Insurance* 
 
 Division of Consumer Affairs 500 James Robertson Pkwy., 12th Floor Nashville, TN 37243-0600 615-741-4737 Toll free: 1-800-342-8385 (TN) 
 
@@ -1660,7 +1660,7 @@ pass:[<email>consumer.affairs@tn.gov</email>]
 
 link:$$http://www.tn.gov/consumer$$[www.tn.gov/consumer] 
 
-_Tennessee Office of the Attorney General_ 
+*Tennessee Office of the Attorney General* 
 
 Consumer Advocate and Protection Division PO Box 20207 Nashville, TN 37202-0207 615-741-1671 
 
@@ -1672,7 +1672,7 @@ link:$$http://www.tn.gov/attorneygeneral$$[www.tn.gov/attorneygeneral]
 
 ==== State Offices
 
-_Texas Office of the Attorney General_ 
+*Texas Office of the Attorney General* 
 
 Consumer Protection Division PO Box 12548 Austin, TX 78711-2548 Toll free: 1-800-621-0508 
 
@@ -1681,31 +1681,31 @@ link:$$http://www.oag.state.tx.us$$[www.oag.state.tx.us]
 
 ==== Regional Offices
 
-_Office of the Attorney General Dallas Region_ 
+*Office of the Attorney General Dallas Region* 
 
 Consumer Protection Division 1412 Main St., Suite 810 Dallas, TX 75202 214-969-5310 Toll free: 1-800-621-0508 (TX) 
 
 link:$$http://www.oag.state.tx.us$$[www.oag.state.tx.us] 
 
-_Office of the Attorney General El Paso Region_ 
+*Office of the Attorney General El Paso Region* 
 
 Consumer Protection Division 401 E. Franklin Ave., Suite 530 El Paso, TX 79901 915-834-5800 Toll free: 1-800-621-0508 
 
 link:$$http://www.oag.state.tx.us$$[www.oag.state.tx.us] 
 
-_Office of the Attorney General Houston Region_ 
+*Office of the Attorney General Houston Region* 
 
 Consumer Protection Division 808 Travis St., Suite 1520 Houston, TX 77002-1702 713-223-5886 Toll free: 1-800-621-0508 
 
 link:$$http://www.oag.state.tx.us$$[www.oag.state.tx.us] 
 
-_Office of the Attorney General McAllen Region_ 
+*Office of the Attorney General McAllen Region* 
 
 Consumer Protection Division 3201 N. McColl Rd., Suite B McAllen, TX 78501 956-682-4547 Toll free: 1-800-621-0508 (TX) 
 
 link:$$http://www.oag.state.tx.us$$[www.oag.state.tx.us] 
 
-_Office of the Attorney General San Antonio Region_ 
+*Office of the Attorney General San Antonio Region* 
 
 Consumer Protection Division 115 E. Travis St., Suite 925 San Antonio, TX 78205 210-225-4191 Toll free: 1-800-621-0508 (TX) 
 
@@ -1714,13 +1714,13 @@ link:$$http://www.oag.state.tx.us$$[www.oag.state.tx.us]
 
 ==== County Offices
 
-_Dallas County District Attorney&rsquo;s Office_ 
+*Dallas County District Attorney&rsquo;s Office* 
 
 Check Division/ID Fraud 133 N. Industrial Blvd., LB 19 Dallas, TX 75207 214-653-3672 
 
 link:$$http://www.dallascounty.org$$[www.dallascounty.org] 
 
-_Harris County District Attorney&rsquo;s Office_ 
+*Harris County District Attorney&rsquo;s Office* 
 
 Consumer Protection Section 1201 Franklin St., Suite 600 Houston, TX 77002-1923 713-755-5836 
 
@@ -1732,7 +1732,7 @@ link:$$http:app.dao.hctx.net$$[app.dao.hctx.net]
 
 ==== State Offices
 
-_Utah Department of Commerce_ 
+*Utah Department of Commerce* 
 
 Division of Consumer Protection PO Box 146704 160 E. 300 S, 2nd Floor Salt Lake City, UT 84114-6704 801-530-6601 Toll free: 1-800-721-7233 
 
@@ -1746,13 +1746,13 @@ link:$$http://www.consumerprotection.utah.gov$$[www.consumerprotection.utah.gov]
 
 ==== State Offices
 
-_Vermont Agency of Agriculture, Food, and Markets_ 
+*Vermont Agency of Agriculture, Food, and Markets* 
 
 Food Safety and Consumer Protection 116 State St. Montpelier, VT 05620 802-828-2426 
 
 link:$$http://www.vermontagriculture.com$$[www.vermontagriculture.com] 
 
-_Vermont Office of the Attorney General_ 
+*Vermont Office of the Attorney General* 
 
 Consumer Assistance Program 146 University Pl. Burlington, VT 05405 802-656-3183 Toll free: 1-800-649-2424 (VT) 
 
@@ -1766,13 +1766,13 @@ link:$$http://www.atg.state.vt.us$$[www.atg.state.vt.us]
 
 ==== State Offices
 
-_Virgin Islands Department of Licensing and Consumer Affairs_ 
+*Virgin Islands Department of Licensing and Consumer Affairs* 
 
 3000 Golden Rock Shopping Center, Suite 9 St. Croix, VI 00820 340-773-2226 
 
 link:$$http://www.dlca.gov.vi$$[www.dlca.gov.vi] 
 
-_Virgin Islands Department of Licensing and Consumer Affairs_ 
+*Virgin Islands Department of Licensing and Consumer Affairs* 
 
 Property and Procurement Bldg. 8201 Sub Base, Suite 1 St. Thomas, VI 00802 340-774-3130 
 
@@ -1784,7 +1784,7 @@ link:$$http://www.dlca.gov.vi$$[www.dlca.gov.vi]
 
 ==== State Offices
 
-_Virginia Office of the Attorney General_ 
+*Virginia Office of the Attorney General* 
 
 Consumer Protection Section 900 E. Main St. Richmond, VA 23219 804-786-2042 Toll free: 1-800-552-9963 (VA) TTY: 1-800-828-1120 
 
@@ -1793,19 +1793,19 @@ link:$$http://www.ag.virginia.gov$$[www.ag.virginia.gov]
 
 ==== Regional Offices
 
-_Office of the Attorney General-Northern Virginia_ 
+*Office of the Attorney General-Northern Virginia* 
 
 10555 Main St., Suite 350 Fairfax, VA 22030 703-277-3540 
 
 link:$$http://www.ag.virginia.gov$$[www.ag.virginia.gov] 
 
-_Office of the Attorney General-Southwest Region_ 
+*Office of the Attorney General-Southwest Region* 
 
 204 Abingdon Pl. Abingdon, VA 24211 276-628-2759 
 
 link:$$http://www.ag.virginia.gov$$[www.ag.virginia.gov] 
 
-_Office of the Attorney General-Western Region_ 
+*Office of the Attorney General-Western Region* 
 
 3033 Peters Creek Rd. Roanoke, VA 24019 540-562-3570 
 
@@ -1814,7 +1814,7 @@ link:$$http://www.ag.virginia.gov$$[www.ag.virginia.gov]
 
 ==== County Offices
 
-_Fairfax County Department of Cable Communications and Consumer Protection_ 
+*Fairfax County Department of Cable Communications and Consumer Protection* 
 
 12000 Government Center Pkwy., Suite 433 Fairfax, VA 22035 703-222-8435 
 
@@ -1823,7 +1823,7 @@ link:$$http://www.fairfaxcounty.gov/consumer.htm$$[www.fairfaxcounty.gov/ consum
 
 ==== City Offices
 
-_Office of Consumer Affairs_ 
+*Office of Consumer Affairs* 
 
 301 King St. City Hall, Room 1900 Alexandria, VA 22314 703-746-4800 link:$$http://www.alexandriava.gov/citizen$$[www.alexandriava.gov/citizen] 
 
@@ -1833,7 +1833,7 @@ _Office of Consumer Affairs_
 
 ==== State Offices
 
-_Washington Office of the Attorney General_ 
+*Washington Office of the Attorney General* 
 
 Consumer Protection Division PO Box 40100 1125 Washington St., SE Olympia, WA 98504-0100 Toll free: 1-800-551-4636 (WA) TTY: 1-800-833-6384 
 
@@ -1842,31 +1842,31 @@ link:$$http://www.atg.wa.gov$$[www.atg.wa.gov]
 
 ==== Regional Offices
 
-_Bellingham Office of the Attorney General_ 
+*Bellingham Office of the Attorney General* 
 
 Consumer Protection Division (Island, San Juan, Skagit, and Whatcom Counties) 103 E. Holly St., Suite 308 Bellingham, WA 98225-4728 360-676-2037 Toll free: 1-800-551-4636 (WA) TTY: 1-800-833-6384 
 
 link:$$http://www.atg.wa.gov$$[www.atg.wa.gov] 
 
-_Seattle Office of the Attorney General_ 
+*Seattle Office of the Attorney General* 
 
 Consumer Protection Division (N. King, Snohomish, Clallam and Jefferson Counties, and Bainbridge Island) 800 5th Ave., Suite 2000 Seattle, WA 98104 206-464-7744 Toll free: 1-800-551-4636 (WA) TTY: 1-800-833-6384 
 
 link:$$http://www.atg.wa.gov$$[www.atg.wa.gov] 
 
-_Spokane Office of the Attorney General_ 
+*Spokane Office of the Attorney General* 
 
 Consumer Protection Division (Eastern Washington) 1116 W. Riverside Ave. Spokane, WA 99201-1194 509-456-3123 Toll free: 1-800-551-4636 (WA) TTY: 1-800-833-6384 
 
 link:$$http://www.atg.wa.gov$$[www.atg.wa.gov] 
 
-_Tacoma Office of the Attorney General_ 
+*Tacoma Office of the Attorney General* 
 
 Consumer Protection Division (Pierce, Mason, Grays Harbor Kitsap, and South King Counties) 1250 Pacific Ave., Suite 105 Tacoma, WA 98402 253-593-5243 Toll free: 1-800-551-4636 (WA) TTY: 1-800-833-6384 
 
 link:$$http://www.atg.wa.gov$$[www.atg.wa.gov] 
 
-_Vancouver Office of the Attorney General_ 
+*Vancouver Office of the Attorney General* 
 
 Consumer Protection Division (Clark, Cowlitz, Pacific, Skamania, Wahkiakum, Lewis, and Thurston Counties) 1220 Main St., Suite 549 Vancouver, WA 98660-2964 360-759-2100 Toll free: 1-800-551-4636 (WA) TTY: 1-800-833-6384 
 
@@ -1878,7 +1878,7 @@ link:$$http://www.atg.wa.gov/consumer$$[www.atg.wa.gov/consumer]
 
 ==== State Offices
 
-_Office of the Attorney General_ 
+*Office of the Attorney General* 
 
 Consumer Protection Division PO Box 1789 Charleston, WV 25326-1789 304-558-8986 Toll free: 1-800-368-8808 (WV) 
 
@@ -1892,7 +1892,7 @@ link:$$http://www.wvago.gov$$[www.wvago.gov]
 
 ==== State Offices
 
-_Wisconsin Department of Agriculture, Trade and Consumer Protection_ 
+*Wisconsin Department of Agriculture, Trade and Consumer Protection* 
 
 Bureau of Consumer Protection PO Box 8911 2811 Agriculture Dr. Madison, WI 53708-8911 608-224-4953 Toll free: 1-800-422-7128 (WI) TTY: 608-224-5058 
 
@@ -1906,7 +1906,7 @@ link:$$http://www.datcp.state.wi.us$$[www.datcp.state.wi.us]
 
 ==== State Offices
 
-_Office of the Attorney General_ 
+*Office of the Attorney General* 
 
 Consumer Protection Unit 123 State Capitol 200 W. 24th St. Cheyenne, WY 82002 307-777-5833 TTY: 307-777-5351 
 
