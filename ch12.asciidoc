@@ -148,104 +148,43 @@ If you are still working and your employer offers a plan, find out how it works.
 
 [options="header"]
 |===============
-|
-Type of investment
-|
-What is it?
-|
-Risk level
-
-|
-Traditional IRA
-|
-Traditional IRA is a personal savings plan that gives tax
+|Type of investment|What is it?|Risk level
+|Traditional IRA|Traditional IRA is a personal savings plan that gives tax
 advantages for savings for retirement. Investments may
 include a variety of securities. Contributions may be
-tax-deductible; earnings are not taxed until distributed.
-|
-Risk levels vary according to the holdings in the IRA.
-
-|
-Roth IRA
-|
-A personal savings plan where earnings that remain in the
+tax-deductible; earnings are not taxed until distributed.|Risk levels vary according to the holdings in the IRA.
+|Roth IRA|A personal savings plan where earnings that remain in the
 account are not taxed. Investments may include a variety
-of securities. Contributions are not tax-deductible.
-|
-Risk levels vary according to the holdings in the IRA.
-
-|
-Money Market Funds
-|
-Mutual funds that invest in short-term bonds. Usually pay
+of securities. Contributions are not tax-deductible.|Risk levels vary according to the holdings in the IRA.
+|Money Market Funds|Mutual funds that invest in short-term bonds. Usually pay
 better interest rates than a savings account but not as
-much as a certificate of deposit (CD).
-|
-Low risk.
-
-|
-Bonds and Bond Funds
-|
-Also known as
+much as a certificate of deposit (CD).|Low risk.
+|Bonds and Bond Funds|Also known as
 fixed-income securities because the income they pay is
 fixed when the bond is sold. Bonds and bond funds invest
-in corporate or government debt obligations.
-|
-Low risk.
-
-|
-Index Funds
-|
-Invest in a
+in corporate or government debt obligations.|Low risk.
+|Index Funds|Invest in a
 particular market index such as the S&amp;P 500 or the
 Russell 2000. An index fund is managed passively and
 mirrors the performance of the designated stock or bond
-index.
-|
-Risk level depends on which index the fund
+index.|Risk level depends on which index the fund
 uses. A bond index fund involves a lower risk level than
 an index fund of emerging markets overseas.
-
-|
-Stocks
-|
-Stocks represent a share of a company. As the
+|Stocks|Stocks represent a share of a company. As the
 company&rsquo;s value rises or falls, so does the value of the
-stock.
-|
-Medium to high risk.
-
-|
-Mutal Funds
-|
-Invest in a variety of securities, which may
+stock.|Medium to high risk.
+|Mutal Funds|Invest in a variety of securities, which may
 include stocks, bonds, and/or money market securities.
-Costs and objectives vary.
-|
-Risk levels vary according to the holdings in the
+Costs and objectives vary.|Risk levels vary according to the holdings in the
 mutual fund.
-
-|
-Market-linked CDs (or structured cds)
-|
-Returns are linked to the
+|Market-linked CDs (or structured cds)|Returns are linked to the
 future performance of a market index and may include
 stocks, bonds, foreign currency, or other assets. These
-are designed for long-term commitment (up to 20 years).
-|
-Medium to high risk.
-
-|
-Commodities
-|
-Physical commodities, such as an agricultural product or a
+are designed for long-term commitment (up to 20 years).|Medium to high risk.
+|Commodities|Physical commodities, such as an agricultural product or a
 natural resource (like gold). A futures contract is an
 agreement to purchase or sell a commodity for delivery in
-the future.
-|
-High risk.
-
-
+the future.|High risk.
 |===============
 
 
