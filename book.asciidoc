@@ -1,14 +1,10 @@
 = 2013 Consumer Action Handbook
 
-Be a Smarter Consumer
-
 include::pr01.asciidoc[]
 
 include::pr02.asciidoc[]
 
 = Be A Savvy Consumer
-
-
 
 include::ch01.asciidoc[]
 

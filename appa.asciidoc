@@ -1,10 +1,8 @@
-
 [appendix]
-== 
+== Appendix
 
-Single copies of the current _Consumer Action Handbook_ are available by writing _Handbook_, Federal Citizen Information Center, Pueblo, CO 81009. The _Handbook_ can also be viewed and ordered online at  link:$$http://www.USA.gov/consumer$$[USA.gov/consumer]. 
+Single copies of the current _Consumer Action Handbook_ are available by writing _Handbook_, Federal Citizen Information Center, Pueblo, CO 81009. The _Handbook_ can also be viewed and ordered online at link:$$http://www.USA.gov/consumer$$[USA.gov/consumer]. 
 
 The _2013 Consumer Action Handbook_ will be current through summer 2014. To place your name on a mailing list to receive the 2013 _Handbook_, please mail your request to the address listed above. For regularly updated consumer information, visit the Consumer Action website at link:$$http://www.USA.gov/consumer$$[USA.gov/consumer]. 
 
-We need your help to keep the _Handbook_ up-to-date. Please report any changes to _Handbook_ Update, Office of Citizen Services and Innovative Technologies, Federal Citizen Information Center, 1800 F Street, NW, Washington, DC 20405 or e-mail pass:[<email>action.handbook@gsa.gov</email>]. 
-
+We need your help to keep the _Handbook_ up-to-date. Please report any changes to _Handbook_ Update, Office of Citizen Services and Innovative Technologies, Federal Citizen Information Center, 1800 F Street, NW, Washington, DC 20405 or e-mail pass:[<email>action.handbook@gsa.gov</email>].
