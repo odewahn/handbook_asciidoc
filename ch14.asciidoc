@@ -1,0 +1,510 @@
+[[telecommunications]]
+
+== Telecommunications
+
+
+
+image::images/pdf5131_img_27.png[]
+
+ Choices for phone service, Internet, and television have never been greater. As devices have multiple functions, such as the ability to watch television shows on your computer or surf the Internet using your phone, your decisions about each of these services may overlap. Most consumers are now able to bundle phone, TV, and Internet service for a discount; however, buying a bundle of services could make it more difficult to change providers for any one service if you&rsquo;re tied into a long-term contract. Before you buy, compare services and prices and think about what you really need. 
+
+
+=== Internet
+
+
+==== Choosing Service Providers
+
+ To connect your computer to the Internet, you&rsquo;ll need an Internet Service Provider (ISP). Some ISPs are large and well known, while others are literally one-person operations. Some companies limit their service to providing Internet access only. Others, such as a telephone or cable company, may offer Internet access as part of a larger package of services. It is important to compare service providers and options to make sure you are getting what you want as well as the best deal possible to meet your needs. 
+
+ If you have limited Internet expertise, you may want to start with one of the well-known ISPs. They usually offer user-friendly startup software that often includes features such as a browser, instant messaging, parental controls, and pop-up blockers. Many also offer 24-hour tech support. However, this convenience results in higher monthly user fees. Once you are comfortable with how the Internet works, you may decide you don&rsquo;t need the &ldquo;extras&rdquo; and can switch to a lower-cost ISP. 
+
+ Consider these factors when selecting a provider: 
+
+
+*  _Speed_. If you only want to check e-mail and read web pages, a dial-up connection may be enough. But if you want to download music or television shows or watch videos, you will need a faster connection with broadband access, such as a digital subscriber line (DSL), cable modem, or satellite. 
+
+
+*  _Availability_. Which companies offer service in your area? 
+
+
+*  _Wireless access_. Can you get a wireless connection for other computers in your home? 
+
+
+*  _E-mail_. Do e-mail accounts come with the service? What will be the storage limit on your mailbox? 
+
+
+*  _Software_. Is any software required to activate the service? 
+
+
+*  _Support_. What kinds of support are available—phone, e-mail, chat, etc.? Is the support free? 
+
+
+*  _Special features_. What services are provided for spam blocking, virus protection, instant messaging, and chat rooms? 
+
+
+*  _Terms of service_. Is there a limit to the amount of data you can use per month? 
+
+
+*  _Cost_. What is the monthly fee for the service? Are there fees for renting a modem or set up? 
+
+
+==== WiFi (Wireless)
+
+ Going wireless provides you with the freedom to use your computer in multiple locations, without dragging cables and cords with you. However, with the privilege of increased freedom comes the danger of increased vulnerability. Wireless Internet requires that you have access to a wireless network via a wireless router. It is important that you secure your network so strangers (or neighbors) can&rsquo;t use your network without your knowledge (also known as &ldquo;piggybacking&rdquo;). Also, computer hackers could use your network to access personal information you save or send from your computer. This is particularly important if you conduct financial transactions online. If you use the wireless (Wi-Fi) network at bookstores, airports, or other public places, there are other precautions you should take to protect your privacy. 
+
+ At home: 
+
+
+*  _Turn on encryption._ When you buy a wireless router, it is important to turn on the encryption feature. This scrambles information that you send over the Internet so other people cannot access it. 
+
+
+*  _Rename your router._ Change the name from the default to something only you would know. 
+
+
+*  _Change the password._ Routers come with a standard password. Create a new one with a mix of letters, numbers, and special characters. For help creating passwords, see page 40. 
+
+
+.Protecting Children Online
+****
+ The Children&rsquo;s Online Privacy Protection Act requires  commercial websites to obtain parental consent before  collecting, using, or disclosing personal information from children under age 13. For more information,  contact the FTC (p. 107) or visit link:$$http://www.ftc.gov$$[www.ftc.gov]. 
+
+
+****
+
+
+
+.﻿Beware: Scareware
+****
+If you&rsquo;ve ever received a &ldquo;security alert&rdquo; stating  that malicious software was found on your computer, it  may have been scareware. These messages will persuade  you that your computer is infected with a virus that  you can eliminate only by purchasing and installing specific  software. Don&rsquo;t follow that advice; shut down your browser  without clicking on the message. If you believe your  computer is infected, you should run a scan using a known  anti-virus software. For more information about scareware  and protecting your computer, visit link:$$http://www.onguardonline.gov$$[www.onguardonline.gov]. 
+
+
+****
+
+
+
+* _Turn off your router_ when you are not using it. 
+
+
+*  __Be aware of cookies.__ Cookies are small text files that some websites place on your computer to collect information about the pages you view and your activities on the site. They also allow the site to recognize you when you return. For more information, visit link:$$http://www.ftc.gov/ftc/cookies.shtm$$[www.ftc.gov/ftc/cookies.shtm]. 
+
+ On public wireless networks: 
+
+
+*  _Don&rsquo;t assume the network is secure._ Most public wireless networks don&rsquo;t encrypt information you send. Avoid sending private information from public locations. 
+
+
+*  __Use encrypted websites.__ If you must send sensitive information from a public network, make certain that URL starts with &ldquo;https&rdquo; (&ldquo;s&rdquo; means secure). Look for that on every page you visit. 
+
+
+*  __Log off__ sites after you finish using them rather than using &ldquo;remember me&rdquo; features. It is better to log in again than give away your login credentials to someone else on the network. 
+
+ For more information about wireless computing, visit link:$$http://www.onguardonline.gov$$[www.onguardonline.gov]. 
+
+
+==== Online File Sharing
+
+ Every day, millions of computer users share files online. Whether music, games, video, or software, peer-topeer (P2P) file sharing allows users to share all kinds of content. To share files, you download special software that connects your computer to an informal network of other computers running the same software. The software is often free and easy to access. 
+
+ However, file sharing can have a number of risks. For example, when you are connected to file-sharing programs, you unknowingly could allow others to copy private files you never intended to share. You could download material that is protected by copyright laws and find yourself mired in legal issues; you could download a virus or facilitate a security breach; or you could unwittingly download pornography labeled as something else. 
+
+ To secure the personal information stored on your computer, the FTC suggests that you: 
+
+
+*  Set up the file-sharing software very carefully. 
+
+
+*  Be aware of spyware and use a good anti-spyware program. 
+
+
+*  Close your connection when you&rsquo;re not using it. 
+
+
+*  Use an effective anti-virus program and update it regularly. 
+
+
+*  Talk with your family about file sharing. 
+
+ For more information on P2P, visit link:$$http://www.onguardonline.gov$$[www.onguardonline.gov]. 
+
+
+==== Online Copyright Issues
+
+ Quite simply, it&rsquo;s illegal to make or download unauthorized copies of software or online media, such as books, music, and videos. Whether you are casually making a few copies for friends, lending disks, distributing and/or downloading pirated software via the Internet, or buying a single software program and then installing it on 100 computers, you are committing a copyright infringement. It doesn&rsquo;t matter whether or not you make money doing it. If you or your company is caught copying software, you may be held liable under both civil and criminal law. If the copyright owner brings a civil action against you, the owner can seek to stop you from using its software immediately and can request monetary damages. The copyright owner can sue for as much as $150,000 for each program copied. In addition, the government can prosecute you criminally for copyright infringement. If convicted, you can be fined up to $250,000, sentenced to jail for up to five years, or both. 
+
+ For more information, visit the Business Software Alliance&rsquo;s online piracy site, link:$$http://www.bsa.org$$[www.bsa.org]. 
+
+
+.Do You Really Own Those Songs?
+****
+ Today many consumers purchase music and e-books as digital downloads to play on digital music players or mobile devices. However, just because you buy the file, doesn&rsquo;t mean you actually own the song. A media service provider sells you a license to listen to your downloaded music, but that license may restrict your ability to lend, share, transfer, or burn the contents of your music library. You may be able to use the songs on several devices; the rules vary from provider to provider. Before you download or click &ldquo;I Agree,&rdquo; know your rights under the terms of service agreement. For more information about digital copyright, contact the United States Patent and Trademark Office (p. 97). 
+
+
+****
+
+
+
+.Buying Tickets Online
+****
+ When buying tickets online, be mindful of convenience or venue fees that can raise the price. Also, be mindful of the fine print. Some tickets are tied to your credit card, restricting your ability to donate, give them as gifts or resell them if you cannot attend because the same credit card must be shown at the event venue to enter. For more information about restricted ticketing, visit link:$$http://www.fanfreedom.org$$[fanfreedom.org]. 
+
+
+****
+
+
+
+==== Preventing Online Fraud
+
+ The Internet gives you easy access to information,  entertainment, financial offers, and countless other  services. The flip side, however, is that it can leave you vulnerable to online scammers, identity thieves, and criminals. 
+
+ Online frauds are not limited to fake companies.  Thieves will often try to disguise a fraudulent website  by giving the site a URL close to the URL of a legitimate, well-known site. Internet criminals try to trick customers of these legitimate sites into sharing their personal  information on fake sites, so they can use that information for identity theft or credit card fraud schemes. Some  scam artists have even used the IRS name and logo to collect  taxpayers&rsquo; personal information so they can steal taxpayers&rsquo; identity. Visit link:$$http://www.irs.gov/uac/Suspicious-e-Mails-and-Identity-Theft$$[www.irs.gov/uac/Suspicious-e-Mails-and-Identity-Theft] to learn more about tax-related online fraud and how to  identify a fraudulent e-mail or website. To guard against  Internet fraud, follow these tips: 
+
+
+*  _Know your seller._ If you don&rsquo;t, do some research. 
+
+
+*  _Company websites_ often provide information in a section called &ldquo;About Us.&rdquo; Some online sellers participate in programs, such as BBBOnLine, that help resolve problems. Look for a logo or endorsement seal on the company website; this indication, however, is not a guarantee of the seller&rsquo;s reliability. 
+
+
+*  _Check with state_ and/or local consumer offices. 
+
+
+*  _Reading comments from other consumers_ is another way to check the integrity of online sellers. Some Internet auction sites post ratings of sellers based on buyers&rsquo; comments. Beware of too many glowing stories the sellers themselves might have placed. 
+
+
+*  _Protect your personal information_. Don&rsquo;t provide it in response to an e-mail, a pop-up, or a website you&rsquo;ve linked to from an e-mail or web page. 
+
+
+*  _Take your time_ and resist any urge to &ldquo;act now&rdquo; to keep your account open or take advantage of a special offer. 
+
+
+*  _Use anti-virus and anti-spyware software_, as well as a firewall, and update them all regularly. Make sure your operating system and web browser are set up properly and update them regularly as well. 
+
+
+*  _Protect your passwords_. Don&rsquo;t share your passwords with anyone. Memorize them. 
+
+
+*  _Don&rsquo;t take the bait._ Don&rsquo;t reply to e-mail messages that claim your credit card information or other personal information needs to be updated. 
+
+
+*  _Back up important files_. Copy them onto another computer or a removable hard drive such as a flash memory stick. 
+
+ Learn whom to contact if something goes wrong online. Report suspected fraud to your bank, credit card company, or relevant authority. 
+
+
+.Social Networking
+****
+ Social networking sites such as Facebook, Twitter, LinkedIn, Pinterest, and others continue to gain popularity. These sites make it easy to reconnect, stay in touch, and even do business. But recent reports involving privacy concerns and crimes should make users more careful about the information they share. Some tips to consider to protect your privacy and safety include: 
+
+
+*  Make your contact information private. 
+
+
+*  Limit who can search your profile from Internet search engines. 
+
+
+*  Manage who can view your images; untag photos if necessary. 
+
+
+*  Create separate lists to manage who can see the information you&rsquo;ve posted. 
+
+
+*  Be careful about who can see your status updates. 
+
+
+*  Refrain from telling people where you are at any specific time. 
+
+
+*  Be cautious about arranging meetings in person with online acquaintances. 
+
+
+*  Keep in mind that current or prospective employers may be able to see your social network pages and photos. 
+
+ _For more information go to:_ 
+
+
+*  Federal Communications Commission:  link:$$http://www.reboot.fcc.gov/consumers$$[www.reboot.fcc.gov/consumers] 
+
+
+*  Federal Trade Commission:  link:$$http://www.onguardonline.gov$$[www.onguardonline.gov] 
+
+
+*  GetNetWise: link:$$http://www.getnetwise.org$$[www.getnetwise.org] 
+
+
+*  Internet Keep Safe Coalition: link:$$http://www.ikeepsafe.org$$[www.ikeepsafe.org] 
+
+
+*  i-SAFE: link:$$http://www.i-safe.org$$[www.i-safe.org] 
+
+
+*  National Center for Missing &amp; Exploited Children:  link:$$http://www.missingkids.com$$[www.missingkids.com] 
+
+
+*  National Crime Prevention Council:  link:$$http://www.ncpc.org$$[www.ncpc.org]; link:$$http://www.mcgruff.org$$[www.mcgruff.org] 
+
+
+*  National Cyber Security Alliance:  link:$$http://www.staysafeonline.org$$[www.staysafeonline.org] 
+
+
+*  Wired Safety: link:$$http://www.wiredsafety.org$$[www.wiredsafety.org] 
+
+ For additional information, visit link:$$http://www.ftc.gov$$[www.ftc.gov] or call 1-877-382-4357; TTY: 1-866-653-4261. 
+
+
+****
+
+
+ The FTC (p. 107) provides tips to help secure your computer, guard against Internet fraud, and protect your personal information. If you have been the victim of an online fraud, report it to the Internet Crime Complaint Center at link:$$http://www.ic3.gov$$[www.ic3.gov]. Visit link:$$http://www.onguardonline.gov$$[www.onguardonline.gov] for more information. 
+
+ To keep up to date with the latest computer threats, sign up for alerts from the U.S. Department of Homeland Security at link:$$http://www.uscert.gov$$[www.uscert.gov]. 
+
+
+==== Spam
+
+ E-mail spam is not just unwanted; it can be offensive. Decrease the number of spam e-mails you receive by making it difficult for spammers to get and use your e-mail address: 
+
+
+*  Don&rsquo;t use an obvious e-mail address, such as pass:[<email>JaneDoe@isp.com</email>]. Instead use numbers or other digits, such as pass:[<email>Jane4oe6@isp.com</email>]. 
+
+
+*  Use one e-mail address for close friends and family and another for everyone else. Free addresses are available from Yahoo!, Gmail, and Hotmail. You can also get a disposable forwarding address from link:$$http://www.spammotel.com$$[www.spammotel.com]. If an address attracts too much spam, get rid of it and establish a new one. 
+
+
+*  Don&rsquo;t post your e-mail address on a public web page. Spammers use software that harvests text addresses. Substitute &ldquo;jane4oe6 at isp.com&rdquo; for &ldquo;jane4oe6@isp. com,&rdquo; or display your address as a graphic image, not text. 
+
+
+*  Don&rsquo;t enter your address on a website before you check its privacy policy. 
+
+
+*  Uncheck any checked boxes. These often grant the site or its partners permission to contact you. 
+
+
+*  Don&rsquo;t click on an e-mail&rsquo;s &ldquo;unsubscribe&rdquo; link unless you trust the sender. This action tells the sender you are there. 
+
+
+*  Never forward chain letters, petitions, or virus warnings. All could be a spammer&rsquo;s trick to collect addresses. 
+
+
+*  Disable your e-mail &ldquo;preview pane.&rdquo; This stops spam from reporting to its sender that you&rsquo;ve received it. 
+
+
+*  Choose an ISP that filters e-mail. If you get lots of spam, your ISP may not be filtering effectively. 
+
+
+*  Use spam-blocking software. Web browser software often includes free filtering options. You can also purchase special software that will accomplish this task. 
+
+
+*  Report spam. Alert your ISP that spam is slipping through its filters. The FTC also wants to know about &ldquo;unsolicited commercial e-mail.&rdquo; Forward spam to pass:[<email>spam@uce.gov</email>].  For more information, visit link:$$http://www.ftc.gov/spam.$$[www.ftc.gov/spam]. 
+
+
+=== Phones
+
+ The choices for phone service have never been greater. Most consumers are now able to buy local and long-distance phone service from their telephone company, cable or satellite TV provider, or ISP. Services such as voice mail, call waiting, caller ID, and wireless may be offered as a package deal or sold separately. Before you buy, compare services and prices and think about what you really need: 
+
+
+*  Whom do you call most often? 
+
+
+*  What time of day or day of the week do you call? 
+
+
+*  Do you want to get messages? If so, do you need voice mail, or will an answering machine do? 
+
+
+*  Do you want call waiting and/or caller ID? 
+
+
+*  How important is it for you to have your phone with you 
+
+ when you are away from home? Find out how each company prices its services. Are there minimum use, time-of-day, or distance requirements; flat monthly fees; or special plans? For example, wireless service may be cheaper than regular local service if you don&rsquo;t make many calls. Make sure you&rsquo;re comparing prices on similar plans and features. Understand that many service providers offer contracts for specific periods. Read the fine print and ask questions if there is anything you&rsquo;re not clear about. 
+
+
+.Bundling, Promotions, And Deals
+****
+ Do you want to get Internet, telephone, and TV service from the same provider? Buying a bundle of services from one provider can be a good deal, but it can also make it more difficult to change providers for any one service if you&rsquo;re tied into a long-term contract. 
+
+ Special promotions such as introductory pricing may be enticing, but read the fine print. The promotion price probably does not include taxes or the cost of extra equipment or fees. Ask the provider to explain all the one-time, recurring, and special charges, including taxes and fees. Get all promises in writing. Ask when the special promotions end and what the post-promotion cost will be. Also find out whether you have to install any special equipment and whether the provider will help troubleshoot on the phone if you have any problems. 
+
+ Some deals are available only online or by phone. Even if you have to order online, call the provider first to ask questions. When you are online, review any frequently asked questions, minimum system requirements, and fine-print terms and conditions. Read the entire customer service agreement and print a copy for your records. For more information, visit link:$$http://www.ftc.gov/bcp/consumer.shtm$$[www.ftc.gov/bcp/consumer.shtm]. For help deciding on the best values from Internet, telephone, and TV service providers; filing a complaint; or learning more about consumer protections, go to link:$$http://www.reboot.fcc.gov/consumers$$[www.reboot.fcc.gov/consumers]. 
+
+
+****
+
+
+
+.Beware: Caller ID Spoofing
+****
+ Scammers have adopted the practice of Caller ID spoofing to  obtain personal information from consumers. In this fraud,  someone calls you using a false name and phone number for  the Caller ID screen. During the call, the scammer describes  an urgent scenario, such as the cancellation of an account.  The caller may say you can avoid the cancellation if you  provide your bank account or credit card number to pay the  company. If you give the sensitive information, the caller  can use it to steal your identity or use your bank accounts. 
+
+ You can prevent being a victim of caller ID spoofing.  Don&rsquo;t give out personal information on an incoming call.  Hang up and call the customer service phone number printed  on your statement, on the company&rsquo;s website, or in the  phonebook. 
+
+ Report caller ID spoofers to the Federal Communications  Commission at link:$$http://fcc.gov/complaints$$[fcc.gov/complaints] or 1-888-225-5322. 
+
+
+****
+
+
+ The FCC (p. 106) offers consumer information about choosing a long-distance carrier, understanding new phone fees and taxes, and more at link:$$http://www.fcc.gov/consumers$$[www.fcc.gov/consumers]. The National Consumers League also maintains a web page  (link:$$http://www.nclnet.org/technology/88-telecommunications/228-understanding-your-phone-bill$$[])  to help you understand phone charges and recognize fraud. 
+
+
+==== Slamming and Cramming
+
+ &ldquo;Slamming&rdquo; occurs when a phone company illegally switches your phone service without your permission. If you notice a different company name on your bill or see phone charges that are higher than normal, contact the company that slammed you and ask to be switched back to your original company. Tell the company you are exercising your right to refuse to pay charges, then report the problem to your original company and ask to be re-enrolled in your previous calling plan. 
+
+ &ldquo;Cramming&rdquo; occurs when companies add charges to your phone bill without your permission. These charges may be for services such as voice mail, ringtones, or subscriptions. You may not notice these monthly charges because they are relatively small, $5 to $30, and look like your regular phone charges. 
+
+ _Take These Steps to Avoid Slammers and Crammers:_ 
+
+
+*  _Block changes to your phone service._ Ask your telephone service provider if it offers a blocking or account protection service, which usually requires the company to notify you before making any changes to your service. 
+
+
+*  _Read the fine print_ on contest entry forms and coupons. You could be agreeing to switch your phone service or to buy optional services. 
+
+
+*  _Watch out for impostors._ Companies could falsely claim to be your regular phone company and offer some type of discount plan or change in billing. They may also say they are taking a survey or they may pretend to be a government agency. 
+
+
+*  _Beware of &ldquo;negative option notices.&rdquo;_ You can be switched or signed up for optional services unless you say &ldquo;NO&rdquo; to telemarketers. 
+
+
+*  _Examine your telephone bill_ carefully, including pages that show the details, and look for suspicious charges. 
+
+ Your phone service cannot be shut off for refusal to pay for unauthorized services. For help, contact your local or state consumer protection agency (p. 112), state public utilities commission (p. 138), or the FCC (p. 106). 
+
+
+==== Cell Phones
+
+ Before you sign a contract and choose a plan and a company that meets your needs, you should ask these types of questions: 
+
+ _Where can you make and receive calls?_ Most providers now offer a choice of local, regional, or national plans. A local plan offers low-cost options if most of your calls are near your home. Regional plans cover a larger geographic area—sometimes several states. If you call outside the area covered by these plans, you will pay long-distance and roaming charges in addition to the airtime used. National plans are the most expensive, but they let you use your phone anywhere in the country for a single per-minute price. 
+
+
+
+image::images/pdf5131_img_28.png[]
+
+ _How frequently will you use the phone?_ If you just want a phone for emergencies, an economy plan with a few minutes a month may be all you need. On the other hand, if your cell phone is your primary phone, a plan with the lowest airtime rate is a wiser choice. If you plan to use texting, pick a plan that will meet your needs and avoid surprises on your bills. Most services allow you to upgrade a plan without an added one-time charge. 
+
+ __Is a family plan option available?__ You can share one cellular service plan and a pool of monthly usage minutes among several phone lines. The cost of the additional numbers per month is usually less than if you purchased individual accounts. 
+
+ _Is there a trial period?_ There are &ldquo;dead spots&rdquo; where a cell phone doesn&rsquo;t  work. A trial period lets you test your service and try the features  of the phone without incurring a termination fee.
+
+
+ _Know your options._ Make sure you are only buying the options or features you really need.  It is always easier to upgrade a plan later if you feel you need another  feature.
+
+
+ _What if you want to cancel your service?_ Most providers have a penalty. This is a concern if you have to move out of the area covered by your plan. 
+
+ Be sure to keep track of your usage and understand your  cell phone bill to avoid &ldquo;bill shock.&rdquo; Visit link:$$http://www.fcc.gov/encyclopedia/bill-shock$$[www.fcc.gov/encyclopedia/bill-shock]  to learn more about reading your cell phone bill and how to better monitor your usage. 
+
+
+.GPS on Your Smartphone
+****
+ Retailers can use your phone&rsquo;s GPS for geofencing— sending you coupons and promotions when you are near their stores so you&rsquo;ll buy the items there instead of buying the same item online for a possibly cheaper price. If you have signed up to receive text messages from stores, they may send you an alert with a coupon when you are nearby, based on your phone&rsquo;s GPS. 
+
+
+****
+
+
+
+==== Smart Phones
+
+ Smart phones are like miniature computers; they provide basic phone functions, along with advanced features, including browsing the Internet, accessing e-mail, interacting on online social networks, listening to music, watching videos, uploading pictures, and using apps. They also allow use of a QWERTY keyboard to make texting and e-mailing easy. (The keys are arranged the same way they are on a computer keyboard.) 
+
+ When shopping for a smart phone, consider these tips: 
+
+
+*  Consider the shape and size of the phone. 
+
+
+*  Make sure you can use the keypad easily to make calls and send messages. 
+
+
+*  Do you need to access the Internet with your phone? If so, a data plan is required. Find out how much it costs; compare options carefully. Data plans govern use and costs associated with mobile access for e-mail, text messaging, web browsing, social networking, and other applications. 
+
+
+*  Take advantage of special pricing and promotions. 
+
+
+*  Is there a limit on the amount of data you can use each month? 
+
+
+*  Be wary of buying phone insurance, which may sound tempting; consumer groups generally advise against it. 
+
+
+.Mobile Payments Using A Digital Wallet
+****
+ Paying for your purchases using a smart phone app has become more common and convenient. In a sense you have a digital wallet that contains your credit card numbers, store loyalty cards, and even digital coupons. When you get to the checkout counter, you pay by  swiping your phone at the checkout. You can also use it online. Before you decide to use a digital wallet provider, make certain that your phone has the required chip that allows you use the mobile payment app. Also find out how the company ensures the security of your cards and each transaction. Some questions to ask: 
+
+
+
+image::images/pdf5131_img_29.png[]
+
+
+*  Is it possible to freeze your wallet if your phone is lost or stolen? 
+
+
+*  Are the details of your purchases shared or sold for marketing purposes? 
+
+
+*  Is there a PIN to secure access to your digital wallet? 
+
+
+*  Are there other security measures in place (encryption of your cards, security codes)? 
+
+
+*  Who is responsible for fraudulent or unauthorized purchases, and what is your liability if this happens? 
+
+
+*  How do you dispute a purchase dispute? 
+
+ For more information about e-payments, visit link:$$http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec01.shtm$$[www.ftc.gov/bcp/edu/pubs/consumer/tech/tec01.shtm]. 
+
+
+****
+
+
+
+.Apps For Your Smartphone
+****
+ &ldquo;Apps,&rdquo; short for applications, are tools that help you accomplish tasks or find information when you are on the go. Apps are designed to work on smart phones and may be downloaded or accessed using your phone&rsquo;s web browser. Some apps are designed for specific platforms (Android, Blackberry, or iPhone), so be sure to purchase apps that are compatible with your phone&rsquo;s software requirements. 
+
+ While some apps are free, many of them do charge a small fee. Before you click &ldquo;download,&rdquo; keep in mind that the cost of your purchases is deducted automatically from your bank account or charged to your credit card or phone bill. Keep track of the amount of money you spent on apps to avoid shock when you receive your bill. 
+
+ Visit link:$$http:Apps.usa.gov$$[Apps.usa.gov] to download free apps from the government. Look for some of the consumer apps for product recalls, fuel economy, food safety, nutrition, and health information. 
+
+
+****
+
+
+ Since smart phones are like miniature computers, many of the same privacy and safety concerns apply; however, unlike computers, these devices do not have anti-virus software to protect them from malware attacks. For more information on how to protect yourself from these concerns, see Online Privacy (p. 40) and Internet (p. 41). 
+
+
+==== Pay-As-You-Go Plans
+
+ If you want cell phone service only for emergencies, or you aren&rsquo;t sure how much you will actually use a cell phone once you get it, you may want to consider a prepaid cell phone before you commit to a long-term wireless contract. With a prepaid cell phone, there is no contract to sign and no monthly bill. You will know exactly how much you spend. The downside of prepaid plans is that you pay more per minute, and, if you don&rsquo;t use the phone for an extended period, you may lose the money in your account. 
+
+
+=== TV
+
+ There are many choices for consumers looking to buy new televisions today. Before buying a new TV, do your homework. It is important to see the monitors in person before buying to make sure the one you select will meet your needs. For independent ratings and reviews, check out _Consumer Reports_ at link:$$http://www.consumerreports.org$$[www.consumerreports.org]. Additional information is also available at link:$$http://www.energystar.gov$$[www.energystar.gov]. 
+
+
+==== Cable
+
+ You can start with a basic lineup of channels and go from there. The more channels you want, the more it will cost. You may want to consider video on demand so you can order movies and sports events and watch them when you like (usually within a 24-hour window). You can also buy a bundle of services that includes digital TV, digital phone, and broadband Internet access at discounted rates. Bear in mind, however, that you may be asked to sign a contract for bundled services. 
+
+
+==== Satellite
+
+ This requires a dish that&rsquo;s mounted outside (service requires an unobstructed view of the satellite) and a receiver that&rsquo;s placed by your television. Satellite TV offers comparable channels to cable TV, and you can add a digital video recorder to record shows for viewing later. One downside to satellite TV is occasional interference during periods of rain or snow. Check with your satellite TV provider for channel options and prices. As with cable TV, you may be asked to sign a contract for a package of services. 
+
+
+==== Internet TV
+
+
+
+image::images/pdf5131_img_30.png[]
+
+ If you have a high-speed Internet connection, you&rsquo;re already able to watch thousands of videos on your computer. Movies and TV shows are also available and becoming more prevalent as large online companies start distributing TV programming. You may even be able to connect your computer to your television so that shows you would normally watch online can project on a larger screen. Several services allow Internet streaming for a fee, along with free access to shows on network websites. 
+
