@@ -10,7 +10,7 @@ image::images/pdf5131_img_8.png[]
 
 === Before You Buy
 
- To avoid problems and make better decisions, use this checklist BEFORE you make a purchase: 
+To avoid problems and make better decisions, use this checklist BEFORE you make a purchase: 
 
 
 *  Decide in advance exactly what you want and what you can afford. 
@@ -30,7 +30,7 @@ image::images/pdf5131_img_8.png[]
 
 .Drip Pricing
 ****
- Have you ever planned to make a purchase, only to find out that there are additional, sometimes mandatory, fees that weren&rsquo;t included in the advertised price? The total cost is not revealed until the end of the purchasing process. If so, you have been the victim of drip pricing. This practice makes it difficult for consumers to determine the full cost and compare similar options, when all the fees aren&rsquo;t disclosed up front. You can protect yourself by reading the policies before completing the sale and asking questions of sales personnel. Also, if you have charged your purchase on your credit card, you may be able to dispute the extra fees if they are more than you had agreed to with the seller. 
+Have you ever planned to make a purchase, only to find out that there are additional, sometimes mandatory, fees that weren&rsquo;t included in the advertised price? The total cost is not revealed until the end of the purchasing process. If so, you have been the victim of drip pricing. This practice makes it difficult for consumers to determine the full cost and compare similar options, when all the fees aren&rsquo;t disclosed up front. You can protect yourself by reading the policies before completing the sale and asking questions of sales personnel. Also, if you have charged your purchase on your credit card, you may be able to dispute the extra fees if they are more than you had agreed to with the seller. 
 
 
 ****
@@ -48,7 +48,7 @@ image::images/pdf5131_img_8.png[]
 
 .Quick Tips for Avoiding Fraud
 ****
- There are many varieties of consumer fraud, but the most common ones are variations of fake check scams, credit repair, free trip offers, and sweepstakes. Here are some tips to help you avoid being a victim: 
+There are many varieties of consumer fraud, but the most common ones are variations of fake check scams, credit repair, free trip offers, and sweepstakes. Here are some tips to help you avoid being a victim: 
 
 
 *  _Don&rsquo;t give out personal information_. Be suspicious of anyone you don&rsquo;t know who asks for your Social Security number, birthdate, credit card number, bank account number, password, or other personal data. 
@@ -82,7 +82,7 @@ image::images/pdf5131_img_8.png[]
 
 === Service Contracts And Extended Warranties
 
- Service contracts or &ldquo;extended warranties&rdquo; can add hundreds of dollars to your purchase price, but they are rarely worth the cost. Some duplicate warranty coverage you get automatically from a manufacturer or dealer. Ask these questions before you agree to one of these contracts: 
+Service contracts or &ldquo;extended warranties&rdquo; can add hundreds of dollars to your purchase price, but they are rarely worth the cost. Some duplicate warranty coverage you get automatically from a manufacturer or dealer. Ask these questions before you agree to one of these contracts: 
 
 
 *  Does the dealer, the manufacturer, or an independent company back the service contract? 
@@ -103,15 +103,15 @@ image::images/pdf5131_img_8.png[]
 
 === Product Safety Recalls
 
- Before you buy a used vehicle or other second-hand product, check to be sure that it hasn&rsquo;t been recalled for safety reasons. Some recalls ban the sale of an item, while others ask consumers to return the item for replacement or repair. Sometimes, a seller will provide a part that reduces the danger of using the product. 
+Before you buy a used vehicle or other second-hand product, check to be sure that it hasn&rsquo;t been recalled for safety reasons. Some recalls ban the sale of an item, while others ask consumers to return the item for replacement or repair. Sometimes, a seller will provide a part that reduces the danger of using the product. 
 
- If you&rsquo;re buying a product for a child, be especially careful. Each year, there are approximately 100 recalls of children&rsquo;s products such as toys, clothing, cribs, and costume jewelry. Visit the websites in the &ldquo;Check Here for Recalls&rdquo; box to find the latest safety recalls. You can also sign up for free e-mail notifications at link:$$http://www.cpsc.gov/cpsclist.aspx$$[www.cpsc.gov/cpsclist.aspx] or download the app from link:$$http://www.Recalls.gov$$[www.Recalls.gov] on your mobile phone. 
+If you&rsquo;re buying a product for a child, be especially careful. Each year, there are approximately 100 recalls of children&rsquo;s products such as toys, clothing, cribs, and costume jewelry. Visit the websites in the &ldquo;Check Here for Recalls&rdquo; box to find the latest safety recalls. You can also sign up for free e-mail notifications at link:$$http://www.cpsc.gov/cpsclist.aspx$$[www.cpsc.gov/cpsclist.aspx] or download the app from link:$$http://www.Recalls.gov$$[www.Recalls.gov] on your mobile phone. 
 
 [[identifying_and_stopping_fraud]]
 
 === Identifying And Stopping Fraud
 
- Look for these warning signs to avoid fraud: 
+Look for these warning signs to avoid fraud: 
 
 
 *  You are asked for your bank account or credit card number. 
@@ -143,13 +143,13 @@ image::images/pdf5131_img_8.png[]
 
 *  Someone is trying to scare you into making a purchase. 
 
- To learn more about avoiding identity theft and fraud, go to page 38. 
+To learn more about avoiding identity theft and fraud, go to page 38. 
 
 [[shopping_from_home]]
 
 === Shopping From Home
 
- Late delivery, shipment of wrong or damaged items, and hidden costs are common complaints when consumers shop from home. To avoid problems and resolve them more easily, follow the advice in the Before You Buy checklist (p. 2). In addition, here are some general tips: 
+Late delivery, shipment of wrong or damaged items, and hidden costs are common complaints when consumers shop from home. To avoid problems and resolve them more easily, follow the advice in the Before You Buy checklist (p. 2). In addition, here are some general tips: 
 
 
 *  _Be wary of post office boxes_ and sellers in other countries. It may be difficult to find the seller to resolve a problem later. 
@@ -194,7 +194,7 @@ image::images/pdf5131_img_8.png[]
 
 ==== Your Rights
 
- When you order something by mail, phone, or online, the Federal Trade Commission (FTC) requires the company to: 
+When you order something by mail, phone, or online, the Federal Trade Commission (FTC) requires the company to: 
 
 
 *  Ship the merchandise within the time promised, or if no specific delivery time was stated, within 30 days of receiving your order. 
@@ -205,18 +205,18 @@ image::images/pdf5131_img_8.png[]
 
 *  Cancel your order and return your payment if the new shipping date cannot be met, unless you agree to another delay. 
 
- If you cancel your order, your money must be refunded within seven days (or your account must be credited within one billing cycle if you charged the order). The company can&rsquo;t substitute a store credit. If you applied for a charge account with the merchant at the same time that you placed your order, the company has an extra 20 days to ship the merchandise to allow time for processing your application. 
+If you cancel your order, your money must be refunded within seven days (or your account must be credited within one billing cycle if you charged the order). The company can&rsquo;t substitute a store credit. If you applied for a charge account with the merchant at the same time that you placed your order, the company has an extra 20 days to ship the merchandise to allow time for processing your application. 
 
- These FTC rules only apply to the first shipment of magazine subscriptions or other merchandise you receive repeatedly. Orders for services (for example, photo finishing), sale of seeds and growing plants, and collect-on-delivery (C.O.D.) orders, are covered by a different FTC rule. Your state may also have rules that apply. Report suspected violations to your state or local consumer protection agency (p. 112) and to the FTC (p. 107). 
+These FTC rules only apply to the first shipment of magazine subscriptions or other merchandise you receive repeatedly. Orders for services (for example, photo finishing), sale of seeds and growing plants, and collect-on-delivery (C.O.D.) orders, are covered by a different FTC rule. Your state may also have rules that apply. Report suspected violations to your state or local consumer protection agency (p. 112) and to the FTC (p. 107). 
 
 
 .Online and Group Coupons
 ****
- In addition to the traditional coupons found in newspapers, coupons can be found online. They may be found on manufacturers&rsquo;, companies&rsquo;, dedicated coupon, or social media websites. 
+In addition to the traditional coupons found in newspapers, coupons can be found online. They may be found on manufacturers&rsquo;, companies&rsquo;, dedicated coupon, or social media websites. 
 
- Group coupons are another online saving tool. Local companies offer reduced prices for things like spa services, gourmet meals, and outdoor adventures through a third-party company; then you pay the third-party company to take advantage of the deal. Group coupons allow you to try new experiences by reducing the trial cost. Before you purchase a group coupon, ask yourself, &ldquo;Am I really going to use this?&rdquo; If the answer is no, don&rsquo;t buy it. 
+Group coupons are another online saving tool. Local companies offer reduced prices for things like spa services, gourmet meals, and outdoor adventures through a third-party company; then you pay the third-party company to take advantage of the deal. Group coupons allow you to try new experiences by reducing the trial cost. Before you purchase a group coupon, ask yourself, &ldquo;Am I really going to use this?&rdquo; If the answer is no, don&rsquo;t buy it. 
 
- Read the terms and conditions of all coupons for expiration dates or use limitations. 
+Read the terms and conditions of all coupons for expiration dates or use limitations. 
 
 
 ****
@@ -225,11 +225,11 @@ image::images/pdf5131_img_8.png[]
 
 ==== 3-Day Cooling-Off Rule
 
- This federal law, which dates back to 1972, protects consumers in their homes during door-to-door sales pitches or at sales in temporary business locations. According to the FTC, the 3-Day Cooling-Off Rule does NOT apply to the purchase of new automobiles or items sold online. It only applies when a company is selling something that costs $25 or more at a location other than its regular place of business. 
+This federal law, which dates back to 1972, protects consumers in their homes during door-to-door sales pitches or at sales in temporary business locations. According to the FTC, the 3-Day Cooling-Off Rule does NOT apply to the purchase of new automobiles or items sold online. It only applies when a company is selling something that costs $25 or more at a location other than its regular place of business. 
 
- To comply with the 3-Day Cooling-Off Rule, a seller must inform buyers of their right to cancel the sale and receive a full refund within three business days. 
+To comply with the 3-Day Cooling-Off Rule, a seller must inform buyers of their right to cancel the sale and receive a full refund within three business days. 
 
- Be aware that there are situations in which the Cooling-Off Rule does not apply: 
+Be aware that there are situations in which the Cooling-Off Rule does not apply: 
 
 
 *  You made the purchase entirely by mail, online, or telephone. 
@@ -252,12 +252,12 @@ image::images/pdf5131_img_8.png[]
 
 *  You bought arts or crafts at a fair, shopping mall, civic 
 
- center, or school. Remember, if you paid by credit card and are having difficulty getting your refund, you may also be able to dispute the charge with your credit card company under the Fair Credit Billing Act. See Credit Card Billing Disputes (p. 13). 
+center, or school. Remember, if you paid by credit card and are having difficulty getting your refund, you may also be able to dispute the charge with your credit card company under the Fair Credit Billing Act. See Credit Card Billing Disputes (p. 13). 
 
 
 ==== Online shopping
 
- Online shopping websites often offer great deals, variety, and convenience. However, consumers need to be careful and make informed decisions about their purchases. Some tips for shopping safely online: 
+Online shopping websites often offer great deals, variety, and convenience. However, consumers need to be careful and make informed decisions about their purchases. Some tips for shopping safely online: 
 
 
 *  Stick to websites that are known or recommended. 
@@ -289,7 +289,7 @@ image::images/pdf5131_img_8.png[]
 
 ==== Online Auctions and Sellers
 
- Many people sell items on the Internet through auctions, classified ads, news groups, and chat rooms. Review the Internet section (p. 41) for safe shopping online as well as the general tips on shopping from home (p. 3). When participating in an online auction, remember to: 
+Many people sell items on the Internet through auctions, classified ads, news groups, and chat rooms. Review the Internet section (p. 41) for safe shopping online as well as the general tips on shopping from home (p. 3). When participating in an online auction, remember to: 
 
 
 *  Check how the auction works. Can you cancel a bid? Don&rsquo;t assume that the rules one auction site uses apply to another. Some sites offer step-by-step instructions that will take you through the bidding process. 
@@ -309,13 +309,13 @@ image::images/pdf5131_img_8.png[]
 
 *  If the seller can&rsquo;t accept payment by credit card, use an escrow service. A third party holds your money until you get your purchase and approve release of your payment to the seller. There is a small fee, but the peace of mind is worth it. 
 
- For more tips, contact the Federal Trade Commission at link:$$http://www.ftc.gov$$[www.ftc.gov]. 
+For more tips, contact the Federal Trade Commission at link:$$http://www.ftc.gov$$[www.ftc.gov]. 
 
 [[after_you_buy]]
 
 === After You Buy
 
- Even careful buyers can run into unforeseen problems later on. To minimize them, follow these steps after you buy: 
+Even careful buyers can run into unforeseen problems later on. To minimize them, follow these steps after you buy: 
 
 
 *  Save all papers that come with your purchase. Keep all contracts, sales receipts, canceled checks, owner&rsquo;s manuals, and warranty documents. 
@@ -323,5 +323,5 @@ image::images/pdf5131_img_8.png[]
 
 *  Read and follow product and service instructions. The way you use or take care of a product might affect your warranty rights. 
 
- If you have a problem with the item you purchased, file a complaint (p. 55). 
+If you have a problem with the item you purchased, file a complaint (p. 55). 
 

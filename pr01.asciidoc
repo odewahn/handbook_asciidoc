@@ -3,15 +3,11 @@
 [preface]
 == Contributors
 
-
+image::images/pdf5131_img_2.png[]
 
 image::images/pdf5131_img_1.png[]
 
-
-
-image::images/pdf5131_img_2.png[]
-
- The Federal Citizen Information Center would like to express its gratitude to the partners listed below who helped make possible the publication of the _2013 Consumer Action Handbook_. 
+The Federal Citizen Information Center would like to express its gratitude to the partners listed below who helped make possible the publication of the _2013 Consumer Action Handbook_. 
 
 
 * American Cleaning Institute
@@ -62,7 +58,6 @@ image::images/pdf5131_img_2.png[]
 * Society of Consumer Affairs Professionals International
 
 
-
 image::images/pdf5131_img_3.png[]
 
 
@@ -75,5 +70,5 @@ image::images/pdf5131_img_5.png[]
 
 
 
-image::images/pdf5131_img_6.png[]
+image::images/pdf5131_img_6.png[scale="40"]
 

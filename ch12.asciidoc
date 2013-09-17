@@ -6,7 +6,7 @@
 
 image::images/pdf5131_img_24.png[]
 
- If you have a financial goal in mind, such as saving for retirement, paying for college, or buying a new house, then you may decide to invest your money to earn enough to fund your goals. Before you invest, do some homework. What is your tolerance for risk? What do you want to invest in? Stocks? Bonds? Mutual funds? Do you want to open an IRA or buy an annuity? Does your employer offer a 401(k)? Remember, every investment involves some degree of risk. Most securities are not insured by the federal government if they lose money or fail, even if you purchase them through a bank or credit union that offers federally insured savings accounts. Make sure you have answers to all of these questions before you invest: 
+If you have a financial goal in mind, such as saving for retirement, paying for college, or buying a new house, then you may decide to invest your money to earn enough to fund your goals. Before you invest, do some homework. What is your tolerance for risk? What do you want to invest in? Stocks? Bonds? Mutual funds? Do you want to open an IRA or buy an annuity? Does your employer offer a 401(k)? Remember, every investment involves some degree of risk. Most securities are not insured by the federal government if they lose money or fail, even if you purchase them through a bank or credit union that offers federally insured savings accounts. Make sure you have answers to all of these questions before you invest: 
 
 
 *  _How quickly can you get your money back?_ Stocks, bonds, and shares in mutual funds usually can be sold at any time, but there is no guarantee you will get back all the money you paid for them. Other investments, such as limited partnerships, certificates of deposit (CDs), or IRAs, often restrict your ability to cash out your holdings. 
@@ -26,14 +26,14 @@ image::images/pdf5131_img_24.png[]
 
 *  _Are there any tax advantages to a particular investment?_ U.S. Savings Bonds are exempt from state and local taxes. Municipal bonds are exempt from federal income tax and, sometimes, state income tax as well. Tax-deferred investments for special goals, such as paying for college and retirement, are available that let you postpone or even avoid paying income taxes. 
 
- For more information about investing, check out the Securities and Exchange Commission&rsquo;s (SEC&rsquo;s) website: link:$$http://www.investor.gov$$[www.investor.gov]. Be sure to note specific tips at link:$$http://investor.gov/node/274$$[investor.gov/Saving-and-Investing]. The SEC requires public companies to disclose financial and other information to help you make sound decisions. View the text of these files at link:$$http://www.sec.gov/edgar.shtml$$[www.sec.gov/edgar.shtml], or call the SEC toll-free Investor Information Service at 1-800-732-0330 to obtain free publications and investor alerts, or to learn how to file a complaint. 
+For more information about investing, check out the Securities and Exchange Commission&rsquo;s (SEC&rsquo;s) website: link:$$http://www.investor.gov$$[www.investor.gov]. Be sure to note specific tips at link:$$http://investor.gov/node/274$$[investor.gov/Saving-and-Investing]. The SEC requires public companies to disclose financial and other information to help you make sound decisions. View the text of these files at link:$$http://www.sec.gov/edgar.shtml$$[www.sec.gov/edgar.shtml], or call the SEC toll-free Investor Information Service at 1-800-732-0330 to obtain free publications and investor alerts, or to learn how to file a complaint. 
 
- The Financial Industry Regulatory Authority (FINRA) also provides up-to-date market data and information for a wide range of stocks, bonds, mutual funds, and other securities through its Market Data Center at  link:$$http://www.finra.org/marketdata$$[www.finra.org/marketdata]. 
+The Financial Industry Regulatory Authority (FINRA) also provides up-to-date market data and information for a wide range of stocks, bonds, mutual funds, and other securities through its Market Data Center at  link:$$http://www.finra.org/marketdata$$[www.finra.org/marketdata]. 
 
 
 .Beware: Investment Fraud
 ****
- Deceptive pitches for investments often misrepresent or leave  out facts to promote fantastic profits with little risk. No  investment is risk-free, and a high rate of return means  greater risk. Before investing, get written information such  as a prospectus or annual report. Beware if a salesperson: 
+Deceptive pitches for investments often misrepresent or leave  out facts to promote fantastic profits with little risk. No  investment is risk-free, and a high rate of return means  greater risk. Before investing, get written information such  as a prospectus or annual report. Beware if a salesperson: 
 
 
 *  Encourages you to borrow money or cash in retirement funds to invest 
@@ -65,13 +65,13 @@ image::images/pdf5131_img_24.png[]
 
 *  Claims that &ldquo;off-shore investments are tax-free and confidential&rdquo; 
 
- If you need more information or have an investment advisor problem you are  unable to resolve directly, you can contact the SEC (p. 108) or FINRA (p. 144). 
+If you need more information or have an investment advisor problem you are  unable to resolve directly, you can contact the SEC (p. 108) or FINRA (p. 144). 
 
 
 ****
 
 
- The following companies rate the financial condition of  corporations and municipalities issuing bonds. Their  ratings are available online and at many public libraries: 
+The following companies rate the financial condition of  corporations and municipalities issuing bonds. Their  ratings are available online and at many public libraries: 
 
 
 *  Standard &amp; Poor&rsquo;s (link:$$http://www.standardandpoors.com$$[]) 
@@ -79,12 +79,12 @@ image::images/pdf5131_img_24.png[]
 
 *  Moody&rsquo;s Investors Services (link:$$http://www.moodys.com$$[])  
 
- For ratings of mutual funds, consult personal finance magazines such as _Kiplinger&rsquo;s Personal Finance_,__Money__, __Consumer Reports__,__Smart Money__, and __Worth__. To compare expenses, use the FINRA Mutual Fund Expense Analyzer at link:$$apps.finra.org/fundanalyzer/1/fa.aspx$$[apps.finra.org/fundanalyzer/1/fa.aspx]. 
+For ratings of mutual funds, consult personal finance magazines such as _Kiplinger&rsquo;s Personal Finance_,__Money__, __Consumer Reports__,__Smart Money__, and __Worth__. To compare expenses, use the FINRA Mutual Fund Expense Analyzer at link:$$apps.finra.org/fundanalyzer/1/fa.aspx$$[apps.finra.org/fundanalyzer/1/fa.aspx]. 
 
 
 === Online Trading
 
- Stocks can be bought and sold with a mouse click from a wide range of online brokers, often with low transaction fees. However, the price of some stocks can instantly go from high to low. Online trading is quick and easy, but online investing requires research and takes time. Before you trade, ask questions and learn how to limit losses in this fast-moving marketplace by: 
+Stocks can be bought and sold with a mouse click from a wide range of online brokers, often with low transaction fees. However, the price of some stocks can instantly go from high to low. Online trading is quick and easy, but online investing requires research and takes time. Before you trade, ask questions and learn how to limit losses in this fast-moving marketplace by: 
 
 
 *  Knowing what you&rsquo;re buying 
@@ -95,12 +95,12 @@ image::images/pdf5131_img_24.png[]
 
 *  Being aware of how quickly trading changes during fast markets 
 
- Like other purchases, you should set a price limit, to avoid buying or selling at prices above or lower than you wanted. For more detailed information about online investing, visit link:$$http://www.investor.gov$$[www.investor.gov]. 
+Like other purchases, you should set a price limit, to avoid buying or selling at prices above or lower than you wanted. For more detailed information about online investing, visit link:$$http://www.investor.gov$$[www.investor.gov]. 
 
 
 === Financial Brokers and Advisors
 
- When selecting a broker or investment advisor, research the person&rsquo;s education and professional history as well as the firm the person works for. Ask: 
+When selecting a broker or investment advisor, research the person&rsquo;s education and professional history as well as the firm the person works for. Ask: 
 
 
 *  Has the person worked with others who have circumstances similar to yours? 
@@ -117,7 +117,7 @@ image::images/pdf5131_img_24.png[]
 
 *  What are the fees for setting up and servicing your account? 
 
- _Additional organizations that could be helpful are:_ 
+_Additional organizations that could be helpful are:_ 
 
 
 *  The Commodity Futures Trading Commission (CFTC) provides consumer alerts and advisories. Visit link:$$http://www.cftc.gov/ConsumerProtection$$[www.cftc.gov/ConsumerProtection]. The CFTC oversees the Reparations Program that resolves disputes between commodity customers and commodity professionals. You can institute &ldquo;reparations&rdquo; proceedings against commodity professionals registered with the CFTC if they violate the anti-fraud or other provisions of the Commodity Exchange Act. To ask a question, report information, or submit a complaint, contact the CFTC (p. 108). 
@@ -131,125 +131,125 @@ image::images/pdf5131_img_24.png[]
 
 === Investing in Gold and Commodities
 
- Many financial experts recommend buying gold as part of a balanced portfolio. Some suggest buying only a small amount because values can fluctuate; others recommend larger investments. 
+Many financial experts recommend buying gold as part of a balanced portfolio. Some suggest buying only a small amount because values can fluctuate; others recommend larger investments. 
 
- There are a number of ways to invest in precious metals; common ones include bullion, certificates, and coins. Most people depend on an investment advisor or company to help them choose. Make sure the person or company you choose is licensed with your state securities administrator (p. 134). If you&rsquo;re considering investing in gold, check the U.S. Mint website at link:$$http://www.usmint.gov$$[www.usmint.gov]. Before you purchase coins or coin-related products, research the seller with your state consumer protection office (p. 112) or Better Business Bureau (p. 67). 
+There are a number of ways to invest in precious metals; common ones include bullion, certificates, and coins. Most people depend on an investment advisor or company to help them choose. Make sure the person or company you choose is licensed with your state securities administrator (p. 134). If you&rsquo;re considering investing in gold, check the U.S. Mint website at link:$$http://www.usmint.gov$$[www.usmint.gov]. Before you purchase coins or coin-related products, research the seller with your state consumer protection office (p. 112) or Better Business Bureau (p. 67). 
 
- Commodity futures are an agreement to buy or sell a specific quantity of metals, grains, or other foods. Anyone who trades or gives advice to the public about futures must be registered with the National Futures Association (NFA). The CFTC also provides additional information about investing in gold and other commodities at link:$$http://www.cftc.gov/ConsumerProtection/FraudAwarenessPrevention/CFTCFraudAdvisories$$[www.cftc.gov/ConsumerProtection/FraudAwarenessPrevention/CFTCFraudAdvisories.] 
+Commodity futures are an agreement to buy or sell a specific quantity of metals, grains, or other foods. Anyone who trades or gives advice to the public about futures must be registered with the National Futures Association (NFA). The CFTC also provides additional information about investing in gold and other commodities at link:$$http://www.cftc.gov/ConsumerProtection/FraudAwarenessPrevention/CFTCFraudAdvisories$$[www.cftc.gov/ConsumerProtection/FraudAwarenessPrevention/CFTCFraudAdvisories.] 
 
 
 === Retirement Planning
 
- Part of smart investing is planning for retirement. The average American spends 20 years in retirement, but fewer than half of Americans calculate how much they need to save for their retirement years. Regardless of your age, it&rsquo;s never too early or too late to start. 
+Part of smart investing is planning for retirement. The average American spends 20 years in retirement, but fewer than half of Americans calculate how much they need to save for their retirement years. Regardless of your age, it&rsquo;s never too early or too late to start. 
 
- The three major components of a retirement portfolio are generally benefits from pensions, savings and investments, and Social Security. 
+The three major components of a retirement portfolio are generally benefits from pensions, savings and investments, and Social Security. 
 
- If you are still working and your employer offers a plan, find out how it works. If your employer has a 401(k) plan and offers to put some money in if you do (called a match), this should be the first place where you save. Make sure you understand how a job change might affect your employer-based retirement plan and what your options are for saving that money. If you switch jobs before you are fully vested, you may lose a significant amount of money. 
+If you are still working and your employer offers a plan, find out how it works. If your employer has a 401(k) plan and offers to put some money in if you do (called a match), this should be the first place where you save. Make sure you understand how a job change might affect your employer-based retirement plan and what your options are for saving that money. If you switch jobs before you are fully vested, you may lose a significant amount of money. 
 
 [options="header"]
 |===============
 |
-              Type of investment
-            |
-              What is it?
-            |
-              Risk level
-            
+Type of investment
 |
-              Traditional IRA
-            |
-              Traditional IRA is a personal savings plan that gives tax
-              advantages for savings for retirement. Investments may
-              include a variety of securities. Contributions may be
-              tax-deductible; earnings are not taxed until distributed.
-            |
-              Risk levels vary according to the holdings in the IRA.
-            
+What is it?
 |
-              Roth IRA
-            |
-              A personal savings plan where earnings that remain in the
-              account are not taxed. Investments may include a variety
-              of securities. Contributions are not tax-deductible.
-            |
-              Risk levels vary according to the holdings in the IRA.
-            
+Risk level
+
 |
-              Money Market Funds
-            |
-              Mutual funds that invest in short-term bonds. Usually pay
-              better interest rates than a savings account but not as
-              much as a certificate of deposit (CD).
-            |
-              Low risk.
-            
+Traditional IRA
 |
-              Bonds and Bond Funds
-            |
-              Also known as
-              fixed-income securities because the income they pay is
-              fixed when the bond is sold. Bonds and bond funds invest
-              in corporate or government debt obligations.
-            |
-              Low risk.
-            
+Traditional IRA is a personal savings plan that gives tax
+advantages for savings for retirement. Investments may
+include a variety of securities. Contributions may be
+tax-deductible; earnings are not taxed until distributed.
 |
-              Index Funds
-            |
-              Invest in a
-              particular market index such as the S&amp;P 500 or the
-              Russell 2000. An index fund is managed passively and
-              mirrors the performance of the designated stock or bond
-              index.
-            |
-              Risk level depends on which index the fund
-              uses. A bond index fund involves a lower risk level than
-              an index fund of emerging markets overseas.
-            
+Risk levels vary according to the holdings in the IRA.
+
 |
-              Stocks
-            |
-              Stocks represent a share of a company. As the
-              company&rsquo;s value rises or falls, so does the value of the
-              stock.
-            |
-              Medium to high risk.
-            
+Roth IRA
 |
-              Mutal Funds
-            |
-              Invest in a variety of securities, which may
-              include stocks, bonds, and/or money market securities.
-              Costs and objectives vary.
-            |
-              Risk levels vary according to the holdings in the
-              mutual fund.
-            
+A personal savings plan where earnings that remain in the
+account are not taxed. Investments may include a variety
+of securities. Contributions are not tax-deductible.
 |
-              Market-linked CDs (or structured cds)
-            |
-              Returns are linked to the
-              future performance of a market index and may include
-              stocks, bonds, foreign currency, or other assets. These
-              are designed for long-term commitment (up to 20 years).
-            |
-              Medium to high risk.
-            
+Risk levels vary according to the holdings in the IRA.
+
 |
-              Commodities
-            |
-              Physical commodities, such as an agricultural product or a
-              natural resource (like gold). A futures contract is an
-              agreement to purchase or sell a commodity for delivery in
-              the future.
-            |
-              High risk.
-            
+Money Market Funds
+|
+Mutual funds that invest in short-term bonds. Usually pay
+better interest rates than a savings account but not as
+much as a certificate of deposit (CD).
+|
+Low risk.
+
+|
+Bonds and Bond Funds
+|
+Also known as
+fixed-income securities because the income they pay is
+fixed when the bond is sold. Bonds and bond funds invest
+in corporate or government debt obligations.
+|
+Low risk.
+
+|
+Index Funds
+|
+Invest in a
+particular market index such as the S&amp;P 500 or the
+Russell 2000. An index fund is managed passively and
+mirrors the performance of the designated stock or bond
+index.
+|
+Risk level depends on which index the fund
+uses. A bond index fund involves a lower risk level than
+an index fund of emerging markets overseas.
+
+|
+Stocks
+|
+Stocks represent a share of a company. As the
+company&rsquo;s value rises or falls, so does the value of the
+stock.
+|
+Medium to high risk.
+
+|
+Mutal Funds
+|
+Invest in a variety of securities, which may
+include stocks, bonds, and/or money market securities.
+Costs and objectives vary.
+|
+Risk levels vary according to the holdings in the
+mutual fund.
+
+|
+Market-linked CDs (or structured cds)
+|
+Returns are linked to the
+future performance of a market index and may include
+stocks, bonds, foreign currency, or other assets. These
+are designed for long-term commitment (up to 20 years).
+|
+Medium to high risk.
+
+|
+Commodities
+|
+Physical commodities, such as an agricultural product or a
+natural resource (like gold). A futures contract is an
+agreement to purchase or sell a commodity for delivery in
+the future.
+|
+High risk.
+
 
 |===============
 
 
- As you approach retirement, there are many factors to consider. Experts advise that you will need about 80% of your pre-retirement income in your retirement years. The exact amount, of course, depends on your individual needs (see Elder Care, p. 25). For example: 
+As you approach retirement, there are many factors to consider. Experts advise that you will need about 80% of your pre-retirement income in your retirement years. The exact amount, of course, depends on your individual needs (see Elder Care, p. 25). For example: 
 
 
 *  Will your spouse or partner retire when you do? 
@@ -266,9 +266,9 @@ image::images/pdf5131_img_24.png[]
 
 *  If you have a financial advisor, talk to him or her about your plans. 
 
- In addition to planning to maintain your lifestyle during retirement, you may need to purchase long-term health insurance (p. 34) or to pay for assisted-living services (p. 25). 
+In addition to planning to maintain your lifestyle during retirement, you may need to purchase long-term health insurance (p. 34) or to pay for assisted-living services (p. 25). 
 
- _For more information go to:_ 
+_For more information go to:_ 
 
 
 *  AARP: link:$$http://www.aarp.org$$[www.aarp.org] 

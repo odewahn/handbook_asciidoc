@@ -6,14 +6,14 @@
 
 image::images/pdf5131_img_16.png[]
 
- Consumers have a wide variety of food choices available. You want food that is safe, nutritious, and won&rsquo;t break your budget, but it&rsquo;s important to remember that making healthier choices can help you feel your best and stay strong. You can also reduce the risk for many diseases, including heart disease, cancer, stroke, and diabetes. 
+Consumers have a wide variety of food choices available. You want food that is safe, nutritious, and won&rsquo;t break your budget, but it&rsquo;s important to remember that making healthier choices can help you feel your best and stay strong. You can also reduce the risk for many diseases, including heart disease, cancer, stroke, and diabetes. 
 
 
 === Healthy Food Choices
 
- To help you make healthy food choices, the federal government posts dietary guidelines at link:$$http://www.health.gov/dietaryguidelines$$[www.health.gov/dietaryguidelines].  Federal regulations also require many foods to identify fat content, fiber, and nutrients on their labels. For more information about food labels, visit link:$$http://www.fda.gov/Food/ResourcesForYou/Consumers/NFLPM$$[www.fda.gov/Food/ResourcesForYou/Consumers/NFLPM]. 
+To help you make healthy food choices, the federal government posts dietary guidelines at link:$$http://www.health.gov/dietaryguidelines$$[www.health.gov/dietaryguidelines].  Federal regulations also require many foods to identify fat content, fiber, and nutrients on their labels. For more information about food labels, visit link:$$http://www.fda.gov/Food/ResourcesForYou/Consumers/NFLPM$$[www.fda.gov/Food/ResourcesForYou/Consumers/NFLPM]. 
 
- Check out these resources for advice, tips, and information on food shopping and nutrition: 
+Check out these resources for advice, tips, and information on food shopping and nutrition: 
 
 
 *  U.S. Department of Agriculture (p. 96) 
@@ -33,9 +33,9 @@ image::images/pdf5131_img_16.png[]
 
 === Food Safety
 
- Food safety in the home revolves around three main functions: food storage, food handling, and cooking. By practicing a few simple rules for cleaning, separating, cooking, and chilling, you can prevent most food-borne illness in the home. The website link:$$http://www.foodsafety.gov$$[www.foodsafety.gov] is your gateway to government food safety information, including publications you can download or request. You can also visit link:$$http://www.recalls.gov$$[www.recalls.gov] for the latest food safety alerts and recalls. 
+Food safety in the home revolves around three main functions: food storage, food handling, and cooking. By practicing a few simple rules for cleaning, separating, cooking, and chilling, you can prevent most food-borne illness in the home. The website link:$$http://www.foodsafety.gov$$[www.foodsafety.gov] is your gateway to government food safety information, including publications you can download or request. You can also visit link:$$http://www.recalls.gov$$[www.recalls.gov] for the latest food safety alerts and recalls. 
 
- For more information, here are some additional resources: 
+For more information, here are some additional resources: 
 
 
 *  Centers for Disease Control and Prevention (p. 99) 
@@ -61,7 +61,7 @@ image::images/pdf5131_img_16.png[]
 
 === Saving Money On Groceries
 
- It can be a challenge to make healthy food choices and stay within your food budget. Here are some tips to help you get the most from your grocery budget: 
+It can be a challenge to make healthy food choices and stay within your food budget. Here are some tips to help you get the most from your grocery budget: 
 
 
 *  Take an inventory of the food you already have in your home. Plan your meals for the week, keeping in mind what you already have. 
@@ -93,12 +93,12 @@ image::images/pdf5131_img_16.png[]
 
 *  Some stores offer discounts to customers for bringing  their own bags. 
 
- For more grocery shopping tips visit link:$$http://www.extension.org$$[www.extension.org]and link:$$http://www.choosemyplate.gov$$[www.choosemyplate.gov]. 
+For more grocery shopping tips visit link:$$http://www.extension.org$$[www.extension.org]and link:$$http://www.choosemyplate.gov$$[www.choosemyplate.gov]. 
 
 
 .SNAP: Supplemental Nutrition Assistance Program
 ****
- The Supplemental Nutrition Assistance Program (SNAP) helps low-income people buy the food they need to maintain good health. To receive these benefits, you must apply and participate in an interview. If you are eligible, you will receive benefits in approximately 30 days. You may qualify if you are: 
+The Supplemental Nutrition Assistance Program (SNAP) helps low-income people buy the food they need to maintain good health. To receive these benefits, you must apply and participate in an interview. If you are eligible, you will receive benefits in approximately 30 days. You may qualify if you are: 
 
 
 *  Working for low wages or working part time 
@@ -115,7 +115,7 @@ image::images/pdf5131_img_16.png[]
 
 *  Homeless 
 
- Benefits are distributed on a prepaid electronic benefit card (EBT) with a PIN. Use this card at approved food stores, like any other debit card. For more information about using a prepaid card, see page 7. For more information about SNAP and how to apply for benefits, visit link:$$http://www.fns.usda.gov/snap/applicant_recipients$$[www.fns.usda.gov/snap/applicant_recipients.]. 
+Benefits are distributed on a prepaid electronic benefit card (EBT) with a PIN. Use this card at approved food stores, like any other debit card. For more information about using a prepaid card, see page 7. For more information about SNAP and how to apply for benefits, visit link:$$http://www.fns.usda.gov/snap/applicant_recipients$$[www.fns.usda.gov/snap/applicant_recipients.]. 
 
 
 ****
@@ -124,17 +124,17 @@ image::images/pdf5131_img_16.png[]
 
 === Organic Foods
 
- Buying organic food is a way to eat in a healthy manner and protect the environment. These foods are grown and processed according to USDA regulations and follow specific rules concerning pest control, raising animals, and the use of additives. Keep in mind that organic and natural foods tend to be more expensive than conventionally grown foods, and that the USDA does not claim that organic food is safer or more nutritious than other foods. 
+Buying organic food is a way to eat in a healthy manner and protect the environment. These foods are grown and processed according to USDA regulations and follow specific rules concerning pest control, raising animals, and the use of additives. Keep in mind that organic and natural foods tend to be more expensive than conventionally grown foods, and that the USDA does not claim that organic food is safer or more nutritious than other foods. 
 
- To make sure a product is certified organic, look for the USDA organic seal. You can also tell whether produce was grown organically by checking the price look up code (PLU); if the first number starts with a 4, then the food was grown conventionally, if it starts with a 9, it was grown organically. 
+To make sure a product is certified organic, look for the USDA organic seal. You can also tell whether produce was grown organically by checking the price look up code (PLU); if the first number starts with a 4, then the food was grown conventionally, if it starts with a 9, it was grown organically. 
 
- Other common labels that help you choose certain types of food  products include: 
+Other common labels that help you choose certain types of food  products include: 
 
- _Free-Range or Cage-Free_. The flock was provided shelter in a building, room, or area with unlimited access to food, fresh water, and the outdoors during its production cycle. 
+_Free-Range or Cage-Free_. The flock was provided shelter in a building, room, or area with unlimited access to food, fresh water, and the outdoors during its production cycle. 
 
- _Natural_. As required by USDA, meat, poultry, and egg products labeled as &ldquo;natural&rdquo; must be minimally processed and contain no artificial ingredients. 
+_Natural_. As required by USDA, meat, poultry, and egg products labeled as &ldquo;natural&rdquo; must be minimally processed and contain no artificial ingredients. 
 
- _Grass-Fed_. Grass-fed animals receive a majority of their nutrients from grass throughout their life, while organic animals&rsquo; pasture diet may be supplemented with grain. 
+_Grass-Fed_. Grass-fed animals receive a majority of their nutrients from grass throughout their life, while organic animals&rsquo; pasture diet may be supplemented with grain. 
 
- For more information about organic foods, visit link:$$http://www.ams.usda.gov$$[www.ams.usda.gov]. 
+For more information about organic foods, visit link:$$http://www.ams.usda.gov$$[www.ams.usda.gov]. 
 

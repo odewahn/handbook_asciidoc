@@ -6,14 +6,14 @@
 
 image::images/pdf5131_img_21.png[]
 
- When choosing among housing options, there are many decisions you must make. Should you rent or buy? If you buy, what sort of financing should you choose, and what type of mortgages is best for you? The U.S. Department of Housing and Urban Development (HUD) funds housing counseling agencies throughout the country to help you make these decisions. These organizations can give you advice on buying a home, renting, defaults, foreclosures, credit issues, and reverse mortgages. To contact the agency nearest you, call 1-800-569-4287 or visit link:$$http://www.hud.gov$$[www.hud.gov]. Homeowners with problems that could result in default on their mortgage or foreclosure on their property are encouraged to contact a HUD-approved housing counseling agency immediately. 
+When choosing among housing options, there are many decisions you must make. Should you rent or buy? If you buy, what sort of financing should you choose, and what type of mortgages is best for you? The U.S. Department of Housing and Urban Development (HUD) funds housing counseling agencies throughout the country to help you make these decisions. These organizations can give you advice on buying a home, renting, defaults, foreclosures, credit issues, and reverse mortgages. To contact the agency nearest you, call 1-800-569-4287 or visit link:$$http://www.hud.gov$$[www.hud.gov]. Homeowners with problems that could result in default on their mortgage or foreclosure on their property are encouraged to contact a HUD-approved housing counseling agency immediately. 
 
- If you believe you are being discriminated against during your housing search because of your race, color, nationality, religion, sex, familial status, or disability, contact HUD&rsquo;s Office of Fair Housing and Equal Opportunity (p. 102). 
+If you believe you are being discriminated against during your housing search because of your race, color, nationality, religion, sex, familial status, or disability, contact HUD&rsquo;s Office of Fair Housing and Equal Opportunity (p. 102). 
 
 
 === Buying A Home
 
- Buying a home is one of the most complex financial decisions you&rsquo;ll ever make. In addition to the financial and legal issues involved, real estate agents and lenders may not be acting in your best interest. 
+Buying a home is one of the most complex financial decisions you&rsquo;ll ever make. In addition to the financial and legal issues involved, real estate agents and lenders may not be acting in your best interest. 
 
 
 *  Real estate agents represent the seller, not the buyer. Consider hiring a buyer&rsquo;s agent who works for you, not for the seller. 
@@ -30,7 +30,7 @@ image::images/pdf5131_img_21.png[]
 
 ==== Mortgages
 
- When shopping for a home mortgage, make sure you obtain all of the relevant information: 
+When shopping for a home mortgage, make sure you obtain all of the relevant information: 
 
 
 *  Research current interest rates. Check the real estate section of your local newspaper, use the Internet, or call at least six lenders for information. 
@@ -47,7 +47,7 @@ image::images/pdf5131_img_21.png[]
 
 .Underwater/Upside-down Mortgages
 ****
- When describing a mortgage in trouble, the terms &ldquo;underwater&rdquo; or &ldquo;upside-down&rdquo; mean the same thing— when the amount of money you still have to pay on the loan is more than the actual value of the loan. For more information about underwater or upside-down mortgages, visit  link:$$http://www.makinghomeaffordable.gov/programs/fallen-value-help$$[www.makinghomeaffordable.gov/programs/fallen-value-help]. 
+When describing a mortgage in trouble, the terms &ldquo;underwater&rdquo; or &ldquo;upside-down&rdquo; mean the same thing— when the amount of money you still have to pay on the loan is more than the actual value of the loan. For more information about underwater or upside-down mortgages, visit  link:$$http://www.makinghomeaffordable.gov/programs/fallen-value-help$$[www.makinghomeaffordable.gov/programs/fallen-value-help]. 
 
 
 ****
@@ -65,28 +65,28 @@ image::images/pdf5131_img_21.png[]
 
 *  Ask whether you can pay off the loan early, and whether there  is a penalty for doing so.  
 
- There is a long list of sources for mortgage loans: mortgage banks, mortgage brokers, banks, thrifts and credit unions, home builders, real estate agencies, and Internet lenders. 
+There is a long list of sources for mortgage loans: mortgage banks, mortgage brokers, banks, thrifts and credit unions, home builders, real estate agencies, and Internet lenders. 
 
- For more information on home buying and mortgages, visit link:$$http://www.hud.gov$$[www.hud.gov]. Other good sources include the Mortgage Bankers Association at link:$$http://www.homeloanlearningcenter.com$$[www.homeloanlearningcenter.com] and Neighborworks America&rsquo;s home ownership website at link:$$http://www.keystomyhome.org$$[www.keystomyhome.org]. 
+For more information on home buying and mortgages, visit link:$$http://www.hud.gov$$[www.hud.gov]. Other good sources include the Mortgage Bankers Association at link:$$http://www.homeloanlearningcenter.com$$[www.homeloanlearningcenter.com] and Neighborworks America&rsquo;s home ownership website at link:$$http://www.keystomyhome.org$$[www.keystomyhome.org]. 
 
 
 ==== Mortgage Transfers
 
- CFPB rules help mortgage borrowers by requiring that mortgage companies notify them when their loans are transferred to another company. The rules ensure that you know who owns your loan, which is important information if you have questions or payment disputes or want to discuss loan modifications. 
+CFPB rules help mortgage borrowers by requiring that mortgage companies notify them when their loans are transferred to another company. The rules ensure that you know who owns your loan, which is important information if you have questions or payment disputes or want to discuss loan modifications. 
 
- Under these rules, the company that takes over your loan must send you a notice within 30 days of acquiring it. Even with a new loan owner, the company that &ldquo;services&rdquo; or handles your loan might not change, and you might continue to send your mortgage payments to the same address. If that loan servicer changes, you will receive a separate notice. 
+Under these rules, the company that takes over your loan must send you a notice within 30 days of acquiring it. Even with a new loan owner, the company that &ldquo;services&rdquo; or handles your loan might not change, and you might continue to send your mortgage payments to the same address. If that loan servicer changes, you will receive a separate notice. 
 
- For more information about servicing companies, read the FTC&rsquo;s publication, Mortgage Servicing: Making Sure Your Payments Count at link:$$http://www.ftc.gov/bcp/edu/pubs/consumer/homes/rea10.shtm$$[www.ftc.gov/bcp/edu/pubs/]consumer/homes/rea10.shtm. 
+For more information about servicing companies, read the FTC&rsquo;s publication, Mortgage Servicing: Making Sure Your Payments Count at link:$$http://www.ftc.gov/bcp/edu/pubs/consumer/homes/rea10.shtm$$[www.ftc.gov/bcp/edu/pubs/]consumer/homes/rea10.shtm. 
 
 
 === Avoiding Foreclosure
 
- If you miss your mortgage payments, foreclosure may occur. This is the legal means your lender can use to repossess your home. If you owe more than your property is worth, a deficiency judgment is pursued. Both foreclosures and deficiency judgments have a negative impact on your future credit. You should avoid foreclosure if at all possible. 
+If you miss your mortgage payments, foreclosure may occur. This is the legal means your lender can use to repossess your home. If you owe more than your property is worth, a deficiency judgment is pursued. Both foreclosures and deficiency judgments have a negative impact on your future credit. You should avoid foreclosure if at all possible. 
 
 
 .
 ****
- Fixed-rate and adjustable-rate mortgages are the two main types of mortgages, but there is a wide variety of other mortgage products available. Below are pros and cons of some of the mortgage products you want to consider: 
+Fixed-rate and adjustable-rate mortgages are the two main types of mortgages, but there is a wide variety of other mortgage products available. Below are pros and cons of some of the mortgage products you want to consider: 
 
 [options="header"]
 |===============
@@ -109,15 +109,15 @@ image::images/pdf5131_img_21.png[]
 
 .Mortgage Refinancing
 ****
- Consider refinancing your mortgage if you can get a rate that is at least one percentage point lower than your existing mortgage rate and if you plan to keep the new mortgage for several years. When comparing mortgages, don&rsquo;t forget to include the extra fees you must pay for the new mortgage. You may be able to get some fees waived if you are able to refinance with your current mortgage holder. 
+Consider refinancing your mortgage if you can get a rate that is at least one percentage point lower than your existing mortgage rate and if you plan to keep the new mortgage for several years. When comparing mortgages, don&rsquo;t forget to include the extra fees you must pay for the new mortgage. You may be able to get some fees waived if you are able to refinance with your current mortgage holder. 
 
- In addition, the Making Home Affordable Program offers opportunities to modify or refinance your mortgage to make your monthly payments more affordable. It also includes the Home Affordable Foreclosure Alternatives Program for homeowners who are interested in a short sale or deed-in-lieu of foreclosure. Visit link:$$http://www.makinghomeaffordable.gov$$[www.makinghomeaffordable.gov] or call 1-888-995HOPE (4673). 
+In addition, the Making Home Affordable Program offers opportunities to modify or refinance your mortgage to make your monthly payments more affordable. It also includes the Home Affordable Foreclosure Alternatives Program for homeowners who are interested in a short sale or deed-in-lieu of foreclosure. Visit link:$$http://www.makinghomeaffordable.gov$$[www.makinghomeaffordable.gov] or call 1-888-995HOPE (4673). 
 
 
 ****
 
 
- *These steps can help:* 
+*These steps can help:* 
 
 
 *  Do not ignore letters from your lender. If you&rsquo;re having problems making your payments, call or write to your lender&rsquo;s Loss Mitigation Department immediately. Explain your situation. Be prepared to provide financial information, such as your monthly income and expenses. Without this information, the lender may not be able to help you. 
@@ -131,31 +131,31 @@ image::images/pdf5131_img_21.png[]
 
 *  Contact Making Home Affordable for help. Call 1-888-995-4673, or 1-877-304-9709 for hearing-impaired homeowners, to talk to a HUD-approved credit counselor who will guide you through your options for free. 
 
- HUD counselors frequently have information on services and programs offered by government agencies as well as private and community organizations that could help you. The housing counseling agency may also offer credit counseling. These services are usually free of charge. 
+HUD counselors frequently have information on services and programs offered by government agencies as well as private and community organizations that could help you. The housing counseling agency may also offer credit counseling. These services are usually free of charge. 
 
- For more information, contact The U.S. Department of 
+For more information, contact The U.S. Department of 
 
- Housing and Urban Development (p. 102). Additional advice, resources, and tips for homeowners can be found under Home Equity Loans (p. 16), Insurance (p. 33), and Home Improvement and Repairs (p. 29). 
+Housing and Urban Development (p. 102). Additional advice, resources, and tips for homeowners can be found under Home Equity Loans (p. 16), Insurance (p. 33), and Home Improvement and Repairs (p. 29). 
 
 
 === Moving Companies
 
- Not all moving companies are the same. Although many are legitimate, some attempt to take advantage of their clients. Follow these guidelines to help you choose the right mover: 
+Not all moving companies are the same. Although many are legitimate, some attempt to take advantage of their clients. Follow these guidelines to help you choose the right mover: 
 
- _Get a written estimate from several movers._ Be wary of very low estimates. Some companies quote a low price to get a contract and later ask for more money before they will remove your belongings from their truck. 
+_Get a written estimate from several movers._ Be wary of very low estimates. Some companies quote a low price to get a contract and later ask for more money before they will remove your belongings from their truck. 
 
- _Make sure the mover has an operating license._  For moves from one state to another, visit link:$$http://www.protectyourmove.gov$$[www.protectyourmove.gov] to verify a mover&rsquo;s license. For moves within a state, check your state, county, or local consumer affairs agency (p. 112). 
+_Make sure the mover has an operating license._  For moves from one state to another, visit link:$$http://www.protectyourmove.gov$$[www.protectyourmove.gov] to verify a mover&rsquo;s license. For moves within a state, check your state, county, or local consumer affairs agency (p. 112). 
 
- _Make sure the mover has insurance._ If furniture is damaged during the move, the mover&rsquo;s insurance should cover it. Ask how to file a complaint if there are limits to the coverage. For more information about the levels of mover&rsquo;s insurance coverage, visit link:$$http://www.protectyourmove.gov/consumer/awareness/valuation/valuation-insurance.htm$$[www.protectyourmove.gov/consumer/awareness/valuation/valuation-insurance.htm]. 
+_Make sure the mover has insurance._ If furniture is damaged during the move, the mover&rsquo;s insurance should cover it. Ask how to file a complaint if there are limits to the coverage. For more information about the levels of mover&rsquo;s insurance coverage, visit link:$$http://www.protectyourmove.gov/consumer/awareness/valuation/valuation-insurance.htm$$[www.protectyourmove.gov/consumer/awareness/valuation/valuation-insurance.htm]. 
 
- _Check the mover&rsquo;s record._ Contact your state or local consumer protection agency (p. 112) or the Better Business Bureau (p. 67) to see whether there is a history of complaints. 
+_Check the mover&rsquo;s record._ Contact your state or local consumer protection agency (p. 112) or the Better Business Bureau (p. 67) to see whether there is a history of complaints. 
 
- If you have a dispute with a moving company, you can file a complaint with the Federal Motor Carrier Safety Administration by calling 1-888-368-7238 or by visiting link:$$http://www.fmcsa.dot.gov$$[www.fmcsa.dot.gov]. 
+If you have a dispute with a moving company, you can file a complaint with the Federal Motor Carrier Safety Administration by calling 1-888-368-7238 or by visiting link:$$http://www.fmcsa.dot.gov$$[www.fmcsa.dot.gov]. 
 
 
 === Home Improvement And Repairs
 
- Home improvements and repairs can cost thousands of dollars and are the subject of frequent complaints. When selecting a contractor: 
+Home improvements and repairs can cost thousands of dollars and are the subject of frequent complaints. When selecting a contractor: 
 
 
 *  Get recommendations and references. Talk to friends, family, and others who have used the contractor for similar work. 
@@ -181,7 +181,7 @@ image::images/pdf5131_img_21.png[]
 
 .﻿Beware: Foreclosure Rescue Scams
 ****
- Scam artists often target homeowners who are struggling to meet  their mortgage commitment or are anxious to sell their homes.  Recognize and avoid common scams: 
+Scam artists often target homeowners who are struggling to meet  their mortgage commitment or are anxious to sell their homes.  Recognize and avoid common scams: 
 
 
 *  *Lease-back or rent-to-buy scams:*  You are asked to transfer  the title to your home &ldquo;temporarily&rdquo; to the scam artist who  promises to obtain better financing for your mortgage and  allow you to stay in your home as a renter with the option  to purchase the home back. However, if you do not comply  with the terms of the rent-to-buy agreement, you will lose  your money and be evicted like any other tenant. 
@@ -198,7 +198,7 @@ image::images/pdf5131_img_21.png[]
 
 *  *Refinance scams:* You  are encouraged to sign &ldquo;foreclosure rescue&rdquo; loan documents  to refinance your loan. In reality, you have surrendered  ownership of your home because the loan documents are  actually deed transfer documents. You may falsely believe  that your home has been saved from foreclosure until you  receive an eviction notice months or even years later. 
 
- Remember: Foreclosure assistance from a HUD-approved housing  counselor is free. Visit link:$$http://www.makinghomeaffordable.gov$$[www.makinghomeaffordable.gov] or call 1-800-569-4287. 
+Remember: Foreclosure assistance from a HUD-approved housing  counselor is free. Visit link:$$http://www.makinghomeaffordable.gov$$[www.makinghomeaffordable.gov] or call 1-800-569-4287. 
 
 
 ****
@@ -219,7 +219,7 @@ image::images/pdf5131_img_21.png[]
 
 *  Pay by credit card when you can. You may have the right to withhold payment to the credit card company until problems are corrected (see p. 13). 
 
- _Be especially cautious if the contractor:_ 
+_Be especially cautious if the contractor:_ 
 
 
 *  Comes door-to-door or seeks you out 
@@ -242,12 +242,12 @@ image::images/pdf5131_img_21.png[]
 
 *  Asks you to pay for the entire job up front 
 
- With most home improvements, federal law gives you three business days to cancel without penalty. See the 3-Day Cooling-Off Rule (p. 4). Of course, you would be liable for any benefit already received. State laws may also provide some protection. And remember, if you finance home improvements with a home equity loan (p. 16) and don&rsquo;t make your payments, you could lose your home. 
+With most home improvements, federal law gives you three business days to cancel without penalty. See the 3-Day Cooling-Off Rule (p. 4). Of course, you would be liable for any benefit already received. State laws may also provide some protection. And remember, if you finance home improvements with a home equity loan (p. 16) and don&rsquo;t make your payments, you could lose your home. 
 
 
 === Renting/Leasing
 
- A lease is an agreement that outlines the obligations of the owner and the tenants of a house or apartment. It is a legally binding document that courts will generally uphold in legal proceedings, so it is important for you to know the exact terms of the lease agreement before you sign it. Before agreeing to lease an apartment to you, a landlord may review your credit report, so you may want to get a copy before you start your apartment search. Some things to look for in a lease: 
+A lease is an agreement that outlines the obligations of the owner and the tenants of a house or apartment. It is a legally binding document that courts will generally uphold in legal proceedings, so it is important for you to know the exact terms of the lease agreement before you sign it. Before agreeing to lease an apartment to you, a landlord may review your credit report, so you may want to get a copy before you start your apartment search. Some things to look for in a lease: 
 
 
 *  Clauses that allow the landlord to change the terms of the lease after it is signed 
@@ -267,13 +267,13 @@ image::images/pdf5131_img_21.png[]
 
 *  Information regarding utility providers, how to arrange for service and whether the landlord or tenant is responsible for paying the bills (see Utilities, p. 52) 
 
- Read the lease carefully and discuss anything you don&rsquo;t understand or any issues you might have. All landlord responsibilities should be stated clearly. Always get a copy of the signed lease to keep in your records. Any clause or terms in the agreement affects ALL parties who sign. 
+Read the lease carefully and discuss anything you don&rsquo;t understand or any issues you might have. All landlord responsibilities should be stated clearly. Always get a copy of the signed lease to keep in your records. Any clause or terms in the agreement affects ALL parties who sign. 
 
- Check with the Better Business Bureau (p. 67) or your local consumer protection office (p. 112) to determine if your prospective landlord has any existing complaints from previous tenants. 
+Check with the Better Business Bureau (p. 67) or your local consumer protection office (p. 112) to determine if your prospective landlord has any existing complaints from previous tenants. 
 
- The Fair Housing Act protects tenants who lease or rent property. If you think your rights have been violated, you may write a letter to or call the HUD office nearest you (p. 102). You have  one year after the alleged violation to file a complaint with HUD, but you should file as soon as possible. 
+The Fair Housing Act protects tenants who lease or rent property. If you think your rights have been violated, you may write a letter to or call the HUD office nearest you (p. 102). You have  one year after the alleged violation to file a complaint with HUD, but you should file as soon as possible. 
 
- Each state has its own set of tenant rights, laws, and protections. For a state-by-state directory, visit link:$$http://www.hud.gov/local$$[www.hud.gov/local]. You can also find available public housing at link:$$http://www.hud.gov$$[www.hud.gov]. HUD (p. 102) offers several housing assistance programs for tenants and landlords as well as information on rights of residents and displaced tenants. 
+Each state has its own set of tenant rights, laws, and protections. For a state-by-state directory, visit link:$$http://www.hud.gov/local$$[www.hud.gov/local]. You can also find available public housing at link:$$http://www.hud.gov$$[www.hud.gov]. HUD (p. 102) offers several housing assistance programs for tenants and landlords as well as information on rights of residents and displaced tenants. 
 
 
 ==== Ten Tips for Renters

@@ -6,7 +6,7 @@
 
 image::images/pdf5131_img_25.png[]
 
- Identity thieves steal your personal information to commit fraud. They can damage your credit status and cost you time and money to restore your good name. To reduce your risk of becoming a victim, follow these tips: 
+Identity thieves steal your personal information to commit fraud. They can damage your credit status and cost you time and money to restore your good name. To reduce your risk of becoming a victim, follow these tips: 
 
 
 *  _Don&rsquo;t carry your Social Security card_ in your wallet or write your number on your checks. Only give out your SSN when absolutely necessary. 
@@ -47,7 +47,7 @@ image::images/pdf5131_img_25.png[]
 
 === Reporting Identity Theft
 
- If you suspect or become a victim of identity theft, follow these steps: 
+If you suspect or become a victim of identity theft, follow these steps: 
 
 
 *  _Report it to your financial institution._ Call the phone number on your account statement or on the back of your credit or debit card. 
@@ -58,14 +58,14 @@ image::images/pdf5131_img_25.png[]
 
 *  _Contact the credit reporting bureaus_ (p. 13) and ask them to flag your account with a fraud alert, which asks merchants not to grant new credit without your approval. 
 
- If your identity has been stolen, you can use an ID Theft affidavit to report the theft to most of the parties involved. All three credit bureaus and many major creditors accept the affidavit. Request a copy of the document by calling toll-free 1-877-ID-THEFT (438-4338) or visit link:$$http://www.ftc.gov/idtheft$$[www.ftc.gov/idtheft]. You can also use this website to file a complaint with the FTC. 
+If your identity has been stolen, you can use an ID Theft affidavit to report the theft to most of the parties involved. All three credit bureaus and many major creditors accept the affidavit. Request a copy of the document by calling toll-free 1-877-ID-THEFT (438-4338) or visit link:$$http://www.ftc.gov/idtheft$$[www.ftc.gov/idtheft]. You can also use this website to file a complaint with the FTC. 
 
- The FTC also publishes a series of publications about the importance of personal information privacy. To download copies, go to link:$$http://www.ftc.gov$$[www.ftc.gov] or request free copies of brochures by calling 1-877-FTC-HELP (382-4357). 
+The FTC also publishes a series of publications about the importance of personal information privacy. To download copies, go to link:$$http://www.ftc.gov$$[www.ftc.gov] or request free copies of brochures by calling 1-877-FTC-HELP (382-4357). 
 
 
 .If Your Wallet Is Stolen
 ****
- Your wallet contains some of your most important personal items, from hard-earned money to credit cards and driver&rsquo;s license. For an identity thief, your wallet offers a treasure trove of personal information. If your wallet is lost or stolen: 
+Your wallet contains some of your most important personal items, from hard-earned money to credit cards and driver&rsquo;s license. For an identity thief, your wallet offers a treasure trove of personal information. If your wallet is lost or stolen: 
 
 
 *  File a report with the police immediately. 
@@ -79,7 +79,7 @@ image::images/pdf5131_img_25.png[]
 
 *  Report your missing license to the department of  motor vehicles. 
 
- Visit  link:$$http://www.ftc.gov/opa/1996/08/purse.shtm$$[www.ftc.gov/opa/1996/08/purse.shtm] for a complete list of steps you should take. 
+Visit  link:$$http://www.ftc.gov/opa/1996/08/purse.shtm$$[www.ftc.gov/opa/1996/08/purse.shtm] for a complete list of steps you should take. 
 
 
 ****
@@ -88,12 +88,12 @@ image::images/pdf5131_img_25.png[]
 
 === Protecting Your Privacy
 
- Today, it&rsquo;s quick and easy to get a credit card approved, transfer money from one account to another, renew your driver&rsquo;s license, fill a prescription from your doctor at your local pharmacy, use store loyalty cards, and purchase products online. But you pay for this convenience by providing more opportunities for your personal information to be changed, stolen, or reported inaccurately. Companies can also use the information you have shared to direct their future marketing efforts or can sell the information to other companies. 
+Today, it&rsquo;s quick and easy to get a credit card approved, transfer money from one account to another, renew your driver&rsquo;s license, fill a prescription from your doctor at your local pharmacy, use store loyalty cards, and purchase products online. But you pay for this convenience by providing more opportunities for your personal information to be changed, stolen, or reported inaccurately. Companies can also use the information you have shared to direct their future marketing efforts or can sell the information to other companies. 
 
 
 .Child ID Theft
 ****
- Children are especially vulnerable to identity theft. The  danger is that child ID theft goes unnoticed for years, until the child becomes an adult and tries to apply for credit or to college. Scam artists use the stolen ID to get credit, jobs, medical care, and more. To protect your  child&rsquo;s future, shred all documents with their personal  information. Also check your child&rsquo;s credit report (if there  is a credit report, this is a clue that theft has occurred).  For more information contact the FTC (p. 107). 
+Children are especially vulnerable to identity theft. The  danger is that child ID theft goes unnoticed for years, until the child becomes an adult and tries to apply for credit or to college. Scam artists use the stolen ID to get credit, jobs, medical care, and more. To protect your  child&rsquo;s future, shred all documents with their personal  information. Also check your child&rsquo;s credit report (if there  is a credit report, this is a clue that theft has occurred).  For more information contact the FTC (p. 107). 
 
 
 
@@ -103,7 +103,7 @@ image::images/pdf5131_img_26.png[]
 ****
 
 
- To help protect your privacy, follow these tips: 
+To help protect your privacy, follow these tips: 
 
 
 *  Look for privacy statements on websites, sales materials, and forms you fill out. If a website claims to follow a set of established voluntary standards, read the standards. Don&rsquo;t assume it provides the level of privacy you want. 
@@ -117,12 +117,12 @@ image::images/pdf5131_img_26.png[]
 
 *  Discuss privacy with others in your home. Everyone, even children, should understand what information is not appropriate to share on the phone, while using a computer, and in other situations. 
 
- Check with your state or local consumer agency (p. 112) to find out whether any state laws help protect your privacy. Some companies and industry groups have also adopted voluntary policies that address privacy concerns. 
+Check with your state or local consumer agency (p. 112) to find out whether any state laws help protect your privacy. Some companies and industry groups have also adopted voluntary policies that address privacy concerns. 
 
 
 === Financial Privacy
 
- The FDIC (p. 106) and other federal regulators require banks, insurance companies, brokerage firms, and certain businesses that share financial information to inform you of their privacy policies. They must give you this information when you open an account and at least once every year. This includes: 
+The FDIC (p. 106) and other federal regulators require banks, insurance companies, brokerage firms, and certain businesses that share financial information to inform you of their privacy policies. They must give you this information when you open an account and at least once every year. This includes: 
 
 
 *  The kinds of information being collected 
@@ -133,27 +133,27 @@ image::images/pdf5131_img_26.png[]
 
 *  What types of businesses may be provided this information 
 
- If a business is going to share the information with anyone outside its corporate family, it must also give you the chance to &ldquo;opt out&rdquo; or say no to information sharing. Even if you don&rsquo;t opt out, your account numbers may not be shared with third parties for marketing purposes. 
+If a business is going to share the information with anyone outside its corporate family, it must also give you the chance to &ldquo;opt out&rdquo; or say no to information sharing. Even if you don&rsquo;t opt out, your account numbers may not be shared with third parties for marketing purposes. 
 
- You cannot prevent certain types of information from being shared, including information needed to conduct normal business or protect  against fraud, or information that is already publicly available. Also, a bank can share your information with a partner company to market products. 
+You cannot prevent certain types of information from being shared, including information needed to conduct normal business or protect  against fraud, or information that is already publicly available. Also, a bank can share your information with a partner company to market products. 
 
 
 .Tax ID Theft
 ****
- Identity theft occurs when someone uses your personal information such as your name, Social Security number (SSN), or other identifying information, without your permission, to commit fraud or other crimes. Usually, an identity thief uses a legitimate taxpayer&rsquo;s identity to file a tax return fraudulently and claim  a refund early in the filing season. 
+Identity theft occurs when someone uses your personal information such as your name, Social Security number (SSN), or other identifying information, without your permission, to commit fraud or other crimes. Usually, an identity thief uses a legitimate taxpayer&rsquo;s identity to file a tax return fraudulently and claim  a refund early in the filing season. 
 
- If you believe someone has used your SSN fraudulently, contact the  IRS immediately at 1-800-908-4490. You will need to fill out the  IRS Identity Theft Affidavit, Form 14039. For more information, visit  link:$$http://www.irs.gov/uac/Taxpayer-Guide-to-Identity-Theft$$[www.irs.gov/uac/Taxpayer-Guide-to-Identity-Theft]. 
+If you believe someone has used your SSN fraudulently, contact the  IRS immediately at 1-800-908-4490. You will need to fill out the  IRS Identity Theft Affidavit, Form 14039. For more information, visit  link:$$http://www.irs.gov/uac/Taxpayer-Guide-to-Identity-Theft$$[www.irs.gov/uac/Taxpayer-Guide-to-Identity-Theft]. 
 
 
 ****
 
 
- Your credit information has additional privacy protections under the FCRA. Only people with a legitimate business need can get a copy of your report. An employer can only get your report with your written consent. For more information on your rights under this federal law, and to find out how you can get a copy of your credit reports, see Credit Reports and Scores on page 13. 
+Your credit information has additional privacy protections under the FCRA. Only people with a legitimate business need can get a copy of your report. An employer can only get your report with your written consent. For more information on your rights under this federal law, and to find out how you can get a copy of your credit reports, see Credit Reports and Scores on page 13. 
 
 
 === Medical Privacy
 
- Personal information you give to your doctor is shared with insurance companies, pharmacies, researchers, and employers based on specific regulations. The privacy of your health records is protected by federal law, specifically under the Health Insurance Portability and Accountability Act, also known as HIPAA. HIPAA: 
+Personal information you give to your doctor is shared with insurance companies, pharmacies, researchers, and employers based on specific regulations. The privacy of your health records is protected by federal law, specifically under the Health Insurance Portability and Accountability Act, also known as HIPAA. HIPAA: 
 
 
 *  Defines your rights over your health information 
@@ -164,9 +164,9 @@ image::images/pdf5131_img_26.png[]
 
 .Create Secure Passwords
 ****
- The number of passwords you need daily can be overwhelming. It is tempting to use the same password across several sites; however to get the most protection available, you should use different passwords on each site and change your passwords periodically. The goal for creating passwords is to strike a balance between being something that is easy to remember and unique. 
+The number of passwords you need daily can be overwhelming. It is tempting to use the same password across several sites; however to get the most protection available, you should use different passwords on each site and change your passwords periodically. The goal for creating passwords is to strike a balance between being something that is easy to remember and unique. 
 
- Some general tips for creating a secure password include: 
+Some general tips for creating a secure password include: 
 
 
 *  Use a mix of uppercase and lowercase letters, numbers, and special characters. 
@@ -187,18 +187,18 @@ image::images/pdf5131_img_26.png[]
 ****
 
 
- The U.S. Department of Health and Human Services, Office for Civil Rights (link:$$http://www.dhhs.gov/ocr$$[] or 1-800368-1019) is an excellent resource for complete details and advice about the HIPAA ruling. The Office for Civil Rights provides a listing of resources for consumers, providers, and advocates, along with fact sheets and other educational materials. 
+The U.S. Department of Health and Human Services, Office for Civil Rights (link:$$http://www.dhhs.gov/ocr$$[] or 1-800368-1019) is an excellent resource for complete details and advice about the HIPAA ruling. The Office for Civil Rights provides a listing of resources for consumers, providers, and advocates, along with fact sheets and other educational materials. 
 
- You can request a copy of your medical records from the provider or from the hospital where medical services were provided. You will probably be charged a fee to cover retrieving and mailing copies to you. 
+You can request a copy of your medical records from the provider or from the hospital where medical services were provided. You will probably be charged a fee to cover retrieving and mailing copies to you. 
 
- If you believe that a person, agency, or organization covered under the HIPAA Privacy Rule violated your health information privacy rights or committed another violation of the Privacy Rule, you may be able to file a written complaint with the Department of Health and Human Services, Office for Civil Rights (p. 98). 
+If you believe that a person, agency, or organization covered under the HIPAA Privacy Rule violated your health information privacy rights or committed another violation of the Privacy Rule, you may be able to file a written complaint with the Department of Health and Human Services, Office for Civil Rights (p. 98). 
 
- For more information on how the federal government protects your personal health information, visit the U.S. Department of Health and Human Services, Office for Civil Rights website at link:$$http://www.hhs.gov/ocr/privacy$$[www.hhs.gov/ocr/privacy]. 
+For more information on how the federal government protects your personal health information, visit the U.S. Department of Health and Human Services, Office for Civil Rights website at link:$$http://www.hhs.gov/ocr/privacy$$[www.hhs.gov/ocr/privacy]. 
 
 
 === Online Privacy
 
- In addition to following the general advice on protecting your privacy, make sure you only use websites with acceptable privacy policies. 
+In addition to following the general advice on protecting your privacy, make sure you only use websites with acceptable privacy policies. 
 
 
 *  Look for a privacy policy statement or seal that indicates the site abides by privacy standards. Take the time to read how your privacy is protected. 
@@ -206,5 +206,5 @@ image::images/pdf5131_img_26.png[]
 
 *  Look for signals that you are using a secure web page. A secure site encrypts or scrambles personal information so it cannot be intercepted easily. Signals include a screen notice that says you are on a secure site, a closed padlock or unbroken key in the bottom corner of your screen, or the first letters of the Internet address you are viewing change from &ldquo;http&rdquo; to &ldquo;https.&rdquo; 
 
- Another threat to your privacy is spyware, software that is secretly installed when you download screensavers, games, music, and other applications. Spyware sends information about your online activities to a third party, usually to target you with pop-up ads. Browsers like Internet Explorer and Firefox, and search engines like Google and Bing, enable you to block pop-ups. You can also install anti-spyware software to stop this threat to your privacy. For more information, see Internet on page 41. 
+Another threat to your privacy is spyware, software that is secretly installed when you download screensavers, games, music, and other applications. Spyware sends information about your online activities to a third party, usually to target you with pop-up ads. Browsers like Internet Explorer and Firefox, and search engines like Google and Bing, enable you to block pop-ups. You can also install anti-spyware software to stop this threat to your privacy. For more information, see Internet on page 41. 
 

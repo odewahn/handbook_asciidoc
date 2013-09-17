@@ -6,9 +6,9 @@
 
 image::images/pdf5131_img_22.png[]
 
- General sources of insurance information include the American Council of Life Insurers (p. 142), the Insurance Information Institute (p. 144), the National Association of Insurance Commissioners (p. 145), and your state insurance department (p. 130). You can also visit link:$$http://www.insure.com$$[www.insure.com]. 
+General sources of insurance information include the American Council of Life Insurers (p. 142), the Insurance Information Institute (p. 144), the National Association of Insurance Commissioners (p. 145), and your state insurance department (p. 130). You can also visit link:$$http://www.insure.com$$[www.insure.com]. 
 
- When buying any type of insurance (home, life, auto, rental, or other), you should: 
+When buying any type of insurance (home, life, auto, rental, or other), you should: 
 
 
 *  Find out whether your state insurance department (p. 130) offers  any information concerning insurance companies and rates. This is a good way to get a feeling for the range of prices and the lowest-cost providers in your area. 
@@ -31,14 +31,14 @@ image::images/pdf5131_img_22.png[]
 
 *  Once you pay your first insurance premium, make sure you receive a written policy. This tells you that the agent forwarded your premium to the insurance company. If you don&rsquo;t receive a policy within 60 days, contact your agent and the insurance company. 
 
- If you suspect fraud, call the National Insurance Crime Bureau&rsquo;s hotline, 1-800-835-6422. For more information, check out link:$$http://www.insurancefraud.org$$[www.insurancefraud.org]. 
+If you suspect fraud, call the National Insurance Crime Bureau&rsquo;s hotline, 1-800-835-6422. For more information, check out link:$$http://www.insurancefraud.org$$[www.insurancefraud.org]. 
 
 
 === Auto Insurance
 
- The requirements for auto insurance vary from state to state. Check with your state insurance regulator (p. 130) to learn more about individual requirements as well as insurers you may be considering for your policy. 
+The requirements for auto insurance vary from state to state. Check with your state insurance regulator (p. 130) to learn more about individual requirements as well as insurers you may be considering for your policy. 
 
- To get the best coverage at the best price, get several quotes from insurance companies; it may save you hundreds of dollars a year. Other ways to reduce your insurance premium include: 
+To get the best coverage at the best price, get several quotes from insurance companies; it may save you hundreds of dollars a year. Other ways to reduce your insurance premium include: 
 
 
 *  Raise your deductible on collision and comprehensive coverage. If you have an older car, you might want to drop this coverage altogether. 
@@ -46,12 +46,12 @@ image::images/pdf5131_img_22.png[]
 
 *  Take advantage of discounts. You may be eligible for a discount based on the number of miles you drive; your age (turning 25 or 50); your good grades if you are a student; your driving record (no moving vehicle violations or accidents in three years); or if you&rsquo;ve taken a safe-driving course. You might also be able to get discounts if you insure more than one vehicle, insure your vehicle and your home with the same company, have anti-theft devices, or have safety features such as air bags or anti-lock brake system. 
 
- You can also find valuable information about car ownership in Cars (p. 11), as well as information about insurance for rental cars. 
+You can also find valuable information about car ownership in Cars (p. 11), as well as information about insurance for rental cars. 
 
 
 === Disability Insurance
 
- Disability can be more disastrous financially than death. If you are disabled, you lose your earning power, but you still have living expenses and often huge fees for medical care. Disability insurance helps you replace lost income. Many employers offer some type of disability insurance coverage for employees, or you can get an individual disability insurance policy. There are two types of disability policies: short-term disability (STD) and long-term disability (LTD). Short-term disability policies have a maximum benefit of two years, while long-term disability policies have benefits that can last the rest of your life. When purchasing disability insurance, ask: 
+Disability can be more disastrous financially than death. If you are disabled, you lose your earning power, but you still have living expenses and often huge fees for medical care. Disability insurance helps you replace lost income. Many employers offer some type of disability insurance coverage for employees, or you can get an individual disability insurance policy. There are two types of disability policies: short-term disability (STD) and long-term disability (LTD). Short-term disability policies have a maximum benefit of two years, while long-term disability policies have benefits that can last the rest of your life. When purchasing disability insurance, ask: 
 
 
 *  _How is disability defined?_ Some policies consider you disabled if you are unable to perform the duties of any job. Better plans pay benefits if you are unable to do the usual duties of your own occupation. 
@@ -62,16 +62,16 @@ image::images/pdf5131_img_22.png[]
 
 .Insurance Vocabulary
 ****
- __Claim__—a request for your insurance provider to pay for services provided by a medical professional 
+__Claim__—a request for your insurance provider to pay for services provided by a medical professional 
 
- __Co-payment (co-pay)__—the amount, set by your insurer, that you pay when you receive medical service or for a prescription 
+__Co-payment (co-pay)__—the amount, set by your insurer, that you pay when you receive medical service or for a prescription 
 
- __Deductible__—amount you must pay before your insurance company will pay a claim. There are multiple types of deductibles, but in general, a lower deducible will have a higher-cost policy. 
+__Deductible__—amount you must pay before your insurance company will pay a claim. There are multiple types of deductibles, but in general, a lower deducible will have a higher-cost policy. 
 
- __Explanation of benefits (EOB)__—a statement from your health insurance company that shows what  claims it has paid on your behalf
+__Explanation of benefits (EOB)__—a statement from your health insurance company that shows what  claims it has paid on your behalf
 
 
- Visit link:$$http://www.HealthCare.gov$$[www.HealthCare.gov] for more important definitions related to health insurance. 
+Visit link:$$http://www.HealthCare.gov$$[www.HealthCare.gov] for more important definitions related to health insurance. 
 
 
 ****
@@ -83,7 +83,7 @@ image::images/pdf5131_img_22.png[]
 
 *  _What dollar amount is promised?_ Can benefits be reduced by Social Security disability and workers&rsquo; compensation payments? Are the benefits adjusted for inflation? Will the policy provider continue making contributions to your pension plan so you have retirement benefits when the disability coverage ends? 
 
- For more information on disability insurance, visit link:$$http://www.iii.org$$[www.iii.org]. 
+For more information on disability insurance, visit link:$$http://www.iii.org$$[www.iii.org]. 
 
 
 === Health Insurance
@@ -91,7 +91,7 @@ image::images/pdf5131_img_22.png[]
 
 ==== Affordable Care Act
 
- The 2010 Affordable Care Act (ACA) puts in place comprehensive health insurance reforms that will roll out over several years. Most provisions will take effect by 2014; a timeline is available at link:$$healthcare.gov/law/timeline$$[healthcare.gov/law/timeline]. The law is intended to lower health care costs, provide more health care choices, and enhance the quality of health care for all Americans. Major provisions affecting consumers include: 
+The 2010 Affordable Care Act (ACA) puts in place comprehensive health insurance reforms that will roll out over several years. Most provisions will take effect by 2014; a timeline is available at link:$$healthcare.gov/law/timeline$$[healthcare.gov/law/timeline]. The law is intended to lower health care costs, provide more health care choices, and enhance the quality of health care for all Americans. Major provisions affecting consumers include: 
 
 
 *  Coverage for seniors who hit the Medicare Prescription Drug &ldquo;donut hole,&rdquo; including a rebate for those who reach the gap in drug coverage. 
@@ -111,16 +111,16 @@ image::images/pdf5131_img_22.png[]
 
 *  In 2013, you can set aside up to $2,500 in a flexible spending account (FSA) for medical expenses that aren&rsquo;t covered by insurance. 
 
- For more information about the law as well as basic information about health insurance, go to link:$$http://www.healthcare.gov$$[www.healthcare.gov]. 
+For more information about the law as well as basic information about health insurance, go to link:$$http://www.healthcare.gov$$[www.healthcare.gov]. 
 
 
 ==== Group Policies
 
- Many consumers have health care coverage from their employers. Others have medical care paid through a government program such as Medicare (p. 100), Medicaid (p. 100), or the Veterans Health  Administration (p. 105). 
+Many consumers have health care coverage from their employers. Others have medical care paid through a government program such as Medicare (p. 100), Medicaid (p. 100), or the Veterans Health  Administration (p. 105). 
 
- If you have lost your group coverage from an employer as the result of unemployment, death, divorce, or loss of &ldquo;dependent child&rdquo; status, you may be able to continue your coverage temporarily under the Consolidated Omnibus Budget Reconciliation Act (COBRA). You, not the employer, pay for this coverage. When one of these events  occurs, you must be given at least 60 days to decide whether you wish to purchase the coverage. 
+If you have lost your group coverage from an employer as the result of unemployment, death, divorce, or loss of &ldquo;dependent child&rdquo; status, you may be able to continue your coverage temporarily under the Consolidated Omnibus Budget Reconciliation Act (COBRA). You, not the employer, pay for this coverage. When one of these events  occurs, you must be given at least 60 days to decide whether you wish to purchase the coverage. 
 
- Some states offer an insurance pool to residents who are unable to obtain coverage  because of a health condition. To find out whether a pool is available in your state, check with your state department of insurance (p. 130). 
+Some states offer an insurance pool to residents who are unable to obtain coverage  because of a health condition. To find out whether a pool is available in your state, check with your state department of insurance (p. 130). 
 
 
 
@@ -129,7 +129,7 @@ image::images/pdf5131_img_23.png[]
 
 ==== Medicare and Medicaid
 
- There are also health insurance programs for people who are seniors, disabled, or have low incomes. 
+There are also health insurance programs for people who are seniors, disabled, or have low incomes. 
 
 
 *  _Medicaid_ provides health insurance for people with low incomes, children, and pregnant women. Eligibility is determined by your state. 
@@ -137,14 +137,14 @@ image::images/pdf5131_img_23.png[]
 
 *  _Medicare_ provides health insurance for people who are 65 years or older, some younger people with disabilities, and those with kidney failure. 
 
- Contact the Centers for Medicare &amp; Medicaid Services  (p. 100) for more information on benefits. 
+Contact the Centers for Medicare &amp; Medicaid Services  (p. 100) for more information on benefits. 
 
- Most states also offer free or low-cost coverage for children who do not have health insurance. Visit link:$$http://www.insurekidsnow.gov$$[www.insurekidsnow.gov] or call 1-877-KIDS-NOW (543-7669) for more information. 
+Most states also offer free or low-cost coverage for children who do not have health insurance. Visit link:$$http://www.insurekidsnow.gov$$[www.insurekidsnow.gov] or call 1-877-KIDS-NOW (543-7669) for more information. 
 
 
 === Health Care Plans
 
- When purchasing health insurance, your choices typically will fall into one of three categories: 
+When purchasing health insurance, your choices typically will fall into one of three categories: 
 
 
 *  _Traditional_ fee-for-service health insurance plans are usually the most expensive choice, but they offer you the most flexibility in choosing health care providers. 
@@ -155,9 +155,9 @@ image::images/pdf5131_img_23.png[]
 
 *  _Preferred provider organizations (PPOs)_ offer lower co-payments like HMOs, but give you more flexibility in selecting a provider. A PPO gives you a list of providers you can choose from. 
 
- _WARNING: If you go outside the HMO or PPO network of providers, you may have to pay a portion or all of the cost._ 
+_WARNING: If you go outside the HMO or PPO network of providers, you may have to pay a portion or all of the cost._ 
 
- When choosing among different health care plans, you&rsquo;ll need to read the fine print and ask lots of questions, such as: 
+When choosing among different health care plans, you&rsquo;ll need to read the fine print and ask lots of questions, such as: 
 
 
 *  Do I have the right to go to any doctor, hospital, clinic, or pharmacy I choose? 
@@ -186,7 +186,7 @@ image::images/pdf5131_img_23.png[]
 
 === Homeowners/Renters Insurance
 
- You may be able to save hundreds of dollars a year on homeowners insurance by shopping around. You can also save money by following these tips: 
+You may be able to save hundreds of dollars a year on homeowners insurance by shopping around. You can also save money by following these tips: 
 
 
 *  Consider a higher deductible. Increasing your deductible by just a few hundred dollars can make a big difference in your premiums. 
@@ -215,22 +215,22 @@ image::images/pdf5131_img_23.png[]
 
 === Life Insurance
 
- Your need for life insurance will change with changes in your life. For example, the arrival of children usually triggers a sharp increase in the amount you will need. As children grow older and leave the nest, you will probably need less protection. You should also consider your life insurance policies as you are planning for retirement (p. 37). 
+Your need for life insurance will change with changes in your life. For example, the arrival of children usually triggers a sharp increase in the amount you will need. As children grow older and leave the nest, you will probably need less protection. You should also consider your life insurance policies as you are planning for retirement (p. 37). 
 
- Term life insurance policies are the least costly. They pay death benefits but have no cash value if you decide to stop making payments. As the word &ldquo;term&rdquo; suggests, these policies are in effect for a specific period—one year or until you reach a certain age are common. Visit link:$$http://www.accuquote.com$$[www.accuquote.com] for online comparisons of term life insurance. 
+Term life insurance policies are the least costly. They pay death benefits but have no cash value if you decide to stop making payments. As the word &ldquo;term&rdquo; suggests, these policies are in effect for a specific period—one year or until you reach a certain age are common. Visit link:$$http://www.accuquote.com$$[www.accuquote.com] for online comparisons of term life insurance. 
 
- Whole life, universal life, and other cash value policies combine a long-term savings and investment product with life insurance. Canceling these policies after only a few years can more than double your life insurance costs. 
+Whole life, universal life, and other cash value policies combine a long-term savings and investment product with life insurance. Canceling these policies after only a few years can more than double your life insurance costs. 
 
- If you have misplaced a life insurance policy, your state&rsquo;s insurance commission may be able to help you locate it. Or you can search for it at link:$$http://www.policylocator.org$$[www.policylocator.org]. If the insurance company knows that an insured person has died, but cannot locate the beneficiaries, the company must turn the benefits over to the state&rsquo;s unclaimed property office. Check  with that office if you believe that you are due a benefit. 
+If you have misplaced a life insurance policy, your state&rsquo;s insurance commission may be able to help you locate it. Or you can search for it at link:$$http://www.policylocator.org$$[www.policylocator.org]. If the insurance company knows that an insured person has died, but cannot locate the beneficiaries, the company must turn the benefits over to the state&rsquo;s unclaimed property office. Check  with that office if you believe that you are due a benefit. 
 
- You can avoid losing your life insurance policy by alerting the policy beneficiaries and filing a copy with your will. 
+You can avoid losing your life insurance policy by alerting the policy beneficiaries and filing a copy with your will. 
 
 
 === Long-Term Care Insurance
 
- Medical advances have resulted in greater need for nursing home care and assisted living. Most health insurance plans and Medicare severely limit or exclude long-term care. You should consider these costs as you plan for your retirement (p. 37). 
+Medical advances have resulted in greater need for nursing home care and assisted living. Most health insurance plans and Medicare severely limit or exclude long-term care. You should consider these costs as you plan for your retirement (p. 37). 
 
- Here are some questions to ask when considering a separate long-term care insurance policy: 
+Here are some questions to ask when considering a separate long-term care insurance policy: 
 
 
 *  _What qualifies you for benefits?_ Some insurers say you must be unable to perform a specific number of the following activities of daily living: eating, walking, getting from bed to a chair, dressing, bathing, using the restroom, and remaining continent. 
